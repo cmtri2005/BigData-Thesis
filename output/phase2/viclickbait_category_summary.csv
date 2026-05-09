@@ -1,0 +1,14 @@
+﻿category,n_clickbait,n_total,cb_rate,delta_vs_global,enough_for_holdout,risk_level
+Other,300,1117,26.86,-4.34,True,Low
+Thể thao,84,325,25.85,-5.35,True,Low
+Quốc tế,60,241,24.9,-6.3,True,Low
+Giải trí & Showbiz,168,238,70.59,39.39,True,High
+Sức khỏe & Đời sống,130,228,57.02,25.82,True,High
+Công nghệ & Khoa học,78,220,35.45,4.25,True,Low
+Kinh doanh & Kinh tế,64,204,31.37,0.17,True,Low
+Tin tức tổng hợp,8,197,4.06,-27.14,True,High
+Chính trị & An ninh,29,173,16.76,-14.44,True,Medium
+Giáo dục & Học đường,37,160,23.12,-8.08,True,Low
+Xe & Vận tải,50,137,36.5,5.3,True,Low
+Du lịch & Ẩm thực,47,109,43.12,11.92,True,Medium
+Văn hóa & Nghệ thuật,10,65,15.38,-15.82,False,Low

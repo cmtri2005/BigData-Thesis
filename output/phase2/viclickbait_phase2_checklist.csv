@@ -1,0 +1,13 @@
+﻿Output roadmap,Status,Notebook section
+Kiểm tra schema,DONE,Section 3
+Missing values,DONE,Section 4
+Exact duplicate,DONE,Section 5
+Normalized/near duplicate,DONE,Section 5
+Label distribution,DONE,Section 6
+Source distribution và cb_rate,DONE,Section 7
+Category distribution và cb_rate,DONE,Section 8
+Temporal distribution,DONE,Section 9
+Title length và surface cues,DONE,Section 10-11
+Lead paragraph analysis,DONE,Section 12
+Lexical features cho explainability,DONE,Section 13
+Danh sách rủi ro dataset,DONE,Final summary

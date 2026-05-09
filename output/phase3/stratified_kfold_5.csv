@@ -1,0 +1,3415 @@
+id,label,label_str,source,category,duplicate_group,fold
+article_0011,0,Non-clickbait,VnExpress,Tin tức tổng hợp,5,0
+article_0013,0,Non-clickbait,VnExpress,Tin tức tổng hợp,7,0
+article_0021,0,Non-clickbait,VnExpress,Tin tức tổng hợp,15,0
+article_0023,0,Non-clickbait,VnExpress,Tin tức tổng hợp,17,0
+article_0024,0,Non-clickbait,VnExpress,Tin tức tổng hợp,18,0
+article_0028,0,Non-clickbait,VnExpress,Tin tức tổng hợp,22,0
+article_0032,0,Non-clickbait,VnExpress,Tin tức tổng hợp,26,0
+article_0036,0,Non-clickbait,VnExpress,Tin tức tổng hợp,30,0
+article_0042,0,Non-clickbait,VnExpress,Tin tức tổng hợp,36,0
+article_0043,0,Non-clickbait,VnExpress,Tin tức tổng hợp,37,0
+article_0047,0,Non-clickbait,VnExpress,Tin tức tổng hợp,41,0
+article_0057,0,Non-clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,51,0
+article_0061,1,Clickbait,Tuổi Trẻ,Other,54,0
+article_0072,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,63,0
+article_0076,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,67,0
+article_0078,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,69,0
+article_0080,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,71,0
+article_0088,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,79,0
+article_0095,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,85,0
+article_0102,0,Non-clickbait,Thanh Niên,Other,92,0
+article_0109,0,Non-clickbait,VietNamNet,Chính trị & An ninh,99,0
+article_0113,0,Non-clickbait,VietNamNet,Chính trị & An ninh,103,0
+article_0118,0,Non-clickbait,VietNamNet,Chính trị & An ninh,107,0
+article_0131,0,Non-clickbait,VietNamNet,Chính trị & An ninh,120,0
+article_0132,0,Non-clickbait,VietNamNet,Chính trị & An ninh,121,0
+article_0141,1,Clickbait,Kênh14,Sức khỏe & Đời sống,2506,0
+article_0143,1,Clickbait,Kênh14,Sức khỏe & Đời sống,2508,0
+article_0149,1,Clickbait,SaoStar,Giải trí & Showbiz,2514,0
+article_0153,1,Clickbait,SaoStar,Giải trí & Showbiz,131,0
+article_0155,1,Clickbait,SaoStar,Giải trí & Showbiz,133,0
+article_0160,1,Clickbait,SaoStar,Giải trí & Showbiz,2516,0
+article_0162,1,Clickbait,SaoStar,Giải trí & Showbiz,137,0
+article_0164,1,Clickbait,SaoStar,Giải trí & Showbiz,139,0
+article_0167,1,Clickbait,SaoStar,Giải trí & Showbiz,142,0
+article_0170,1,Clickbait,SaoStar,Giải trí & Showbiz,144,0
+article_0173,1,Clickbait,SaoStar,Giải trí & Showbiz,147,0
+article_0175,1,Clickbait,SaoStar,Giải trí & Showbiz,149,0
+article_0181,0,Non-clickbait,24h,Tin tức tổng hợp,155,0
+article_0183,0,Non-clickbait,24h,Tin tức tổng hợp,157,0
+article_0184,0,Non-clickbait,24h,Tin tức tổng hợp,158,0
+article_0188,0,Non-clickbait,24h,Tin tức tổng hợp,161,0
+article_0189,0,Non-clickbait,24h,Tin tức tổng hợp,162,0
+article_0192,0,Non-clickbait,24h,Tin tức tổng hợp,165,0
+article_0196,0,Non-clickbait,24h,Tin tức tổng hợp,167,0
+article_0199,0,Non-clickbait,24h,Tin tức tổng hợp,169,0
+article_0209,0,Non-clickbait,24h,Tin tức tổng hợp,179,0
+article_0211,0,Non-clickbait,24h,Tin tức tổng hợp,181,0
+article_0212,1,Clickbait,24h,Tin tức tổng hợp,182,0
+article_0213,1,Clickbait,24h,Tin tức tổng hợp,2520,0
+article_0215,0,Non-clickbait,24h,Tin tức tổng hợp,2522,0
+article_0220,0,Non-clickbait,Báo Mới,Thể thao,186,0
+article_0224,1,Clickbait,Báo Mới,Thể thao,2527,0
+article_0230,0,Non-clickbait,Báo Mới,Thể thao,191,0
+article_0243,0,Non-clickbait,Báo Mới,Thể thao,196,0
+article_0246,0,Non-clickbait,Báo Mới,Thể thao,198,0
+article_0251,0,Non-clickbait,Báo Mới,Thể thao,2538,0
+article_0273,1,Clickbait,Báo Mới,Thể thao,222,0
+article_0276,0,Non-clickbait,VnExpress,Quốc tế,2541,0
+article_0277,0,Non-clickbait,VnExpress,Quốc tế,225,0
+article_0279,0,Non-clickbait,VnExpress,Quốc tế,226,0
+article_0284,0,Non-clickbait,VnExpress,Quốc tế,229,0
+article_0286,0,Non-clickbait,VnExpress,Quốc tế,231,0
+article_0300,0,Non-clickbait,VnExpress,Quốc tế,244,0
+article_0302,0,Non-clickbait,VnExpress,Quốc tế,2544,0
+article_0304,1,Clickbait,VnExpress,Quốc tế,2546,0
+article_0308,1,Clickbait,VnExpress,Quốc tế,2549,0
+article_0310,0,Non-clickbait,VnExpress,Quốc tế,247,0
+article_0314,0,Non-clickbait,VnExpress,Quốc tế,251,0
+article_0318,0,Non-clickbait,VnExpress,Quốc tế,255,0
+article_0320,0,Non-clickbait,VnExpress,Quốc tế,257,0
+article_0326,0,Non-clickbait,Tuổi Trẻ,Quốc tế,263,0
+article_0331,0,Non-clickbait,Tuổi Trẻ,Quốc tế,267,0
+article_0339,0,Non-clickbait,Tuổi Trẻ,Other,274,0
+article_0341,0,Non-clickbait,Tuổi Trẻ,Quốc tế,276,0
+article_0354,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,287,0
+article_0356,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,289,0
+article_0359,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,292,0
+article_0362,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,295,0
+article_0371,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,302,0
+article_0375,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,306,0
+article_0379,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,310,0
+article_0393,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,2557,0
+article_0401,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,325,0
+article_0405,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,328,0
+article_0408,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,331,0
+article_0410,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,333,0
+article_0411,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,334,0
+article_0422,1,Clickbait,Kênh14,Thể thao,343,0
+article_0427,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,348,0
+article_0428,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2562,0
+article_0435,1,Clickbait,SaoStar,Sức khỏe & Đời sống,354,0
+article_0439,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,355,0
+article_0442,1,Clickbait,SaoStar,Sức khỏe & Đời sống,358,0
+article_0446,1,Clickbait,SaoStar,Sức khỏe & Đời sống,361,0
+article_0448,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2568,0
+article_0450,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2569,0
+article_0452,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,364,0
+article_0462,0,Non-clickbait,24h,Quốc tế,370,0
+article_0463,0,Non-clickbait,24h,Quốc tế,371,0
+article_0467,0,Non-clickbait,24h,Quốc tế,375,0
+article_0471,0,Non-clickbait,24h,Quốc tế,378,0
+article_0474,0,Non-clickbait,24h,Quốc tế,381,0
+article_0475,1,Clickbait,24h,Quốc tế,2575,0
+article_0486,0,Non-clickbait,24h,Quốc tế,389,0
+article_0488,0,Non-clickbait,24h,Quốc tế,391,0
+article_0490,0,Non-clickbait,24h,Tin tức tổng hợp,393,0
+article_0493,1,Clickbait,24h,Quốc tế,2579,0
+article_0495,0,Non-clickbait,Báo Mới,Quốc tế,2581,0
+article_0500,0,Non-clickbait,Báo Mới,Quốc tế,400,0
+article_0501,0,Non-clickbait,Báo Mới,Quốc tế,401,0
+article_0502,0,Non-clickbait,Báo Mới,Quốc tế,402,0
+article_0504,1,Clickbait,Báo Mới,Quốc tế,2582,0
+article_0511,0,Non-clickbait,Báo Mới,Quốc tế,408,0
+article_0516,0,Non-clickbait,Báo Mới,Quốc tế,411,0
+article_0521,0,Non-clickbait,Báo Mới,Quốc tế,414,0
+article_0527,0,Non-clickbait,Báo Mới,Quốc tế,420,0
+article_0536,0,Non-clickbait,Báo Mới,Quốc tế,425,0
+article_0541,0,Non-clickbait,Báo Mới,Quốc tế,430,0
+article_0542,0,Non-clickbait,Báo Mới,Quốc tế,431,0
+article_0551,0,Non-clickbait,Báo Mới,Quốc tế,438,0
+article_0562,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,445,0
+article_0563,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,446,0
+article_0576,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,458,0
+article_0585,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,465,0
+article_0586,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,466,0
+article_0588,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,468,0
+article_0589,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,469,0
+article_0596,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,476,0
+article_0599,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,479,0
+article_0608,1,Clickbait,Tuổi Trẻ,Chính trị & An ninh,2598,0
+article_0611,0,Non-clickbait,Tuổi Trẻ,Other,490,0
+article_0613,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,492,0
+article_0615,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,494,0
+article_0619,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,496,0
+article_0630,0,Non-clickbait,Thanh Niên,Other,506,0
+article_0633,0,Non-clickbait,Thanh Niên,Quốc tế,509,0
+article_0645,1,Clickbait,Thanh Niên,Quốc tế,2604,0
+article_0646,0,Non-clickbait,Thanh Niên,Quốc tế,519,0
+article_0649,0,Non-clickbait,Thanh Niên,Other,521,0
+article_0658,0,Non-clickbait,Thanh Niên,Other,2611,0
+article_0659,1,Clickbait,Thanh Niên,Other,2612,0
+article_0664,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,526,0
+article_0666,1,Clickbait,VietNamNet,Kinh doanh & Kinh tế,2616,0
+article_0667,1,Clickbait,VietNamNet,Kinh doanh & Kinh tế,2617,0
+article_0671,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,529,0
+article_0672,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,530,0
+article_0676,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,533,0
+article_0677,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,534,0
+article_0687,1,Clickbait,VietNamNet,Kinh doanh & Kinh tế,543,0
+article_0689,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,545,0
+article_0691,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,547,0
+article_0694,1,Clickbait,Kênh14,Giải trí & Showbiz,550,0
+article_0706,0,Non-clickbait,SaoStar,Quốc tế,2630,0
+article_0707,1,Clickbait,SaoStar,Quốc tế,2631,0
+article_0722,1,Clickbait,SaoStar,Quốc tế,2641,0
+article_0724,1,Clickbait,SaoStar,Quốc tế,559,0
+article_0726,1,Clickbait,SaoStar,Quốc tế,2644,0
+article_0729,1,Clickbait,24h,Chính trị & An ninh,2646,0
+article_0742,0,Non-clickbait,24h,Chính trị & An ninh,567,0
+article_0744,0,Non-clickbait,24h,Chính trị & An ninh,569,0
+article_0752,0,Non-clickbait,24h,Chính trị & An ninh,577,0
+article_0760,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,584,0
+article_0769,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,593,0
+article_0770,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,594,0
+article_0771,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,595,0
+article_0782,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,606,0
+article_0785,0,Non-clickbait,Báo Mới,Other,609,0
+article_0793,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,617,0
+article_0806,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,630,0
+article_0807,0,Non-clickbait,Báo Mới,Other,631,0
+article_0809,0,Non-clickbait,Báo Mới,Other,633,0
+article_0810,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,634,0
+article_0812,0,Non-clickbait,Báo Mới,Other,636,0
+article_0814,1,Clickbait,Báo Mới,Other,2654,0
+article_0818,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,641,0
+article_0833,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,652,0
+article_0849,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,666,0
+article_0850,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,667,0
+article_0861,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,678,0
+article_0865,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,682,0
+article_0869,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,686,0
+article_0874,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,691,0
+article_0878,0,Non-clickbait,Tuổi Trẻ,Quốc tế,694,0
+article_0881,0,Non-clickbait,Tuổi Trẻ,Other,697,0
+article_0887,0,Non-clickbait,Tuổi Trẻ,Other,701,0
+article_0891,0,Non-clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,705,0
+article_0899,0,Non-clickbait,Thanh Niên,Other,711,0
+article_0902,0,Non-clickbait,Thanh Niên,Other,714,0
+article_0906,0,Non-clickbait,Thanh Niên,Kinh doanh & Kinh tế,718,0
+article_0912,0,Non-clickbait,Thanh Niên,Other,722,0
+article_0919,0,Non-clickbait,Thanh Niên,Other,729,0
+article_0924,1,Clickbait,Thanh Niên,Other,2665,0
+article_0925,0,Non-clickbait,Thanh Niên,Other,733,0
+article_0926,0,Non-clickbait,Thanh Niên,Other,734,0
+article_0929,0,Non-clickbait,Thanh Niên,Other,736,0
+article_0931,1,Clickbait,Thanh Niên,Other,738,0
+article_0935,1,Clickbait,Thanh Niên,Other,2668,0
+article_0936,1,Clickbait,Thanh Niên,Other,2669,0
+article_0938,0,Non-clickbait,VietNamNet,Thể thao,742,0
+article_0939,0,Non-clickbait,VietNamNet,Thể thao,743,0
+article_0942,1,Clickbait,VietNamNet,Thể thao,746,0
+article_0943,0,Non-clickbait,VietNamNet,Thể thao,747,0
+article_0945,0,Non-clickbait,VietNamNet,Thể thao,748,0
+article_0947,1,Clickbait,VietNamNet,Thể thao,2672,0
+article_0955,0,Non-clickbait,VietNamNet,Thể thao,2674,0
+article_0960,1,Clickbait,VietNamNet,Thể thao,2676,0
+article_0963,0,Non-clickbait,VietNamNet,Thể thao,760,0
+article_0965,0,Non-clickbait,VietNamNet,Thể thao,762,0
+article_0968,1,Clickbait,Kênh14,Giải trí & Showbiz,765,0
+article_0969,1,Clickbait,Kênh14,Giải trí & Showbiz,766,0
+article_0973,1,Clickbait,Kênh14,Giải trí & Showbiz,770,0
+article_0977,0,Non-clickbait,SaoStar,Giải trí & Showbiz,2677,0
+article_0982,1,Clickbait,SaoStar,Giải trí & Showbiz,2681,0
+article_0983,1,Clickbait,SaoStar,Giải trí & Showbiz,775,0
+article_0989,1,Clickbait,SaoStar,Giải trí & Showbiz,2687,0
+article_0993,1,Clickbait,SaoStar,Giải trí & Showbiz,778,0
+article_0994,1,Clickbait,SaoStar,Giải trí & Showbiz,779,0
+article_0999,1,Clickbait,SaoStar,Giải trí & Showbiz,783,0
+article_1002,1,Clickbait,SaoStar,Giải trí & Showbiz,2690,0
+article_1008,1,Clickbait,24h,Kinh doanh & Kinh tế,787,0
+article_1015,0,Non-clickbait,24h,Kinh doanh & Kinh tế,2700,0
+article_1023,0,Non-clickbait,24h,Kinh doanh & Kinh tế,788,0
+article_1034,1,Clickbait,24h,Kinh doanh & Kinh tế,2713,0
+article_1035,1,Clickbait,24h,Kinh doanh & Kinh tế,793,0
+article_1036,1,Clickbait,24h,Kinh doanh & Kinh tế,794,0
+article_1049,0,Non-clickbait,Báo Mới,Other,804,0
+article_1059,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,812,0
+article_1062,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,815,0
+article_1070,0,Non-clickbait,Báo Mới,Other,823,0
+article_1073,1,Clickbait,Báo Mới,Other,2718,0
+article_1074,1,Clickbait,Báo Mới,Văn hóa & Nghệ thuật,2719,0
+article_1075,1,Clickbait,Báo Mới,Other,2720,0
+article_1078,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,826,0
+article_1081,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,829,0
+article_1093,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,840,0
+article_1096,1,Clickbait,Báo Mới,Other,2724,0
+article_1100,1,Clickbait,Báo Mới,Other,846,0
+article_1101,0,Non-clickbait,Báo Mới,Other,847,0
+article_1102,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,848,0
+article_1110,0,Non-clickbait,VnExpress,Other,853,0
+article_1123,0,Non-clickbait,VnExpress,Other,865,0
+article_1128,0,Non-clickbait,VnExpress,Other,870,0
+article_1130,0,Non-clickbait,VnExpress,Other,872,0
+article_1133,0,Non-clickbait,VnExpress,Other,874,0
+article_1136,0,Non-clickbait,VnExpress,Other,877,0
+article_1137,0,Non-clickbait,VnExpress,Other,878,0
+article_1139,0,Non-clickbait,VnExpress,Other,880,0
+article_1142,0,Non-clickbait,VnExpress,Other,883,0
+article_1143,0,Non-clickbait,VnExpress,Other,884,0
+article_1146,0,Non-clickbait,VnExpress,Other,887,0
+article_1148,0,Non-clickbait,VnExpress,Other,889,0
+article_1152,0,Non-clickbait,VnExpress,Other,893,0
+article_1154,0,Non-clickbait,VnExpress,Other,895,0
+article_1164,1,Clickbait,VnExpress,Other,2727,0
+article_1184,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2736,0
+article_1191,1,Clickbait,Thanh Niên,Other,2742,0
+article_1197,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2746,0
+article_1199,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,920,0
+article_1205,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2749,0
+article_1217,0,Non-clickbait,Thanh Niên,Other,932,0
+article_1220,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,935,0
+article_1231,1,Clickbait,Thanh Niên,Other,2757,0
+article_1234,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2758,0
+article_1235,0,Non-clickbait,Thanh Niên,Other,944,0
+article_1236,1,Clickbait,Thanh Niên,Other,2759,0
+article_1240,0,Non-clickbait,Thanh Niên,Other,2760,0
+article_1246,0,Non-clickbait,VietNamNet,Giáo dục & Học đường,952,0
+article_1256,1,Clickbait,VietNamNet,Giáo dục & Học đường,2766,0
+article_1260,1,Clickbait,Kênh14,Giải trí & Showbiz,960,0
+article_1264,1,Clickbait,SaoStar,Giải trí & Showbiz,964,0
+article_1290,1,Clickbait,SaoStar,Giải trí & Showbiz,2787,0
+article_1295,1,Clickbait,24h,Other,973,0
+article_1301,1,Clickbait,24h,Kinh doanh & Kinh tế,2793,0
+article_1304,1,Clickbait,24h,Kinh doanh & Kinh tế,2795,0
+article_1307,1,Clickbait,24h,Kinh doanh & Kinh tế,977,0
+article_1310,0,Non-clickbait,24h,Kinh doanh & Kinh tế,979,0
+article_1313,0,Non-clickbait,24h,Kinh doanh & Kinh tế,981,0
+article_1317,1,Clickbait,24h,Kinh doanh & Kinh tế,983,0
+article_1322,1,Clickbait,Báo Mới,Other,2804,0
+article_1325,0,Non-clickbait,Báo Mới,Other,988,0
+article_1330,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,993,0
+article_1334,0,Non-clickbait,Báo Mới,Other,995,0
+article_1341,0,Non-clickbait,Báo Mới,Other,999,0
+article_1342,0,Non-clickbait,Báo Mới,Other,1000,0
+article_1343,0,Non-clickbait,Báo Mới,Other,1001,0
+article_1344,0,Non-clickbait,Báo Mới,Other,1002,0
+article_1347,0,Non-clickbait,Báo Mới,Other,1005,0
+article_1348,0,Non-clickbait,Báo Mới,Other,1006,0
+article_1351,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1009,0
+article_1354,1,Clickbait,Báo Mới,Other,2810,0
+article_1362,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1018,0
+article_1363,0,Non-clickbait,Báo Mới,Other,1019,0
+article_1367,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1023,0
+article_1368,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1024,0
+article_1372,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1028,0
+article_1377,0,Non-clickbait,VnExpress,Other,1032,0
+article_1379,1,Clickbait,VnExpress,Other,2812,0
+article_1388,1,Clickbait,VnExpress,Other,2817,0
+article_1391,0,Non-clickbait,VnExpress,Other,1038,0
+article_1399,0,Non-clickbait,VnExpress,Other,1044,0
+article_1400,0,Non-clickbait,VnExpress,Other,1045,0
+article_1401,0,Non-clickbait,VnExpress,Other,1046,0
+article_1406,0,Non-clickbait,VnExpress,Other,1051,0
+article_1409,0,Non-clickbait,VnExpress,Other,1053,0
+article_1411,0,Non-clickbait,VnExpress,Other,1054,0
+article_1414,0,Non-clickbait,VnExpress,Other,1056,0
+article_1421,0,Non-clickbait,VnExpress,Other,1062,0
+article_1422,0,Non-clickbait,VnExpress,Other,1063,0
+article_1431,1,Clickbait,Tuổi Trẻ,Xe & Vận tải,2822,0
+article_1435,0,Non-clickbait,Tuổi Trẻ,Xe & Vận tải,1072,0
+article_1438,1,Clickbait,Tuổi Trẻ,Xe & Vận tải,2824,0
+article_1447,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,1076,0
+article_1448,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2830,0
+article_1457,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1077,0
+article_1459,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2838,0
+article_1462,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2841,0
+article_1480,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1087,0
+article_1482,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1089,0
+article_1499,0,Non-clickbait,Thanh Niên,Other,1099,0
+article_1501,0,Non-clickbait,VietNamNet,Quốc tế,1101,0
+article_1524,0,Non-clickbait,VietNamNet,Quốc tế,1123,0
+article_1526,0,Non-clickbait,VietNamNet,Quốc tế,1125,0
+article_1529,0,Non-clickbait,VietNamNet,Quốc tế,1128,0
+article_1537,0,Non-clickbait,Kênh14,Other,1132,0
+article_1564,1,Clickbait,SaoStar,Thể thao,1150,0
+article_1568,0,Non-clickbait,24h,Thể thao,1153,0
+article_1581,0,Non-clickbait,24h,Thể thao,1165,0
+article_1596,0,Non-clickbait,24h,Thể thao,1176,0
+article_1598,1,Clickbait,24h,Thể thao,2866,0
+article_1600,1,Clickbait,24h,Thể thao,2867,0
+article_1620,0,Non-clickbait,24h,Thể thao,1192,0
+article_1624,1,Clickbait,24h,Thể thao,2873,0
+article_1626,0,Non-clickbait,24h,Thể thao,1195,0
+article_1638,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1204,0
+article_1649,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1215,0
+article_1656,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1222,0
+article_1675,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1241,0
+article_1680,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1246,0
+article_1682,0,Non-clickbait,Báo Mới,Other,1248,0
+article_1684,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1249,0
+article_1689,0,Non-clickbait,Báo Mới,Other,1254,0
+article_1690,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1255,0
+article_1691,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1256,0
+article_1692,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1257,0
+article_1711,0,Non-clickbait,VnExpress,Thể thao,1268,0
+article_1713,0,Non-clickbait,VnExpress,Thể thao,1269,0
+article_1725,0,Non-clickbait,VnExpress,Thể thao,1275,0
+article_1730,0,Non-clickbait,VnExpress,Thể thao,2880,0
+article_1732,0,Non-clickbait,VnExpress,Thể thao,1279,0
+article_1736,0,Non-clickbait,VnExpress,Thể thao,1283,0
+article_1745,0,Non-clickbait,VnExpress,Thể thao,1292,0
+article_1749,0,Non-clickbait,VnExpress,Thể thao,1294,0
+article_1752,0,Non-clickbait,VnExpress,Thể thao,1296,0
+article_1755,0,Non-clickbait,VnExpress,Thể thao,1299,0
+article_1760,0,Non-clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,1303,0
+article_1761,1,Clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,2882,0
+article_1765,0,Non-clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,1306,0
+article_1771,0,Non-clickbait,Tuổi Trẻ,Other,1311,0
+article_1772,0,Non-clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,1312,0
+article_1779,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1319,0
+article_1790,1,Clickbait,Thanh Niên,Giáo dục & Học đường,2887,0
+article_1797,1,Clickbait,Thanh Niên,Other,2889,0
+article_1803,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1335,0
+article_1804,1,Clickbait,Thanh Niên,Giáo dục & Học đường,2890,0
+article_1807,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1338,0
+article_1811,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1341,0
+article_1817,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1345,0
+article_1825,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1351,0
+article_1830,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2894,0
+article_1866,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2901,0
+article_1869,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2904,0
+article_1881,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2912,0
+article_1889,1,Clickbait,SaoStar,Sức khỏe & Đời sống,1370,0
+article_1890,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2920,0
+article_1892,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2922,0
+article_1897,0,Non-clickbait,24h,Thể thao,1373,0
+article_1902,0,Non-clickbait,24h,Thể thao,1377,0
+article_1911,0,Non-clickbait,24h,Thể thao,1385,0
+article_1919,1,Clickbait,Báo Mới,Thể thao,2925,0
+article_1928,0,Non-clickbait,Báo Mới,Thể thao,1398,0
+article_1930,1,Clickbait,Báo Mới,Other,2927,0
+article_1937,1,Clickbait,Báo Mới,Thể thao,2930,0
+article_1940,0,Non-clickbait,Báo Mới,Thể thao,1404,0
+article_1942,0,Non-clickbait,Báo Mới,Thể thao,1406,0
+article_1947,0,Non-clickbait,Báo Mới,Thể thao,1410,0
+article_1951,0,Non-clickbait,Báo Mới,Other,1412,0
+article_1970,0,Non-clickbait,VnExpress,Other,1421,0
+article_1971,0,Non-clickbait,VnExpress,Other,1422,0
+article_1977,1,Clickbait,VnExpress,Other,2940,0
+article_1980,0,Non-clickbait,VnExpress,Other,1428,0
+article_1981,0,Non-clickbait,VnExpress,Other,1429,0
+article_1990,0,Non-clickbait,VnExpress,Other,1436,0
+article_2007,0,Non-clickbait,VnExpress,Other,1448,0
+article_2014,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1451,0
+article_2017,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1454,0
+article_2018,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1455,0
+article_2019,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1456,0
+article_2022,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1459,0
+article_2031,1,Clickbait,Thanh Niên,Chính trị & An ninh,2949,0
+article_2034,1,Clickbait,Thanh Niên,Other,1466,0
+article_2039,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1470,0
+article_2050,0,Non-clickbait,Thanh Niên,Other,1478,0
+article_2051,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1479,0
+article_2059,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1486,0
+article_2060,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1487,0
+article_2064,0,Non-clickbait,Thanh Niên,Other,1490,0
+article_2066,0,Non-clickbait,Thanh Niên,Other,1492,0
+article_2067,1,Clickbait,Thanh Niên,Chính trị & An ninh,2956,0
+article_2069,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1493,0
+article_2078,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1498,0
+article_2083,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1500,0
+article_2084,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1501,0
+article_2094,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1506,0
+article_2096,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1507,0
+article_2099,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1509,0
+article_2103,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1513,0
+article_2104,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,1514,0
+article_2112,1,Clickbait,SaoStar,Giáo dục & Học đường,2968,0
+article_2120,0,Non-clickbait,SaoStar,Giáo dục & Học đường,1520,0
+article_2138,1,Clickbait,24h,Công nghệ & Khoa học,2980,0
+article_2139,1,Clickbait,24h,Công nghệ & Khoa học,2981,0
+article_2157,1,Clickbait,24h,Công nghệ & Khoa học,2992,0
+article_2160,0,Non-clickbait,24h,Công nghệ & Khoa học,2994,0
+article_2165,0,Non-clickbait,24h,Other,1530,0
+article_2168,0,Non-clickbait,24h,Other,1532,0
+article_2171,1,Clickbait,Báo Mới,Giải trí & Showbiz,3000,0
+article_2172,1,Clickbait,Báo Mới,Other,3001,0
+article_2179,0,Non-clickbait,Báo Mới,Other,1537,0
+article_2181,1,Clickbait,Báo Mới,Other,3003,0
+article_2186,1,Clickbait,Báo Mới,Giải trí & Showbiz,3006,0
+article_2191,0,Non-clickbait,Báo Mới,Other,1543,0
+article_2197,0,Non-clickbait,Báo Mới,Giải trí & Showbiz,1548,0
+article_2198,1,Clickbait,Báo Mới,Giải trí & Showbiz,3009,0
+article_2205,1,Clickbait,Báo Mới,Other,3011,0
+article_2208,1,Clickbait,Báo Mới,Other,3012,0
+article_2218,0,Non-clickbait,VnExpress,Other,1558,0
+article_2224,0,Non-clickbait,VnExpress,Other,1562,0
+article_2230,0,Non-clickbait,VnExpress,Other,1567,0
+article_2240,0,Non-clickbait,VnExpress,Other,1574,0
+article_2246,0,Non-clickbait,VnExpress,Other,1579,0
+article_2247,0,Non-clickbait,VnExpress,Other,1580,0
+article_2251,0,Non-clickbait,VnExpress,Other,1583,0
+article_2255,0,Non-clickbait,VnExpress,Other,1587,0
+article_2256,1,Clickbait,VnExpress,Other,3017,0
+article_2277,0,Non-clickbait,Tuổi Trẻ,Giải trí & Showbiz,1599,0
+article_2288,1,Clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1605,0
+article_2293,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1610,0
+article_2297,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1614,0
+article_2298,0,Non-clickbait,Thanh Niên,Other,1615,0
+article_2301,1,Clickbait,Thanh Niên,Văn hóa & Nghệ thuật,3026,0
+article_2304,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1619,0
+article_2306,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1621,0
+article_2311,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1625,0
+article_2313,1,Clickbait,Thanh Niên,Other,3029,0
+article_2317,0,Non-clickbait,Thanh Niên,Other,3030,0
+article_2318,0,Non-clickbait,Thanh Niên,Other,1629,0
+article_2319,0,Non-clickbait,Thanh Niên,Other,1630,0
+article_2321,1,Clickbait,Thanh Niên,Other,3031,0
+article_2322,0,Non-clickbait,Thanh Niên,Other,1632,0
+article_2324,0,Non-clickbait,Thanh Niên,Other,1633,0
+article_2326,0,Non-clickbait,Thanh Niên,Other,1635,0
+article_2327,0,Non-clickbait,Thanh Niên,Other,1636,0
+article_2339,1,Clickbait,VietNamNet,Công nghệ & Khoa học,3036,0
+article_2342,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1645,0
+article_2344,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1647,0
+article_2346,1,Clickbait,VietNamNet,Công nghệ & Khoa học,3038,0
+article_2357,1,Clickbait,VietNamNet,Công nghệ & Khoa học,3041,0
+article_2362,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1658,0
+article_2365,0,Non-clickbait,Kênh14,Other,1660,0
+article_2367,1,Clickbait,Kênh14,Sức khỏe & Đời sống,1662,0
+article_2381,1,Clickbait,SaoStar,Kinh doanh & Kinh tế,1668,0
+article_2385,0,Non-clickbait,SaoStar,Kinh doanh & Kinh tế,1670,0
+article_2392,0,Non-clickbait,SaoStar,Kinh doanh & Kinh tế,1673,0
+article_2401,1,Clickbait,24h,Other,3047,0
+article_2410,0,Non-clickbait,24h,Other,1680,0
+article_2415,0,Non-clickbait,24h,Other,1681,0
+article_2418,0,Non-clickbait,24h,Other,1682,0
+article_2419,0,Non-clickbait,24h,Other,1683,0
+article_2423,0,Non-clickbait,Báo Mới,Other,1685,0
+article_2425,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1687,0
+article_2430,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1692,0
+article_2431,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1693,0
+article_2434,0,Non-clickbait,Báo Mới,Other,1696,0
+article_2435,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1697,0
+article_2445,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1705,0
+article_2446,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1706,0
+article_2448,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1708,0
+article_2453,0,Non-clickbait,Báo Mới,Other,1713,0
+article_2459,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1719,0
+article_2460,0,Non-clickbait,Báo Mới,Other,1720,0
+article_2461,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1721,0
+article_2474,0,Non-clickbait,Báo Mới,Other,1733,0
+article_2475,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1734,0
+article_2477,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1736,0
+article_2480,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1739,0
+article_2481,0,Non-clickbait,Báo Mới,Other,1740,0
+article_2483,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1742,0
+article_2487,0,Non-clickbait,VnExpress,Other,1745,0
+article_2491,0,Non-clickbait,VnExpress,Other,1747,0
+article_2494,0,Non-clickbait,VnExpress,Other,1750,0
+article_2500,0,Non-clickbait,VnExpress,Other,1755,0
+article_2502,1,Clickbait,VnExpress,Other,3059,0
+article_2508,0,Non-clickbait,VnExpress,Other,1760,0
+article_2509,1,Clickbait,VnExpress,Other,3062,0
+article_2524,1,Clickbait,VnExpress,Other,3063,0
+article_2525,0,Non-clickbait,VnExpress,Other,1773,0
+article_2526,0,Non-clickbait,VnExpress,Other,1774,0
+article_2527,1,Clickbait,VnExpress,Other,3064,0
+article_2531,0,Non-clickbait,VnExpress,Other,1777,0
+article_2537,1,Clickbait,VnExpress,Other,3067,0
+article_2539,0,Non-clickbait,Tuổi Trẻ,Thể thao,1783,0
+article_2547,0,Non-clickbait,Tuổi Trẻ,Other,1788,0
+article_2548,0,Non-clickbait,Tuổi Trẻ,Thể thao,1789,0
+article_2551,0,Non-clickbait,Tuổi Trẻ,Thể thao,1791,0
+article_2564,0,Non-clickbait,Thanh Niên,Other,1802,0
+article_2567,0,Non-clickbait,Thanh Niên,Other,1804,0
+article_2570,1,Clickbait,Thanh Niên,Giải trí & Showbiz,1805,0
+article_2572,0,Non-clickbait,Thanh Niên,Giải trí & Showbiz,1807,0
+article_2576,1,Clickbait,Thanh Niên,Giải trí & Showbiz,3074,0
+article_2580,1,Clickbait,Thanh Niên,Other,3078,0
+article_2581,0,Non-clickbait,Thanh Niên,Other,1811,0
+article_2590,1,Clickbait,Thanh Niên,Other,3081,0
+article_2603,0,Non-clickbait,Thanh Niên,Giải trí & Showbiz,1821,0
+article_2604,1,Clickbait,Thanh Niên,Other,3086,0
+article_2605,1,Clickbait,Thanh Niên,Other,3087,0
+article_2606,1,Clickbait,Thanh Niên,Other,3088,0
+article_2618,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1828,0
+article_2632,1,Clickbait,VietNamNet,Chính trị & An ninh,3097,0
+article_2634,1,Clickbait,VietNamNet,Chính trị & An ninh,3098,0
+article_2637,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1840,0
+article_2643,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1845,0
+article_2683,1,Clickbait,24h,Other,3108,0
+article_2690,0,Non-clickbait,24h,Other,1874,0
+article_2702,0,Non-clickbait,24h,Other,1881,0
+article_2703,0,Non-clickbait,24h,Other,1882,0
+article_2704,1,Clickbait,24h,Other,1883,0
+article_2715,0,Non-clickbait,Báo Mới,Other,1894,0
+article_2716,0,Non-clickbait,Báo Mới,Other,1895,0
+article_2725,1,Clickbait,Báo Mới,Other,3115,0
+article_2728,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3117,0
+article_2732,1,Clickbait,Báo Mới,Other,3118,0
+article_2733,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1908,0
+article_2736,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1911,0
+article_2740,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1914,0
+article_2741,0,Non-clickbait,Báo Mới,Other,1915,0
+article_2751,1,Clickbait,Báo Mới,Other,3120,0
+article_2758,1,Clickbait,VnExpress,Other,3123,0
+article_2763,1,Clickbait,VnExpress,Other,3124,0
+article_2769,1,Clickbait,VnExpress,Other,3127,0
+article_2773,1,Clickbait,VnExpress,Other,3128,0
+article_2796,0,Non-clickbait,VnExpress,Other,1938,0
+article_2797,1,Clickbait,VnExpress,Other,3139,0
+article_2799,1,Clickbait,VnExpress,Other,3140,0
+article_2803,0,Non-clickbait,Tuổi Trẻ,Other,1941,0
+article_2812,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1948,0
+article_2835,0,Non-clickbait,Thanh Niên,Thể thao,1964,0
+article_2853,0,Non-clickbait,Thanh Niên,Other,1976,0
+article_2869,1,Clickbait,Thanh Niên,Other,3160,0
+article_2880,0,Non-clickbait,Thanh Niên,Other,1991,0
+article_2918,1,Clickbait,SaoStar,Du lịch & Ẩm thực,2010,0
+article_2919,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,2011,0
+article_2920,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,3176,0
+article_2921,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,2012,0
+article_2922,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,2013,0
+article_2924,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,2015,0
+article_2925,1,Clickbait,SaoStar,Du lịch & Ẩm thực,3177,0
+article_2932,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,2016,0
+article_2937,1,Clickbait,SaoStar,Du lịch & Ẩm thực,3183,0
+article_2938,1,Clickbait,SaoStar,Du lịch & Ẩm thực,3184,0
+article_2942,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,2018,0
+article_2951,1,Clickbait,24h,Other,3188,0
+article_2984,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2027,0
+article_2992,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3208,0
+article_3003,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2034,0
+article_3005,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2035,0
+article_3016,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2041,0
+article_3031,0,Non-clickbait,VnExpress,Other,3220,0
+article_3035,0,Non-clickbait,VnExpress,Other,2053,0
+article_3038,0,Non-clickbait,VnExpress,Other,2055,0
+article_3050,0,Non-clickbait,VnExpress,Other,2064,0
+article_3057,1,Clickbait,VnExpress,Other,3224,0
+article_3065,1,Clickbait,VnExpress,Other,3227,0
+article_3067,0,Non-clickbait,VnExpress,Other,2072,0
+article_3069,0,Non-clickbait,VnExpress,Other,2073,0
+article_3076,0,Non-clickbait,Tuổi Trẻ,Other,2079,0
+article_3088,0,Non-clickbait,Tuổi Trẻ,Xe & Vận tải,2088,0
+article_3092,0,Non-clickbait,Thanh Niên,Other,2089,0
+article_3093,0,Non-clickbait,Thanh Niên,Other,2090,0
+article_3126,0,Non-clickbait,Thanh Niên,Other,2114,0
+article_3134,1,Clickbait,VietNamNet,Other,3245,0
+article_3135,0,Non-clickbait,VietNamNet,Other,2117,0
+article_3140,0,Non-clickbait,VietNamNet,Other,2120,0
+article_3147,1,Clickbait,VietNamNet,Other,2124,0
+article_3158,0,Non-clickbait,VietNamNet,Other,2132,0
+article_3168,1,Clickbait,24h,Giải trí & Showbiz,2622,0
+article_3190,0,Non-clickbait,24h,Giải trí & Showbiz,3266,0
+article_3192,0,Non-clickbait,24h,Giải trí & Showbiz,2144,0
+article_3193,0,Non-clickbait,24h,Giải trí & Showbiz,2145,0
+article_3194,1,Clickbait,24h,Giải trí & Showbiz,3267,0
+article_3201,0,Non-clickbait,24h,Giải trí & Showbiz,2152,0
+article_3206,0,Non-clickbait,24h,Giải trí & Showbiz,2153,0
+article_3211,0,Non-clickbait,24h,Giải trí & Showbiz,2155,0
+article_3218,1,Clickbait,24h,Giải trí & Showbiz,3276,0
+article_3227,1,Clickbait,24h,Giải trí & Showbiz,3281,0
+article_3229,1,Clickbait,24h,Giải trí & Showbiz,3283,0
+article_3230,1,Clickbait,24h,Giải trí & Showbiz,2163,0
+article_3236,0,Non-clickbait,Báo Mới,Other,2165,0
+article_3248,0,Non-clickbait,Báo Mới,Other,2176,0
+article_3250,0,Non-clickbait,Báo Mới,Other,2178,0
+article_3252,1,Clickbait,Báo Mới,Other,2179,0
+article_3260,1,Clickbait,Báo Mới,Other,3293,0
+article_3282,1,Clickbait,VnExpress,Other,3295,0
+article_3299,0,Non-clickbait,VnExpress,Other,2209,0
+article_3315,0,Non-clickbait,VnExpress,Other,2218,0
+article_3321,0,Non-clickbait,VnExpress,Other,2224,0
+article_3324,0,Non-clickbait,VnExpress,Other,2225,0
+article_3334,0,Non-clickbait,VnExpress,Other,2232,0
+article_3351,1,Clickbait,Tuổi Trẻ,Other,3308,0
+article_3352,0,Non-clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,2240,0
+article_3356,1,Clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,3309,0
+article_3360,0,Non-clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,2246,0
+article_3361,1,Clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,3310,0
+article_3365,0,Non-clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,2249,0
+article_3369,1,Clickbait,Thanh Niên,Other,3313,0
+article_3372,1,Clickbait,Thanh Niên,Other,3315,0
+article_3381,0,Non-clickbait,Thanh Niên,Other,2257,0
+article_3384,1,Clickbait,Thanh Niên,Other,3318,0
+article_3385,0,Non-clickbait,Thanh Niên,Other,2260,0
+article_3387,0,Non-clickbait,Thanh Niên,Other,2261,0
+article_3392,1,Clickbait,Thanh Niên,Other,3319,0
+article_3393,1,Clickbait,Thanh Niên,Other,3320,0
+article_3396,0,Non-clickbait,Thanh Niên,Other,2267,0
+article_3397,1,Clickbait,Thanh Niên,Other,3321,0
+article_3407,1,Clickbait,VietNamNet,Du lịch & Ẩm thực,3325,0
+article_3424,0,Non-clickbait,VietNamNet,Du lịch & Ẩm thực,2277,0
+article_3427,0,Non-clickbait,VietNamNet,Du lịch & Ẩm thực,2278,0
+article_3430,0,Non-clickbait,VietNamNet,Du lịch & Ẩm thực,2280,0
+article_3449,0,Non-clickbait,24h,Xe & Vận tải,2291,0
+article_3456,0,Non-clickbait,24h,Xe & Vận tải,2294,0
+article_3471,1,Clickbait,Báo Mới,Xe & Vận tải,3343,0
+article_3473,0,Non-clickbait,Báo Mới,Xe & Vận tải,2304,0
+article_3477,0,Non-clickbait,Báo Mới,Xe & Vận tải,2308,0
+article_3484,0,Non-clickbait,Báo Mới,Xe & Vận tải,2314,0
+article_3485,0,Non-clickbait,Báo Mới,Xe & Vận tải,2315,0
+article_3490,0,Non-clickbait,Báo Mới,Xe & Vận tải,2320,0
+article_3500,0,Non-clickbait,Báo Mới,Xe & Vận tải,2329,0
+article_3507,0,Non-clickbait,Báo Mới,Xe & Vận tải,2336,0
+article_3532,0,Non-clickbait,VietNamNet,Other,2350,0
+article_3544,0,Non-clickbait,VietNamNet,Other,2357,0
+article_3548,0,Non-clickbait,VietNamNet,Other,2359,0
+article_3549,0,Non-clickbait,VietNamNet,Other,2360,0
+article_3565,0,Non-clickbait,24h,Xe & Vận tải,2368,0
+article_3572,0,Non-clickbait,24h,Xe & Vận tải,2373,0
+article_3582,0,Non-clickbait,24h,Xe & Vận tải,2381,0
+article_3584,1,Clickbait,24h,Xe & Vận tải,3355,0
+article_3597,0,Non-clickbait,Báo Mới,Other,2393,0
+article_3604,0,Non-clickbait,Báo Mới,Other,2400,0
+article_3608,0,Non-clickbait,Báo Mới,Other,2404,0
+article_3609,0,Non-clickbait,Báo Mới,Other,2405,0
+article_3611,0,Non-clickbait,Báo Mới,Other,2407,0
+article_3612,0,Non-clickbait,Báo Mới,Other,2408,0
+article_3613,0,Non-clickbait,Báo Mới,Other,2409,0
+article_3617,1,Clickbait,Báo Mới,Other,3357,0
+article_3629,0,Non-clickbait,Báo Mới,Other,2422,0
+article_3645,0,Non-clickbait,Báo Mới,Other,2437,0
+article_3682,1,Clickbait,24h,Giải trí & Showbiz,3366,0
+article_3686,1,Clickbait,24h,Sức khỏe & Đời sống,2452,0
+article_3691,1,Clickbait,24h,Sức khỏe & Đời sống,3367,0
+article_3692,1,Clickbait,24h,Sức khỏe & Đời sống,3368,0
+article_3706,1,Clickbait,24h,Sức khỏe & Đời sống,3380,0
+article_3707,1,Clickbait,24h,Sức khỏe & Đời sống,3381,0
+article_3714,1,Clickbait,24h,Sức khỏe & Đời sống,2459,0
+article_3718,1,Clickbait,24h,Sức khỏe & Đời sống,3386,0
+article_3721,1,Clickbait,24h,Sức khỏe & Đời sống,2462,0
+article_3735,1,Clickbait,24h,Du lịch & Ẩm thực,3390,0
+article_3743,1,Clickbait,24h,Du lịch & Ẩm thực,2472,0
+article_3751,1,Clickbait,24h,Du lịch & Ẩm thực,3397,0
+article_3753,1,Clickbait,24h,Du lịch & Ẩm thực,3398,0
+article_3755,1,Clickbait,24h,Du lịch & Ẩm thực,3399,0
+article_3769,0,Non-clickbait,24h,Du lịch & Ẩm thực,2479,0
+article_3783,0,Non-clickbait,24h,Du lịch & Ẩm thực,2487,0
+article_3784,0,Non-clickbait,24h,Giáo dục & Học đường,2488,0
+article_3787,0,Non-clickbait,24h,Giáo dục & Học đường,2490,0
+article_0002,0,Non-clickbait,VnExpress,Tin tức tổng hợp,1,1
+article_0006,0,Non-clickbait,VnExpress,Tin tức tổng hợp,3,1
+article_0009,0,Non-clickbait,VnExpress,Tin tức tổng hợp,2499,1
+article_0025,0,Non-clickbait,VnExpress,Tin tức tổng hợp,19,1
+article_0035,0,Non-clickbait,VnExpress,Tin tức tổng hợp,29,1
+article_0038,0,Non-clickbait,VnExpress,Tin tức tổng hợp,32,1
+article_0046,0,Non-clickbait,VnExpress,Tin tức tổng hợp,40,1
+article_0056,0,Non-clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,50,1
+article_0060,1,Clickbait,Tuổi Trẻ,Other,53,1
+article_0064,1,Clickbait,Tuổi Trẻ,Other,2502,1
+article_0065,0,Non-clickbait,Tuổi Trẻ,Other,56,1
+article_0067,0,Non-clickbait,Tuổi Trẻ,Other,58,1
+article_0068,0,Non-clickbait,Tuổi Trẻ,Other,59,1
+article_0069,1,Clickbait,Tuổi Trẻ,Other,60,1
+article_0073,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,64,1
+article_0079,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,70,1
+article_0084,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,75,1
+article_0086,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,77,1
+article_0090,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,80,1
+article_0091,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,81,1
+article_0092,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,82,1
+article_0094,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,84,1
+article_0106,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,96,1
+article_0112,0,Non-clickbait,VietNamNet,Chính trị & An ninh,102,1
+article_0119,0,Non-clickbait,VietNamNet,Chính trị & An ninh,108,1
+article_0120,0,Non-clickbait,VietNamNet,Chính trị & An ninh,109,1
+article_0130,0,Non-clickbait,VietNamNet,Chính trị & An ninh,119,1
+article_0134,0,Non-clickbait,VietNamNet,Chính trị & An ninh,123,1
+article_0139,0,Non-clickbait,VietNamNet,Chính trị & An ninh,2504,1
+article_0140,0,Non-clickbait,Kênh14,Sức khỏe & Đời sống,2505,1
+article_0144,1,Clickbait,Kênh14,Sức khỏe & Đời sống,2509,1
+article_0148,1,Clickbait,SaoStar,Giải trí & Showbiz,2513,1
+article_0156,1,Clickbait,SaoStar,Giải trí & Showbiz,134,1
+article_0171,1,Clickbait,SaoStar,Giải trí & Showbiz,145,1
+article_0178,0,Non-clickbait,24h,Tin tức tổng hợp,152,1
+article_0180,0,Non-clickbait,24h,Tin tức tổng hợp,154,1
+article_0182,0,Non-clickbait,24h,Tin tức tổng hợp,156,1
+article_0190,0,Non-clickbait,24h,Tin tức tổng hợp,163,1
+article_0195,1,Clickbait,24h,Tin tức tổng hợp,2519,1
+article_0201,0,Non-clickbait,24h,Tin tức tổng hợp,171,1
+article_0202,0,Non-clickbait,24h,Tin tức tổng hợp,172,1
+article_0203,0,Non-clickbait,24h,Tin tức tổng hợp,173,1
+article_0205,0,Non-clickbait,24h,Tin tức tổng hợp,175,1
+article_0206,1,Clickbait,24h,Tin tức tổng hợp,176,1
+article_0219,0,Non-clickbait,24h,Quốc tế,185,1
+article_0221,1,Clickbait,Báo Mới,Thể thao,2524,1
+article_0227,1,Clickbait,Báo Mới,Thể thao,189,1
+article_0231,1,Clickbait,Báo Mới,Thể thao,2529,1
+article_0236,1,Clickbait,Báo Mới,Thể thao,2532,1
+article_0240,1,Clickbait,Báo Mới,Thể thao,2535,1
+article_0244,0,Non-clickbait,Báo Mới,Thể thao,197,1
+article_0247,0,Non-clickbait,Báo Mới,Thể thao,199,1
+article_0258,0,Non-clickbait,Báo Mới,Thể thao,209,1
+article_0262,0,Non-clickbait,Báo Mới,Thể thao,213,1
+article_0264,0,Non-clickbait,Báo Mới,Thể thao,215,1
+article_0269,1,Clickbait,Báo Mới,Thể thao,220,1
+article_0281,0,Non-clickbait,VnExpress,Quốc tế,227,1
+article_0285,0,Non-clickbait,VnExpress,Quốc tế,230,1
+article_0301,1,Clickbait,VnExpress,Quốc tế,2543,1
+article_0307,1,Clickbait,VnExpress,Quốc tế,2548,1
+article_0309,0,Non-clickbait,VnExpress,Quốc tế,246,1
+article_0311,0,Non-clickbait,VnExpress,Quốc tế,248,1
+article_0315,0,Non-clickbait,VnExpress,Quốc tế,252,1
+article_0316,0,Non-clickbait,VnExpress,Quốc tế,253,1
+article_0325,0,Non-clickbait,VnExpress,Quốc tế,262,1
+article_0329,0,Non-clickbait,Tuổi Trẻ,Quốc tế,266,1
+article_0337,0,Non-clickbait,Tuổi Trẻ,Quốc tế,273,1
+article_0338,1,Clickbait,Tuổi Trẻ,Other,2551,1
+article_0343,0,Non-clickbait,Tuổi Trẻ,Quốc tế,278,1
+article_0348,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,281,1
+article_0349,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,282,1
+article_0355,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,288,1
+article_0365,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,297,1
+article_0372,0,Non-clickbait,Thanh Niên,Other,303,1
+article_0374,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,305,1
+article_0378,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,309,1
+article_0381,0,Non-clickbait,Thanh Niên,Other,119,1
+article_0389,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,319,1
+article_0392,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,321,1
+article_0397,1,Clickbait,VietNamNet,Tin tức tổng hợp,2559,1
+article_0398,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,323,1
+article_0412,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,335,1
+article_0413,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,336,1
+article_0414,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,337,1
+article_0415,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,338,1
+article_0433,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,353,1
+article_0436,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2564,1
+article_0457,0,Non-clickbait,24h,Quốc tế,368,1
+article_0460,0,Non-clickbait,24h,Quốc tế,369,1
+article_0476,0,Non-clickbait,24h,Quốc tế,2576,1
+article_0477,0,Non-clickbait,24h,Quốc tế,382,1
+article_0482,1,Clickbait,24h,Quốc tế,385,1
+article_0492,0,Non-clickbait,24h,Quốc tế,395,1
+article_0498,0,Non-clickbait,Báo Mới,Quốc tế,398,1
+article_0507,1,Clickbait,Báo Mới,Quốc tế,2584,1
+article_0508,0,Non-clickbait,Báo Mới,Quốc tế,405,1
+article_0513,0,Non-clickbait,Báo Mới,Quốc tế,410,1
+article_0520,1,Clickbait,Báo Mới,Quốc tế,2588,1
+article_0523,0,Non-clickbait,Báo Mới,Quốc tế,416,1
+article_0525,0,Non-clickbait,Báo Mới,Quốc tế,418,1
+article_0529,1,Clickbait,Báo Mới,Quốc tế,2589,1
+article_0533,1,Clickbait,Báo Mới,Quốc tế,2591,1
+article_0534,1,Clickbait,Báo Mới,Quốc tế,2592,1
+article_0535,1,Clickbait,Báo Mới,Quốc tế,424,1
+article_0545,0,Non-clickbait,Báo Mới,Quốc tế,433,1
+article_0549,0,Non-clickbait,Báo Mới,Quốc tế,436,1
+article_0555,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,441,1
+article_0561,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,444,1
+article_0566,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,449,1
+article_0570,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,453,1
+article_0572,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,455,1
+article_0573,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,456,1
+article_0574,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,457,1
+article_0577,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,2596,1
+article_0582,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,462,1
+article_0591,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,471,1
+article_0595,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,475,1
+article_0598,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,478,1
+article_0603,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,483,1
+article_0607,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,487,1
+article_0610,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,489,1
+article_0616,1,Clickbait,Tuổi Trẻ,Chính trị & An ninh,2599,1
+article_0622,0,Non-clickbait,Thanh Niên,Quốc tế,499,1
+article_0629,0,Non-clickbait,Thanh Niên,Quốc tế,505,1
+article_0631,0,Non-clickbait,Thanh Niên,Quốc tế,507,1
+article_0632,0,Non-clickbait,Thanh Niên,Other,508,1
+article_0644,0,Non-clickbait,Thanh Niên,Quốc tế,518,1
+article_0650,0,Non-clickbait,Thanh Niên,Other,522,1
+article_0652,1,Clickbait,Thanh Niên,Other,2607,1
+article_0653,0,Non-clickbait,Thanh Niên,Other,2608,1
+article_0655,0,Non-clickbait,Thanh Niên,Other,2610,1
+article_0662,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,525,1
+article_0663,1,Clickbait,VietNamNet,Kinh doanh & Kinh tế,2615,1
+article_0668,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,528,1
+article_0669,1,Clickbait,VietNamNet,Kinh doanh & Kinh tế,2618,1
+article_0675,1,Clickbait,VietNamNet,Kinh doanh & Kinh tế,532,1
+article_0681,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,537,1
+article_0685,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,541,1
+article_0692,1,Clickbait,Kênh14,Giải trí & Showbiz,548,1
+article_0699,1,Clickbait,SaoStar,Quốc tế,552,1
+article_0701,1,Clickbait,SaoStar,Quốc tế,2626,1
+article_0709,0,Non-clickbait,SaoStar,Quốc tế,555,1
+article_0710,0,Non-clickbait,SaoStar,Quốc tế,556,1
+article_0718,1,Clickbait,SaoStar,Quốc tế,2638,1
+article_0725,1,Clickbait,SaoStar,Quốc tế,2643,1
+article_0731,0,Non-clickbait,24h,Chính trị & An ninh,2647,1
+article_0745,0,Non-clickbait,24h,Chính trị & An ninh,570,1
+article_0755,0,Non-clickbait,24h,Chính trị & An ninh,580,1
+article_0756,1,Clickbait,24h,Chính trị & An ninh,2653,1
+article_0757,0,Non-clickbait,24h,Tin tức tổng hợp,581,1
+article_0761,0,Non-clickbait,Báo Mới,Other,585,1
+article_0762,0,Non-clickbait,Báo Mới,Other,586,1
+article_0776,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,600,1
+article_0784,0,Non-clickbait,Báo Mới,Other,608,1
+article_0786,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,610,1
+article_0790,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,614,1
+article_0791,0,Non-clickbait,Báo Mới,Other,615,1
+article_0794,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,618,1
+article_0801,0,Non-clickbait,Báo Mới,Other,625,1
+article_0803,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,627,1
+article_0821,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,644,1
+article_0822,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,645,1
+article_0825,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,648,1
+article_0829,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,650,1
+article_0832,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,651,1
+article_0841,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,659,1
+article_0843,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,661,1
+article_0853,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,670,1
+article_0859,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,676,1
+article_0862,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,679,1
+article_0864,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,681,1
+article_0866,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,683,1
+article_0870,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,687,1
+article_0872,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,689,1
+article_0873,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,690,1
+article_0879,0,Non-clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,695,1
+article_0883,1,Clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,2658,1
+article_0892,0,Non-clickbait,Thanh Niên,Other,706,1
+article_0896,0,Non-clickbait,Thanh Niên,Other,709,1
+article_0903,0,Non-clickbait,Thanh Niên,Other,715,1
+article_0904,0,Non-clickbait,Thanh Niên,Other,716,1
+article_0905,0,Non-clickbait,Thanh Niên,Kinh doanh & Kinh tế,717,1
+article_0913,0,Non-clickbait,Thanh Niên,Kinh doanh & Kinh tế,723,1
+article_0916,0,Non-clickbait,Thanh Niên,Other,726,1
+article_0922,1,Clickbait,Thanh Niên,Kinh doanh & Kinh tế,2664,1
+article_0928,1,Clickbait,Thanh Niên,Other,2666,1
+article_0930,0,Non-clickbait,Thanh Niên,Other,737,1
+article_0946,1,Clickbait,VietNamNet,Thể thao,2671,1
+article_0952,0,Non-clickbait,VietNamNet,Thể thao,753,1
+article_0954,0,Non-clickbait,VietNamNet,Thể thao,754,1
+article_0961,0,Non-clickbait,VietNamNet,Thể thao,758,1
+article_0967,0,Non-clickbait,VietNamNet,Thể thao,764,1
+article_0971,1,Clickbait,Kênh14,Giải trí & Showbiz,768,1
+article_0976,1,Clickbait,SaoStar,Giải trí & Showbiz,773,1
+article_0984,1,Clickbait,SaoStar,Giải trí & Showbiz,2682,1
+article_0985,1,Clickbait,SaoStar,Giải trí & Showbiz,2683,1
+article_0986,0,Non-clickbait,SaoStar,Giải trí & Showbiz,2684,1
+article_0988,1,Clickbait,SaoStar,Giải trí & Showbiz,2686,1
+article_0991,1,Clickbait,SaoStar,Giải trí & Showbiz,777,1
+article_0998,1,Clickbait,SaoStar,Giải trí & Showbiz,782,1
+article_1001,1,Clickbait,SaoStar,Giải trí & Showbiz,785,1
+article_1003,1,Clickbait,SaoStar,Giải trí & Showbiz,2691,1
+article_1006,1,Clickbait,24h,Kinh doanh & Kinh tế,2693,1
+article_1007,1,Clickbait,24h,Kinh doanh & Kinh tế,2694,1
+article_1016,0,Non-clickbait,24h,Kinh doanh & Kinh tế,2701,1
+article_1028,0,Non-clickbait,24h,Kinh doanh & Kinh tế,791,1
+article_1033,1,Clickbait,24h,Kinh doanh & Kinh tế,2712,1
+article_1043,0,Non-clickbait,24h,Other,799,1
+article_1048,1,Clickbait,24h,Kinh doanh & Kinh tế,803,1
+article_1057,1,Clickbait,Báo Mới,Other,2717,1
+article_1064,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,817,1
+article_1066,0,Non-clickbait,Báo Mới,Other,819,1
+article_1071,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,824,1
+article_1077,1,Clickbait,Báo Mới,Other,2722,1
+article_1079,0,Non-clickbait,Báo Mới,Other,827,1
+article_1080,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,828,1
+article_1094,0,Non-clickbait,Báo Mới,Other,841,1
+article_1097,0,Non-clickbait,Báo Mới,Other,843,1
+article_1098,0,Non-clickbait,Báo Mới,Other,844,1
+article_1112,0,Non-clickbait,VnExpress,Other,855,1
+article_1113,0,Non-clickbait,VnExpress,Other,856,1
+article_1114,0,Non-clickbait,VnExpress,Other,857,1
+article_1115,0,Non-clickbait,VnExpress,Other,858,1
+article_1120,0,Non-clickbait,VnExpress,Other,862,1
+article_1132,0,Non-clickbait,VnExpress,Other,873,1
+article_1151,0,Non-clickbait,VnExpress,Other,892,1
+article_1157,0,Non-clickbait,VnExpress,Other,898,1
+article_1162,0,Non-clickbait,VnExpress,Other,903,1
+article_1174,0,Non-clickbait,Tuổi Trẻ,Công nghệ & Khoa học,912,1
+article_1179,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2731,1
+article_1182,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2734,1
+article_1186,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2738,1
+article_1188,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2739,1
+article_1189,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2740,1
+article_1200,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,921,1
+article_1206,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2750,1
+article_1210,0,Non-clickbait,Thanh Niên,Other,925,1
+article_1211,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,926,1
+article_1227,0,Non-clickbait,Thanh Niên,Other,939,1
+article_1229,0,Non-clickbait,Thanh Niên,Other,941,1
+article_1243,0,Non-clickbait,Thanh Niên,Other,950,1
+article_1250,1,Clickbait,VietNamNet,Giáo dục & Học đường,2762,1
+article_1252,1,Clickbait,VietNamNet,Giáo dục & Học đường,2764,1
+article_1255,1,Clickbait,VietNamNet,Giáo dục & Học đường,2765,1
+article_1259,1,Clickbait,Kênh14,Giải trí & Showbiz,959,1
+article_1262,1,Clickbait,Kênh14,Giải trí & Showbiz,962,1
+article_1265,1,Clickbait,SaoStar,Giải trí & Showbiz,2768,1
+article_1271,1,Clickbait,SaoStar,Giải trí & Showbiz,2773,1
+article_1277,0,Non-clickbait,SaoStar,Giải trí & Showbiz,2778,1
+article_1281,1,Clickbait,SaoStar,Giải trí & Showbiz,969,1
+article_1288,1,Clickbait,SaoStar,Giải trí & Showbiz,970,1
+article_1292,1,Clickbait,SaoStar,Giải trí & Showbiz,2789,1
+article_1294,1,Clickbait,24h,Kinh doanh & Kinh tế,972,1
+article_1296,1,Clickbait,24h,Kinh doanh & Kinh tế,2790,1
+article_1312,1,Clickbait,24h,Kinh doanh & Kinh tế,2799,1
+article_1315,0,Non-clickbait,24h,Kinh doanh & Kinh tế,982,1
+article_1321,0,Non-clickbait,Báo Mới,Other,985,1
+article_1331,1,Clickbait,Báo Mới,Kinh doanh & Kinh tế,2805,1
+article_1338,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,997,1
+article_1339,1,Clickbait,Báo Mới,Other,2809,1
+article_1360,0,Non-clickbait,Báo Mới,Other,1016,1
+article_1361,0,Non-clickbait,Báo Mới,Other,1017,1
+article_1365,0,Non-clickbait,Báo Mới,Other,1021,1
+article_1374,0,Non-clickbait,VnExpress,Other,1030,1
+article_1381,1,Clickbait,VnExpress,Other,2813,1
+article_1386,1,Clickbait,VnExpress,Other,2816,1
+article_1389,0,Non-clickbait,VnExpress,Other,1036,1
+article_1397,0,Non-clickbait,VnExpress,Other,1042,1
+article_1405,0,Non-clickbait,VnExpress,Other,1050,1
+article_1407,1,Clickbait,VnExpress,Other,2820,1
+article_1408,0,Non-clickbait,VnExpress,Other,1052,1
+article_1415,0,Non-clickbait,VnExpress,Other,1057,1
+article_1417,0,Non-clickbait,VnExpress,Other,1058,1
+article_1423,0,Non-clickbait,VnExpress,Other,1064,1
+article_1424,0,Non-clickbait,VnExpress,Other,1065,1
+article_1429,0,Non-clickbait,Tuổi Trẻ,Xe & Vận tải,1069,1
+article_1430,0,Non-clickbait,Tuổi Trẻ,Xe & Vận tải,1070,1
+article_1439,0,Non-clickbait,Tuổi Trẻ,Xe & Vận tải,1074,1
+article_1441,0,Non-clickbait,Tuổi Trẻ,Other,1075,1
+article_1450,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2832,1
+article_1451,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2833,1
+article_1464,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1078,1
+article_1466,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2844,1
+article_1479,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1086,1
+article_1484,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2849,1
+article_1490,1,Clickbait,Thanh Niên,Other,2851,1
+article_1494,0,Non-clickbait,Thanh Niên,Other,2854,1
+article_1495,0,Non-clickbait,Thanh Niên,Other,1095,1
+article_1496,0,Non-clickbait,Thanh Niên,Other,1096,1
+article_1511,0,Non-clickbait,VietNamNet,Quốc tế,1111,1
+article_1522,0,Non-clickbait,VietNamNet,Quốc tế,1121,1
+article_1528,0,Non-clickbait,VietNamNet,Quốc tế,1127,1
+article_1535,1,Clickbait,Kênh14,Other,2855,1
+article_1539,0,Non-clickbait,SaoStar,Thể thao,1134,1
+article_1542,0,Non-clickbait,SaoStar,Thể thao,1136,1
+article_1543,1,Clickbait,SaoStar,Thể thao,1137,1
+article_1567,0,Non-clickbait,SaoStar,Thể thao,1152,1
+article_1569,0,Non-clickbait,24h,Thể thao,1154,1
+article_1576,0,Non-clickbait,24h,Thể thao,1160,1
+article_1582,0,Non-clickbait,24h,Thể thao,1166,1
+article_1590,0,Non-clickbait,24h,Thể thao,1171,1
+article_1591,0,Non-clickbait,24h,Thể thao,1172,1
+article_1603,0,Non-clickbait,24h,Thể thao,1179,1
+article_1604,0,Non-clickbait,24h,Thể thao,1180,1
+article_1610,0,Non-clickbait,24h,Thể thao,1184,1
+article_1612,0,Non-clickbait,24h,Thể thao,1186,1
+article_1614,0,Non-clickbait,24h,Thể thao,1187,1
+article_1621,0,Non-clickbait,24h,Thể thao,1193,1
+article_1622,1,Clickbait,24h,Thể thao,2871,1
+article_1623,1,Clickbait,24h,Thể thao,2872,1
+article_1628,1,Clickbait,24h,Thể thao,2874,1
+article_1643,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1209,1
+article_1648,0,Non-clickbait,Báo Mới,Other,1214,1
+article_1650,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1216,1
+article_1651,0,Non-clickbait,Báo Mới,Other,1217,1
+article_1653,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1219,1
+article_1657,0,Non-clickbait,Báo Mới,Other,1223,1
+article_1659,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1225,1
+article_1661,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1227,1
+article_1663,0,Non-clickbait,Báo Mới,Other,1229,1
+article_1669,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1235,1
+article_1671,0,Non-clickbait,Báo Mới,Other,1237,1
+article_1674,0,Non-clickbait,Báo Mới,Other,1240,1
+article_1677,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1243,1
+article_1681,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1247,1
+article_1688,0,Non-clickbait,Báo Mới,Other,1253,1
+article_1693,0,Non-clickbait,VnExpress,Thể thao,1258,1
+article_1719,0,Non-clickbait,VnExpress,Thể thao,1272,1
+article_1727,0,Non-clickbait,VnExpress,Thể thao,2879,1
+article_1729,0,Non-clickbait,VnExpress,Thể thao,1277,1
+article_1741,1,Clickbait,VnExpress,Thể thao,1288,1
+article_1743,0,Non-clickbait,VnExpress,Thể thao,1290,1
+article_1751,1,Clickbait,VnExpress,Thể thao,1295,1
+article_1754,0,Non-clickbait,VnExpress,Thể thao,1298,1
+article_1756,0,Non-clickbait,VnExpress,Thể thao,1300,1
+article_1767,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1307,1
+article_1785,1,Clickbait,Thanh Niên,Giáo dục & Học đường,2884,1
+article_1788,1,Clickbait,Thanh Niên,Giáo dục & Học đường,2885,1
+article_1789,1,Clickbait,Thanh Niên,Giáo dục & Học đường,2886,1
+article_1801,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1333,1
+article_1814,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1343,1
+article_1823,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1349,1
+article_1826,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1352,1
+article_1837,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1354,1
+article_1849,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,1356,1
+article_1857,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1360,1
+article_1859,0,Non-clickbait,Kênh14,Giáo dục & Học đường,1361,1
+article_1863,1,Clickbait,Kênh14,Giáo dục & Học đường,1365,1
+article_1867,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2902,1
+article_1870,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2905,1
+article_1871,1,Clickbait,SaoStar,Sức khỏe & Đời sống,1367,1
+article_1878,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2909,1
+article_1879,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2910,1
+article_1885,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2916,1
+article_1886,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2917,1
+article_1887,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2918,1
+article_1898,0,Non-clickbait,24h,Thể thao,1374,1
+article_1905,0,Non-clickbait,24h,Thể thao,1379,1
+article_1906,0,Non-clickbait,24h,Thể thao,1380,1
+article_1923,0,Non-clickbait,Báo Mới,Other,1394,1
+article_1927,0,Non-clickbait,Báo Mới,Thể thao,1397,1
+article_1933,0,Non-clickbait,Báo Mới,Thể thao,1401,1
+article_1934,0,Non-clickbait,Báo Mới,Thể thao,1402,1
+article_1941,0,Non-clickbait,Báo Mới,Thể thao,1405,1
+article_1962,0,Non-clickbait,VnExpress,Other,1418,1
+article_1964,0,Non-clickbait,VnExpress,Other,1419,1
+article_1968,0,Non-clickbait,VnExpress,Other,1420,1
+article_1976,0,Non-clickbait,VnExpress,Other,2939,1
+article_1979,0,Non-clickbait,VnExpress,Other,1427,1
+article_1982,0,Non-clickbait,VnExpress,Other,1430,1
+article_1984,0,Non-clickbait,VnExpress,Other,1432,1
+article_1987,0,Non-clickbait,VnExpress,Other,1434,1
+article_1991,0,Non-clickbait,VnExpress,Other,1437,1
+article_1997,1,Clickbait,VnExpress,Other,2943,1
+article_1999,0,Non-clickbait,VnExpress,Other,1441,1
+article_2005,0,Non-clickbait,VnExpress,Other,1446,1
+article_2015,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1452,1
+article_2016,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1453,1
+article_2033,0,Non-clickbait,Thanh Niên,Other,1465,1
+article_2038,0,Non-clickbait,Thanh Niên,Other,2950,1
+article_2042,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1473,1
+article_2055,1,Clickbait,Thanh Niên,Other,2954,1
+article_2056,0,Non-clickbait,Thanh Niên,Other,1483,1
+article_2057,0,Non-clickbait,Thanh Niên,Other,1484,1
+article_2061,1,Clickbait,Thanh Niên,Du lịch & Ẩm thực,1488,1
+article_2065,0,Non-clickbait,Thanh Niên,Other,1491,1
+article_2071,1,Clickbait,Thanh Niên,Other,2958,1
+article_2077,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1497,1
+article_2082,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1499,1
+article_2085,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1502,1
+article_2092,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1505,1
+article_2098,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1508,1
+article_2100,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1510,1
+article_2106,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2967,1
+article_2115,1,Clickbait,SaoStar,Giáo dục & Học đường,2970,1
+article_2116,0,Non-clickbait,SaoStar,Giáo dục & Học đường,1518,1
+article_2117,0,Non-clickbait,SaoStar,Giáo dục & Học đường,1519,1
+article_2124,1,Clickbait,SaoStar,Giáo dục & Học đường,2972,1
+article_2128,0,Non-clickbait,SaoStar,Giáo dục & Học đường,1521,1
+article_2135,1,Clickbait,SaoStar,Giáo dục & Học đường,2978,1
+article_2136,0,Non-clickbait,SaoStar,Giáo dục & Học đường,1525,1
+article_2141,1,Clickbait,24h,Công nghệ & Khoa học,2982,1
+article_2146,1,Clickbait,24h,Công nghệ & Khoa học,2986,1
+article_2153,1,Clickbait,24h,Công nghệ & Khoa học,2989,1
+article_2154,0,Non-clickbait,24h,Công nghệ & Khoa học,1529,1
+article_2175,1,Clickbait,Báo Mới,Other,1534,1
+article_2188,1,Clickbait,Báo Mới,Other,3008,1
+article_2190,0,Non-clickbait,Báo Mới,Giải trí & Showbiz,1542,1
+article_2194,1,Clickbait,Báo Mới,Giải trí & Showbiz,1545,1
+article_2196,0,Non-clickbait,Báo Mới,Giải trí & Showbiz,1547,1
+article_2199,0,Non-clickbait,Báo Mới,Other,1549,1
+article_2200,1,Clickbait,Báo Mới,Other,3010,1
+article_2209,1,Clickbait,Báo Mới,Giải trí & Showbiz,3013,1
+article_2210,0,Non-clickbait,Báo Mới,Other,1554,1
+article_2220,0,Non-clickbait,VnExpress,Other,1559,1
+article_2228,0,Non-clickbait,VnExpress,Other,1565,1
+article_2231,0,Non-clickbait,VnExpress,Other,1568,1
+article_2235,0,Non-clickbait,VnExpress,Other,1571,1
+article_2252,0,Non-clickbait,VnExpress,Other,1584,1
+article_2253,0,Non-clickbait,VnExpress,Other,1585,1
+article_2264,0,Non-clickbait,VnExpress,Other,1593,1
+article_2279,0,Non-clickbait,Tuổi Trẻ,Giải trí & Showbiz,1600,1
+article_2292,0,Non-clickbait,Thanh Niên,Other,1609,1
+article_2302,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1617,1
+article_2303,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1618,1
+article_2305,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1620,1
+article_2307,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1622,1
+article_2310,0,Non-clickbait,Thanh Niên,Other,1624,1
+article_2315,0,Non-clickbait,Thanh Niên,Other,1627,1
+article_2328,1,Clickbait,Thanh Niên,Kinh doanh & Kinh tế,3033,1
+article_2332,0,Non-clickbait,Thanh Niên,Other,1640,1
+article_2337,1,Clickbait,VietNamNet,Công nghệ & Khoa học,3035,1
+article_2343,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1646,1
+article_2345,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1648,1
+article_2351,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1651,1
+article_2354,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1653,1
+article_2370,0,Non-clickbait,Kênh14,Sức khỏe & Đời sống,1665,1
+article_2383,1,Clickbait,SaoStar,Kinh doanh & Kinh tế,1669,1
+article_2389,1,Clickbait,SaoStar,Kinh doanh & Kinh tế,1672,1
+article_2406,0,Non-clickbait,24h,Other,1677,1
+article_2411,1,Clickbait,24h,Other,3049,1
+article_2414,1,Clickbait,24h,Other,3052,1
+article_2424,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1686,1
+article_2432,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1694,1
+article_2433,0,Non-clickbait,Báo Mới,Other,1695,1
+article_2438,0,Non-clickbait,Báo Mới,Other,1699,1
+article_2439,0,Non-clickbait,Báo Mới,Other,1700,1
+article_2450,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1710,1
+article_2455,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1715,1
+article_2456,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1716,1
+article_2462,0,Non-clickbait,Báo Mới,Other,1722,1
+article_2467,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1726,1
+article_2472,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1731,1
+article_2482,0,Non-clickbait,Báo Mới,Other,1741,1
+article_2497,0,Non-clickbait,VnExpress,Other,1752,1
+article_2505,0,Non-clickbait,VnExpress,Other,3061,1
+article_2512,0,Non-clickbait,VnExpress,Other,1763,1
+article_2518,0,Non-clickbait,VnExpress,Other,1768,1
+article_2521,0,Non-clickbait,VnExpress,Other,1771,1
+article_2533,0,Non-clickbait,VnExpress,Other,1779,1
+article_2536,0,Non-clickbait,VnExpress,Other,1781,1
+article_2543,0,Non-clickbait,Tuổi Trẻ,Thể thao,1785,1
+article_2553,1,Clickbait,Tuổi Trẻ,Thể thao,3072,1
+article_2566,1,Clickbait,Thanh Niên,Other,1803,1
+article_2571,0,Non-clickbait,Thanh Niên,Giải trí & Showbiz,1806,1
+article_2573,0,Non-clickbait,Thanh Niên,Giải trí & Showbiz,1808,1
+article_2575,1,Clickbait,Thanh Niên,Giải trí & Showbiz,1810,1
+article_2588,0,Non-clickbait,Thanh Niên,Other,1815,1
+article_2591,1,Clickbait,Thanh Niên,Giải trí & Showbiz,3082,1
+article_2596,0,Non-clickbait,Thanh Niên,Other,1818,1
+article_2597,0,Non-clickbait,Thanh Niên,Other,1819,1
+article_2599,1,Clickbait,Thanh Niên,Other,3084,1
+article_2610,1,Clickbait,Thanh Niên,Chính trị & An ninh,3090,1
+article_2612,1,Clickbait,Thanh Niên,Chính trị & An ninh,3092,1
+article_2616,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1826,1
+article_2617,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1827,1
+article_2619,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1829,1
+article_2620,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1830,1
+article_2621,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1831,1
+article_2626,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1834,1
+article_2639,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1842,1
+article_2644,1,Clickbait,SaoStar,Công nghệ & Khoa học,3100,1
+article_2647,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1847,1
+article_2648,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1848,1
+article_2652,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1852,1
+article_2674,1,Clickbait,24h,Other,3106,1
+article_2689,0,Non-clickbait,24h,Other,1873,1
+article_2694,0,Non-clickbait,24h,Other,1876,1
+article_2698,0,Non-clickbait,24h,Other,1878,1
+article_2706,0,Non-clickbait,Báo Mới,Other,1885,1
+article_2707,0,Non-clickbait,Báo Mới,Other,1886,1
+article_2708,0,Non-clickbait,Báo Mới,Other,1887,1
+article_2713,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1892,1
+article_2719,0,Non-clickbait,Báo Mới,Other,1898,1
+article_2720,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1899,1
+article_2722,0,Non-clickbait,Báo Mới,Other,1901,1
+article_2727,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3116,1
+article_2731,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1907,1
+article_2737,1,Clickbait,Báo Mới,Other,3119,1
+article_2739,0,Non-clickbait,Báo Mới,Other,1913,1
+article_2743,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1917,1
+article_2753,1,Clickbait,Báo Mới,Other,3121,1
+article_2754,0,Non-clickbait,Báo Mới,Other,1926,1
+article_2756,1,Clickbait,VnExpress,Other,3122,1
+article_2764,1,Clickbait,VnExpress,Other,3125,1
+article_2768,0,Non-clickbait,VnExpress,Other,1928,1
+article_2786,1,Clickbait,VnExpress,Other,3133,1
+article_2789,1,Clickbait,VnExpress,Other,3135,1
+article_2793,1,Clickbait,VnExpress,Other,3137,1
+article_2800,1,Clickbait,VnExpress,Other,3141,1
+article_2809,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1945,1
+article_2815,1,Clickbait,Tuổi Trẻ,Giáo dục & Học đường,3145,1
+article_2820,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1955,1
+article_2822,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1956,1
+article_2832,0,Non-clickbait,Thanh Niên,Thể thao,1961,1
+article_2833,0,Non-clickbait,Thanh Niên,Thể thao,1962,1
+article_2834,0,Non-clickbait,Thanh Niên,Thể thao,1963,1
+article_2836,0,Non-clickbait,Thanh Niên,Thể thao,1965,1
+article_2847,0,Non-clickbait,Thanh Niên,Other,1972,1
+article_2854,1,Clickbait,Thanh Niên,Other,3156,1
+article_2857,0,Non-clickbait,Thanh Niên,Other,1978,1
+article_2864,1,Clickbait,Thanh Niên,Other,3159,1
+article_2866,0,Non-clickbait,Thanh Niên,Other,1984,1
+article_2876,1,Clickbait,Thanh Niên,Other,3162,1
+article_2879,0,Non-clickbait,Thanh Niên,Other,1990,1
+article_2883,1,Clickbait,Thanh Niên,Other,1993,1
+article_2885,1,Clickbait,VietNamNet,Xe & Vận tải,1995,1
+article_2889,1,Clickbait,VietNamNet,Xe & Vận tải,3165,1
+article_2893,0,Non-clickbait,VietNamNet,Xe & Vận tải,1999,1
+article_2896,1,Clickbait,VietNamNet,Xe & Vận tải,3167,1
+article_2910,1,Clickbait,VietNamNet,Xe & Vận tải,3173,1
+article_2915,0,Non-clickbait,VietNamNet,Xe & Vận tải,2008,1
+article_2916,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,2009,1
+article_2929,1,Clickbait,SaoStar,Du lịch & Ẩm thực,3180,1
+article_2954,1,Clickbait,24h,Other,3190,1
+article_2972,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3199,1
+article_2973,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3200,1
+article_2978,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3204,1
+article_2982,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2026,1
+article_2983,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3206,1
+article_2990,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3207,1
+article_2993,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2030,1
+article_2996,1,Clickbait,Báo Mới,Công nghệ & Khoa học,2032,1
+article_2998,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3211,1
+article_3020,0,Non-clickbait,VnExpress,Other,2044,1
+article_3030,1,Clickbait,VnExpress,Other,3219,1
+article_3034,0,Non-clickbait,VnExpress,Other,2052,1
+article_3037,0,Non-clickbait,VnExpress,Other,2054,1
+article_3042,0,Non-clickbait,VnExpress,Other,2057,1
+article_3043,0,Non-clickbait,VnExpress,Other,2058,1
+article_3047,0,Non-clickbait,VnExpress,Other,2061,1
+article_3058,1,Clickbait,VnExpress,Other,3225,1
+article_3061,0,Non-clickbait,VnExpress,Other,2069,1
+article_3064,1,Clickbait,VnExpress,Other,3226,1
+article_3066,0,Non-clickbait,VnExpress,Other,2071,1
+article_3074,0,Non-clickbait,Tuổi Trẻ,Other,2077,1
+article_3077,0,Non-clickbait,Tuổi Trẻ,Tin tức tổng hợp,2080,1
+article_3081,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,2083,1
+article_3082,0,Non-clickbait,Tuổi Trẻ,Other,2084,1
+article_3107,1,Clickbait,Thanh Niên,Other,3235,1
+article_3110,0,Non-clickbait,Thanh Niên,Other,2104,1
+article_3111,1,Clickbait,Thanh Niên,Other,3236,1
+article_3118,1,Clickbait,Thanh Niên,Other,3239,1
+article_3119,0,Non-clickbait,Thanh Niên,Other,2109,1
+article_3123,1,Clickbait,Thanh Niên,Other,3240,1
+article_3124,0,Non-clickbait,Thanh Niên,Other,2112,1
+article_3127,0,Non-clickbait,Thanh Niên,Other,2115,1
+article_3128,1,Clickbait,VietNamNet,Other,3241,1
+article_3129,1,Clickbait,VietNamNet,Other,3242,1
+article_3132,0,Non-clickbait,VietNamNet,Other,2116,1
+article_3136,1,Clickbait,VietNamNet,Other,3246,1
+article_3143,0,Non-clickbait,VietNamNet,Other,2123,1
+article_3144,1,Clickbait,VietNamNet,Other,3248,1
+article_3145,1,Clickbait,VietNamNet,Other,3249,1
+article_3149,1,Clickbait,VietNamNet,Other,2126,1
+article_3152,0,Non-clickbait,VietNamNet,Other,2128,1
+article_3156,1,Clickbait,VietNamNet,Other,3251,1
+article_3163,0,Non-clickbait,24h,Giải trí & Showbiz,2134,1
+article_3166,1,Clickbait,24h,Giải trí & Showbiz,3257,1
+article_3167,1,Clickbait,24h,Giải trí & Showbiz,2136,1
+article_3169,1,Clickbait,24h,Giải trí & Showbiz,3258,1
+article_3172,1,Clickbait,24h,Giải trí & Showbiz,3261,1
+article_3175,1,Clickbait,24h,Giải trí & Showbiz,3262,1
+article_3183,1,Clickbait,24h,Giải trí & Showbiz,3265,1
+article_3188,0,Non-clickbait,24h,Giải trí & Showbiz,2142,1
+article_3197,1,Clickbait,24h,Giải trí & Showbiz,2148,1
+article_3200,0,Non-clickbait,24h,Giải trí & Showbiz,2151,1
+article_3209,1,Clickbait,24h,Giải trí & Showbiz,3272,1
+article_3210,0,Non-clickbait,24h,Giải trí & Showbiz,2154,1
+article_3213,0,Non-clickbait,24h,Giải trí & Showbiz,2156,1
+article_3217,1,Clickbait,24h,Giải trí & Showbiz,3275,1
+article_3233,1,Clickbait,24h,Giải trí & Showbiz,3286,1
+article_3243,0,Non-clickbait,Báo Mới,Other,2171,1
+article_3254,0,Non-clickbait,Báo Mới,Other,2181,1
+article_3255,0,Non-clickbait,Báo Mới,Other,2182,1
+article_3263,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2184,1
+article_3267,0,Non-clickbait,Báo Mới,Other,2188,1
+article_3270,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2191,1
+article_3274,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2193,1
+article_3278,0,Non-clickbait,Báo Mới,Other,2197,1
+article_3280,0,Non-clickbait,VnExpress,Other,2199,1
+article_3284,0,Non-clickbait,VnExpress,Other,2200,1
+article_3296,0,Non-clickbait,VnExpress,Other,2207,1
+article_3301,0,Non-clickbait,VnExpress,Other,2211,1
+article_3314,0,Non-clickbait,VnExpress,Other,2217,1
+article_3316,0,Non-clickbait,VnExpress,Other,2219,1
+article_3320,0,Non-clickbait,VnExpress,Other,2223,1
+article_3325,0,Non-clickbait,VnExpress,Other,2226,1
+article_3326,1,Clickbait,VnExpress,Other,3302,1
+article_3329,0,Non-clickbait,VnExpress,Other,2229,1
+article_3331,0,Non-clickbait,VnExpress,Other,2230,1
+article_3332,0,Non-clickbait,VnExpress,Other,2231,1
+article_3339,0,Non-clickbait,VnExpress,Other,2234,1
+article_3340,1,Clickbait,VnExpress,Other,3304,1
+article_3343,0,Non-clickbait,VnExpress,Other,2236,1
+article_3345,0,Non-clickbait,VnExpress,Other,2237,1
+article_3355,1,Clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,2243,1
+article_3364,0,Non-clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,2248,1
+article_3375,1,Clickbait,Thanh Niên,Other,3316,1
+article_3377,0,Non-clickbait,Thanh Niên,Other,2254,1
+article_3378,1,Clickbait,Thanh Niên,Other,3317,1
+article_3379,0,Non-clickbait,Thanh Niên,Other,2255,1
+article_3390,0,Non-clickbait,Thanh Niên,Other,2264,1
+article_3398,0,Non-clickbait,Thanh Niên,Other,2268,1
+article_3401,0,Non-clickbait,Thanh Niên,Other,2270,1
+article_3402,1,Clickbait,Thanh Niên,Other,3323,1
+article_3415,0,Non-clickbait,VietNamNet,Du lịch & Ẩm thực,2272,1
+article_3421,1,Clickbait,VietNamNet,Du lịch & Ẩm thực,3332,1
+article_3428,0,Non-clickbait,VietNamNet,Du lịch & Ẩm thực,2279,1
+article_3434,0,Non-clickbait,VietNamNet,Du lịch & Ẩm thực,2282,1
+article_3435,0,Non-clickbait,24h,Xe & Vận tải,2283,1
+article_3441,0,Non-clickbait,24h,Xe & Vận tải,2286,1
+article_3450,0,Non-clickbait,24h,Xe & Vận tải,2292,1
+article_3463,0,Non-clickbait,24h,Xe & Vận tải,2297,1
+article_3467,0,Non-clickbait,Báo Mới,Xe & Vận tải,2300,1
+article_3481,0,Non-clickbait,Báo Mới,Xe & Vận tải,2311,1
+article_3482,0,Non-clickbait,Báo Mới,Xe & Vận tải,2312,1
+article_3492,0,Non-clickbait,Báo Mới,Xe & Vận tải,2322,1
+article_3493,0,Non-clickbait,Báo Mới,Xe & Vận tải,2323,1
+article_3499,0,Non-clickbait,Báo Mới,Xe & Vận tải,2328,1
+article_3509,1,Clickbait,Báo Mới,Xe & Vận tải,3345,1
+article_3511,0,Non-clickbait,Báo Mới,Xe & Vận tải,2339,1
+article_3526,1,Clickbait,Tuổi Trẻ,Other,3349,1
+article_3538,0,Non-clickbait,VietNamNet,Other,2354,1
+article_3559,0,Non-clickbait,24h,Xe & Vận tải,2364,1
+article_3560,0,Non-clickbait,24h,Xe & Vận tải,2365,1
+article_3575,0,Non-clickbait,24h,Xe & Vận tải,2376,1
+article_3579,1,Clickbait,24h,Xe & Vận tải,2378,1
+article_3580,0,Non-clickbait,24h,Xe & Vận tải,2379,1
+article_3585,1,Clickbait,Báo Mới,Other,2383,1
+article_3589,0,Non-clickbait,Báo Mới,Other,2387,1
+article_3593,0,Non-clickbait,Báo Mới,Other,2390,1
+article_3602,0,Non-clickbait,Báo Mới,Other,2398,1
+article_3606,0,Non-clickbait,Báo Mới,Other,2402,1
+article_3610,0,Non-clickbait,Báo Mới,Other,2406,1
+article_3614,0,Non-clickbait,Báo Mới,Other,2410,1
+article_3625,0,Non-clickbait,Báo Mới,Other,2419,1
+article_3627,0,Non-clickbait,Báo Mới,Other,2421,1
+article_3631,0,Non-clickbait,Báo Mới,Other,2424,1
+article_3640,1,Clickbait,Báo Mới,Other,3360,1
+article_3642,0,Non-clickbait,Báo Mới,Other,2434,1
+article_3643,0,Non-clickbait,Báo Mới,Other,2435,1
+article_3646,0,Non-clickbait,Báo Mới,Other,2438,1
+article_3652,0,Non-clickbait,24h,Giải trí & Showbiz,2442,1
+article_3656,1,Clickbait,24h,Giải trí & Showbiz,3364,1
+article_3698,1,Clickbait,24h,Sức khỏe & Đời sống,3373,1
+article_3699,1,Clickbait,24h,Sức khỏe & Đời sống,3374,1
+article_3700,1,Clickbait,24h,Sức khỏe & Đời sống,3375,1
+article_3712,1,Clickbait,24h,Sức khỏe & Đời sống,3385,1
+article_3719,1,Clickbait,24h,Sức khỏe & Đời sống,3387,1
+article_3730,1,Clickbait,24h,Du lịch & Ẩm thực,2466,1
+article_3731,0,Non-clickbait,24h,Du lịch & Ẩm thực,2467,1
+article_3748,1,Clickbait,24h,Du lịch & Ẩm thực,3394,1
+article_3749,1,Clickbait,24h,Du lịch & Ẩm thực,3395,1
+article_3761,0,Non-clickbait,24h,Du lịch & Ẩm thực,2475,1
+article_3771,1,Clickbait,24h,Du lịch & Ẩm thực,3404,1
+article_3773,1,Clickbait,24h,Du lịch & Ẩm thực,2480,1
+article_3775,1,Clickbait,24h,Du lịch & Ẩm thực,3406,1
+article_3777,0,Non-clickbait,24h,Du lịch & Ẩm thực,2482,1
+article_3778,0,Non-clickbait,24h,Du lịch & Ẩm thực,2483,1
+article_3786,0,Non-clickbait,24h,Giáo dục & Học đường,2489,1
+article_3794,1,Clickbait,24h,Giáo dục & Học đường,3409,1
+article_3795,0,Non-clickbait,24h,Giáo dục & Học đường,3410,1
+article_0001,0,Non-clickbait,VnExpress,Tin tức tổng hợp,0,2
+article_0017,0,Non-clickbait,VnExpress,Tin tức tổng hợp,11,2
+article_0022,0,Non-clickbait,VnExpress,Tin tức tổng hợp,16,2
+article_0026,0,Non-clickbait,VnExpress,Tin tức tổng hợp,20,2
+article_0037,0,Non-clickbait,VnExpress,Tin tức tổng hợp,31,2
+article_0040,0,Non-clickbait,VnExpress,Tin tức tổng hợp,34,2
+article_0041,0,Non-clickbait,VnExpress,Tin tức tổng hợp,35,2
+article_0052,0,Non-clickbait,Tuổi Trẻ,Tin tức tổng hợp,46,2
+article_0053,0,Non-clickbait,Tuổi Trẻ,Tin tức tổng hợp,47,2
+article_0063,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,55,2
+article_0074,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,65,2
+article_0077,0,Non-clickbait,Thanh Niên,Other,68,2
+article_0081,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,72,2
+article_0083,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,74,2
+article_0097,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,87,2
+article_0100,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,90,2
+article_0114,0,Non-clickbait,VietNamNet,Chính trị & An ninh,104,2
+article_0115,0,Non-clickbait,VietNamNet,Chính trị & An ninh,105,2
+article_0117,0,Non-clickbait,VietNamNet,Chính trị & An ninh,106,2
+article_0122,0,Non-clickbait,VietNamNet,Chính trị & An ninh,111,2
+article_0123,0,Non-clickbait,VietNamNet,Chính trị & An ninh,112,2
+article_0124,0,Non-clickbait,VietNamNet,Chính trị & An ninh,113,2
+article_0125,0,Non-clickbait,VietNamNet,Chính trị & An ninh,114,2
+article_0126,0,Non-clickbait,VietNamNet,Chính trị & An ninh,115,2
+article_0127,0,Non-clickbait,VietNamNet,Chính trị & An ninh,116,2
+article_0133,0,Non-clickbait,VietNamNet,Chính trị & An ninh,122,2
+article_0135,0,Non-clickbait,VietNamNet,Chính trị & An ninh,124,2
+article_0150,1,Clickbait,SaoStar,Giải trí & Showbiz,128,2
+article_0151,1,Clickbait,SaoStar,Giải trí & Showbiz,129,2
+article_0154,1,Clickbait,SaoStar,Giải trí & Showbiz,132,2
+article_0157,1,Clickbait,SaoStar,Giải trí & Showbiz,135,2
+article_0158,1,Clickbait,SaoStar,Giải trí & Showbiz,136,2
+article_0169,1,Clickbait,SaoStar,Giải trí & Showbiz,143,2
+article_0172,1,Clickbait,SaoStar,Giải trí & Showbiz,146,2
+article_0174,1,Clickbait,SaoStar,Giải trí & Showbiz,148,2
+article_0177,0,Non-clickbait,24h,Tin tức tổng hợp,151,2
+article_0185,0,Non-clickbait,24h,Tin tức tổng hợp,159,2
+article_0186,0,Non-clickbait,24h,Tin tức tổng hợp,160,2
+article_0191,0,Non-clickbait,24h,Tin tức tổng hợp,164,2
+article_0216,0,Non-clickbait,24h,Quốc tế,183,2
+article_0218,1,Clickbait,24h,Quốc tế,2523,2
+article_0225,1,Clickbait,Báo Mới,Thể thao,187,2
+article_0226,1,Clickbait,Báo Mới,Thể thao,188,2
+article_0228,1,Clickbait,Báo Mới,Thể thao,190,2
+article_0242,0,Non-clickbait,Báo Mới,Thể thao,195,2
+article_0254,0,Non-clickbait,Báo Mới,Thể thao,205,2
+article_0266,0,Non-clickbait,Báo Mới,Thể thao,217,2
+article_0272,1,Clickbait,Báo Mới,Thể thao,2540,2
+article_0275,0,Non-clickbait,Báo Mới,Thể thao,224,2
+article_0283,0,Non-clickbait,VnExpress,Quốc tế,228,2
+article_0287,0,Non-clickbait,VnExpress,Quốc tế,232,2
+article_0288,0,Non-clickbait,VnExpress,Quốc tế,233,2
+article_0293,0,Non-clickbait,VnExpress,Quốc tế,238,2
+article_0294,0,Non-clickbait,VnExpress,Quốc tế,239,2
+article_0299,0,Non-clickbait,VnExpress,Quốc tế,243,2
+article_0306,0,Non-clickbait,VnExpress,Quốc tế,2547,2
+article_0313,0,Non-clickbait,VnExpress,Quốc tế,250,2
+article_0317,0,Non-clickbait,VnExpress,Quốc tế,254,2
+article_0321,0,Non-clickbait,VnExpress,Quốc tế,258,2
+article_0327,0,Non-clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,264,2
+article_0335,0,Non-clickbait,Tuổi Trẻ,Quốc tế,271,2
+article_0342,0,Non-clickbait,Tuổi Trẻ,Quốc tế,277,2
+article_0345,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,280,2
+article_0358,0,Non-clickbait,Thanh Niên,Other,291,2
+article_0366,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,2555,2
+article_0369,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,300,2
+article_0370,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,301,2
+article_0382,0,Non-clickbait,Thanh Niên,Other,312,2
+article_0384,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,314,2
+article_0385,0,Non-clickbait,Thanh Niên,Other,315,2
+article_0387,0,Non-clickbait,Thanh Niên,Other,317,2
+article_0391,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,2556,2
+article_0400,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,324,2
+article_0403,1,Clickbait,VietNamNet,Tin tức tổng hợp,2560,2
+article_0423,1,Clickbait,Kênh14,Thể thao,344,2
+article_0426,1,Clickbait,SaoStar,Sức khỏe & Đời sống,347,2
+article_0430,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,350,2
+article_0434,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2563,2
+article_0437,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2565,2
+article_0438,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2566,2
+article_0441,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,357,2
+article_0449,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,363,2
+article_0451,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2570,2
+article_0453,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,365,2
+article_0459,0,Non-clickbait,24h,Quốc tế,2572,2
+article_0470,0,Non-clickbait,24h,Quốc tế,377,2
+article_0483,0,Non-clickbait,24h,Quốc tế,386,2
+article_0484,0,Non-clickbait,24h,Quốc tế,387,2
+article_0491,0,Non-clickbait,24h,Quốc tế,394,2
+article_0505,1,Clickbait,Báo Mới,Quốc tế,2583,2
+article_0506,0,Non-clickbait,Báo Mới,Quốc tế,404,2
+article_0518,1,Clickbait,Báo Mới,Quốc tế,412,2
+article_0522,0,Non-clickbait,Báo Mới,Quốc tế,415,2
+article_0524,0,Non-clickbait,Báo Mới,Quốc tế,417,2
+article_0531,0,Non-clickbait,Báo Mới,Quốc tế,423,2
+article_0552,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,439,2
+article_0560,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,443,2
+article_0564,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,447,2
+article_0565,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,448,2
+article_0578,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,459,2
+article_0579,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,460,2
+article_0583,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,463,2
+article_0584,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,464,2
+article_0592,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,472,2
+article_0593,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,473,2
+article_0594,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,474,2
+article_0597,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,477,2
+article_0602,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,482,2
+article_0605,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,485,2
+article_0606,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,486,2
+article_0621,0,Non-clickbait,Thanh Niên,Quốc tế,498,2
+article_0623,1,Clickbait,Thanh Niên,Quốc tế,2601,2
+article_0628,0,Non-clickbait,Thanh Niên,Other,504,2
+article_0634,1,Clickbait,Thanh Niên,Quốc tế,2602,2
+article_0636,0,Non-clickbait,Thanh Niên,Quốc tế,511,2
+article_0638,0,Non-clickbait,Thanh Niên,Quốc tế,513,2
+article_0641,0,Non-clickbait,Thanh Niên,Quốc tế,515,2
+article_0642,0,Non-clickbait,Thanh Niên,Quốc tế,516,2
+article_0648,1,Clickbait,Thanh Niên,Other,2605,2
+article_0654,0,Non-clickbait,Thanh Niên,Other,2609,2
+article_0661,1,Clickbait,VietNamNet,Kinh doanh & Kinh tế,2614,2
+article_0665,1,Clickbait,VietNamNet,Kinh doanh & Kinh tế,527,2
+article_0670,1,Clickbait,VietNamNet,Kinh doanh & Kinh tế,2619,2
+article_0674,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,2620,2
+article_0686,1,Clickbait,VietNamNet,Kinh doanh & Kinh tế,542,2
+article_0693,1,Clickbait,Kênh14,Giải trí & Showbiz,549,2
+article_0695,1,Clickbait,Kênh14,Giải trí & Showbiz,2622,2
+article_0702,0,Non-clickbait,SaoStar,Quốc tế,2627,2
+article_0703,0,Non-clickbait,SaoStar,Quốc tế,553,2
+article_0704,1,Clickbait,SaoStar,Quốc tế,2628,2
+article_0705,1,Clickbait,SaoStar,Quốc tế,2629,2
+article_0712,1,Clickbait,SaoStar,Quốc tế,2633,2
+article_0715,1,Clickbait,SaoStar,Quốc tế,2635,2
+article_0728,1,Clickbait,SaoStar,Quốc tế,2645,2
+article_0735,0,Non-clickbait,24h,Chính trị & An ninh,563,2
+article_0736,0,Non-clickbait,24h,Chính trị & An ninh,564,2
+article_0739,0,Non-clickbait,24h,Chính trị & An ninh,2651,2
+article_0741,0,Non-clickbait,24h,Chính trị & An ninh,566,2
+article_0751,0,Non-clickbait,24h,Chính trị & An ninh,576,2
+article_0758,0,Non-clickbait,Báo Mới,Other,582,2
+article_0763,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,587,2
+article_0768,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,592,2
+article_0772,0,Non-clickbait,Báo Mới,Other,596,2
+article_0773,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,597,2
+article_0779,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,603,2
+article_0781,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,605,2
+article_0783,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,607,2
+article_0789,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,613,2
+article_0796,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,620,2
+article_0802,0,Non-clickbait,Báo Mới,Other,626,2
+article_0804,0,Non-clickbait,Báo Mới,Other,628,2
+article_0813,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,637,2
+article_0816,0,Non-clickbait,Báo Mới,Other,639,2
+article_0819,0,Non-clickbait,Báo Mới,Other,642,2
+article_0823,0,Non-clickbait,Báo Mới,Other,646,2
+article_0827,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,649,2
+article_0836,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,655,2
+article_0837,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,656,2
+article_0840,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,658,2
+article_0846,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,664,2
+article_0852,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,669,2
+article_0854,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,671,2
+article_0855,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,672,2
+article_0858,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,675,2
+article_0860,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,677,2
+article_0876,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,693,2
+article_0877,1,Clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,2657,2
+article_0885,1,Clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,2659,2
+article_0889,0,Non-clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,703,2
+article_0894,1,Clickbait,Thanh Niên,Other,2660,2
+article_0900,0,Non-clickbait,Thanh Niên,Other,712,2
+article_0901,0,Non-clickbait,Thanh Niên,Other,713,2
+article_0907,0,Non-clickbait,Thanh Niên,Kinh doanh & Kinh tế,719,2
+article_0908,1,Clickbait,Thanh Niên,Other,2662,2
+article_0909,1,Clickbait,Thanh Niên,Other,2663,2
+article_0910,0,Non-clickbait,Thanh Niên,Other,720,2
+article_0914,0,Non-clickbait,Thanh Niên,Kinh doanh & Kinh tế,724,2
+article_0917,0,Non-clickbait,Thanh Niên,Kinh doanh & Kinh tế,727,2
+article_0920,0,Non-clickbait,Thanh Niên,Other,730,2
+article_0921,0,Non-clickbait,Thanh Niên,Other,731,2
+article_0940,0,Non-clickbait,VietNamNet,Thể thao,744,2
+article_0941,0,Non-clickbait,VietNamNet,Thể thao,745,2
+article_0944,1,Clickbait,VietNamNet,Thể thao,2670,2
+article_0951,0,Non-clickbait,VietNamNet,Thể thao,752,2
+article_0958,0,Non-clickbait,VietNamNet,Thể thao,756,2
+article_0962,0,Non-clickbait,VietNamNet,Thể thao,759,2
+article_0970,1,Clickbait,Kênh14,Giải trí & Showbiz,767,2
+article_0972,1,Clickbait,Kênh14,Giải trí & Showbiz,769,2
+article_0978,1,Clickbait,SaoStar,Giải trí & Showbiz,2678,2
+article_0980,1,Clickbait,SaoStar,Giải trí & Showbiz,2680,2
+article_0981,1,Clickbait,SaoStar,Giải trí & Showbiz,774,2
+article_0990,1,Clickbait,SaoStar,Giải trí & Showbiz,776,2
+article_0992,1,Clickbait,SaoStar,Giải trí & Showbiz,2688,2
+article_0997,1,Clickbait,SaoStar,Giải trí & Showbiz,781,2
+article_1005,0,Non-clickbait,24h,Kinh doanh & Kinh tế,2692,2
+article_1009,0,Non-clickbait,24h,Kinh doanh & Kinh tế,2695,2
+article_1022,1,Clickbait,24h,Kinh doanh & Kinh tế,2707,2
+article_1024,1,Clickbait,24h,Kinh doanh & Kinh tế,2708,2
+article_1027,0,Non-clickbait,24h,Other,790,2
+article_1029,1,Clickbait,24h,Kinh doanh & Kinh tế,2709,2
+article_1031,0,Non-clickbait,24h,Kinh doanh & Kinh tế,2710,2
+article_1037,0,Non-clickbait,24h,Other,795,2
+article_1042,0,Non-clickbait,24h,Other,798,2
+article_1046,1,Clickbait,24h,Kinh doanh & Kinh tế,801,2
+article_1051,0,Non-clickbait,Báo Mới,Other,2716,2
+article_1052,0,Non-clickbait,Báo Mới,Other,806,2
+article_1056,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,810,2
+article_1058,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,811,2
+article_1061,0,Non-clickbait,Báo Mới,Other,814,2
+article_1063,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,816,2
+article_1067,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,820,2
+article_1084,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,832,2
+article_1085,1,Clickbait,Báo Mới,Other,2723,2
+article_1086,0,Non-clickbait,Báo Mới,Other,833,2
+article_1087,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,834,2
+article_1092,0,Non-clickbait,Báo Mới,Other,839,2
+article_1095,0,Non-clickbait,Báo Mới,Other,842,2
+article_1103,0,Non-clickbait,VnExpress,Other,849,2
+article_1109,0,Non-clickbait,VnExpress,Other,852,2
+article_1124,0,Non-clickbait,VnExpress,Other,866,2
+article_1126,0,Non-clickbait,VnExpress,Other,868,2
+article_1134,0,Non-clickbait,VnExpress,Other,875,2
+article_1135,0,Non-clickbait,VnExpress,Other,876,2
+article_1144,0,Non-clickbait,VnExpress,Other,885,2
+article_1145,0,Non-clickbait,VnExpress,Other,886,2
+article_1155,0,Non-clickbait,VnExpress,Other,896,2
+article_1158,0,Non-clickbait,VnExpress,Other,899,2
+article_1170,0,Non-clickbait,Tuổi Trẻ,Công nghệ & Khoa học,909,2
+article_1173,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2729,2
+article_1175,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2730,2
+article_1176,0,Non-clickbait,Tuổi Trẻ,Công nghệ & Khoa học,913,2
+article_1183,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2735,2
+article_1185,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2737,2
+article_1192,0,Non-clickbait,Thanh Niên,Other,917,2
+article_1194,0,Non-clickbait,Thanh Niên,Other,918,2
+article_1195,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2744,2
+article_1198,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,919,2
+article_1203,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,922,2
+article_1207,1,Clickbait,Thanh Niên,Other,2751,2
+article_1214,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,929,2
+article_1216,0,Non-clickbait,Thanh Niên,Other,931,2
+article_1219,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,934,2
+article_1221,1,Clickbait,Thanh Niên,Other,2753,2
+article_1223,0,Non-clickbait,Thanh Niên,Other,936,2
+article_1226,1,Clickbait,Thanh Niên,Other,2755,2
+article_1230,1,Clickbait,Thanh Niên,Other,2756,2
+article_1237,1,Clickbait,Thanh Niên,Other,945,2
+article_1242,0,Non-clickbait,Thanh Niên,Other,949,2
+article_1244,1,Clickbait,VietNamNet,Giáo dục & Học đường,2761,2
+article_1245,0,Non-clickbait,VietNamNet,Giáo dục & Học đường,951,2
+article_1248,0,Non-clickbait,VietNamNet,Giáo dục & Học đường,954,2
+article_1249,0,Non-clickbait,VietNamNet,Giáo dục & Học đường,955,2
+article_1254,0,Non-clickbait,VietNamNet,Giáo dục & Học đường,957,2
+article_1258,1,Clickbait,Kênh14,Giải trí & Showbiz,958,2
+article_1270,1,Clickbait,SaoStar,Giải trí & Showbiz,965,2
+article_1278,1,Clickbait,SaoStar,Giải trí & Showbiz,2779,2
+article_1279,0,Non-clickbait,SaoStar,Giải trí & Showbiz,967,2
+article_1282,1,Clickbait,SaoStar,Giải trí & Showbiz,2780,2
+article_1285,1,Clickbait,SaoStar,Giải trí & Showbiz,2783,2
+article_1286,0,Non-clickbait,SaoStar,Giải trí & Showbiz,2784,2
+article_1291,1,Clickbait,SaoStar,Giải trí & Showbiz,2788,2
+article_1298,1,Clickbait,24h,Other,2791,2
+article_1311,0,Non-clickbait,24h,Kinh doanh & Kinh tế,980,2
+article_1320,1,Clickbait,Báo Mới,Other,2803,2
+article_1324,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,987,2
+article_1327,0,Non-clickbait,Báo Mới,Other,990,2
+article_1328,0,Non-clickbait,Báo Mới,Other,991,2
+article_1350,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1008,2
+article_1353,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1011,2
+article_1356,0,Non-clickbait,Báo Mới,Other,1012,2
+article_1358,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1014,2
+article_1366,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1022,2
+article_1373,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1029,2
+article_1375,0,Non-clickbait,VnExpress,Other,1031,2
+article_1392,0,Non-clickbait,VnExpress,Other,1039,2
+article_1393,1,Clickbait,VnExpress,Other,2818,2
+article_1394,1,Clickbait,VnExpress,Other,2819,2
+article_1402,0,Non-clickbait,VnExpress,Other,1047,2
+article_1403,0,Non-clickbait,VnExpress,Other,1048,2
+article_1418,0,Non-clickbait,VnExpress,Other,1059,2
+article_1419,0,Non-clickbait,VnExpress,Other,1060,2
+article_1428,0,Non-clickbait,Tuổi Trẻ,Xe & Vận tải,1068,2
+article_1446,1,Clickbait,Tuổi Trẻ,Xe & Vận tải,2829,2
+article_1454,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2835,2
+article_1455,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2836,2
+article_1458,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2837,2
+article_1463,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2842,2
+article_1468,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1079,2
+article_1473,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2847,2
+article_1475,1,Clickbait,Thanh Niên,Other,1082,2
+article_1476,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1083,2
+article_1481,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1088,2
+article_1483,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1090,2
+article_1487,0,Non-clickbait,Thanh Niên,Other,1092,2
+article_1489,1,Clickbait,Thanh Niên,Other,2850,2
+article_1491,1,Clickbait,Thanh Niên,Other,2852,2
+article_1492,1,Clickbait,Thanh Niên,Other,2853,2
+article_1497,0,Non-clickbait,Thanh Niên,Other,1097,2
+article_1500,0,Non-clickbait,VietNamNet,Quốc tế,1100,2
+article_1502,0,Non-clickbait,VietNamNet,Quốc tế,1102,2
+article_1510,0,Non-clickbait,VietNamNet,Quốc tế,1110,2
+article_1515,0,Non-clickbait,VietNamNet,Quốc tế,1114,2
+article_1519,0,Non-clickbait,VietNamNet,Quốc tế,1118,2
+article_1520,0,Non-clickbait,VietNamNet,Quốc tế,1119,2
+article_1523,0,Non-clickbait,VietNamNet,Quốc tế,1122,2
+article_1525,0,Non-clickbait,VietNamNet,Quốc tế,1124,2
+article_1530,0,Non-clickbait,VietNamNet,Quốc tế,1129,2
+article_1534,0,Non-clickbait,Kênh14,Other,1131,2
+article_1538,0,Non-clickbait,SaoStar,Thể thao,1133,2
+article_1545,0,Non-clickbait,SaoStar,Thể thao,1139,2
+article_1546,1,Clickbait,SaoStar,Thể thao,1140,2
+article_1547,0,Non-clickbait,SaoStar,Thể thao,1141,2
+article_1548,0,Non-clickbait,SaoStar,Thể thao,1142,2
+article_1550,0,Non-clickbait,SaoStar,Thể thao,1143,2
+article_1572,1,Clickbait,24h,Thể thao,1156,2
+article_1578,0,Non-clickbait,24h,Thể thao,1162,2
+article_1580,0,Non-clickbait,24h,Thể thao,1164,2
+article_1584,0,Non-clickbait,24h,Thể thao,2863,2
+article_1586,0,Non-clickbait,24h,Thể thao,1167,2
+article_1588,0,Non-clickbait,24h,Thể thao,1169,2
+article_1597,1,Clickbait,24h,Thể thao,2865,2
+article_1601,0,Non-clickbait,24h,Thể thao,1177,2
+article_1602,0,Non-clickbait,24h,Thể thao,1178,2
+article_1616,0,Non-clickbait,24h,Thể thao,1189,2
+article_1618,0,Non-clickbait,24h,Thể thao,1191,2
+article_1631,1,Clickbait,24h,Thể thao,1198,2
+article_1632,0,Non-clickbait,24h,Thể thao,1199,2
+article_1633,0,Non-clickbait,Báo Mới,Other,1200,2
+article_1634,1,Clickbait,Báo Mới,Other,2876,2
+article_1636,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1202,2
+article_1639,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1205,2
+article_1641,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1207,2
+article_1647,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1213,2
+article_1666,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1232,2
+article_1670,0,Non-clickbait,Báo Mới,Other,1236,2
+article_1673,0,Non-clickbait,Báo Mới,Other,1239,2
+article_1685,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1250,2
+article_1686,0,Non-clickbait,Báo Mới,Other,1251,2
+article_1696,0,Non-clickbait,VnExpress,Thể thao,1261,2
+article_1704,0,Non-clickbait,VnExpress,Thể thao,1265,2
+article_1715,0,Non-clickbait,VnExpress,Thể thao,1270,2
+article_1717,0,Non-clickbait,VnExpress,Thể thao,1271,2
+article_1723,0,Non-clickbait,VnExpress,Thể thao,1274,2
+article_1731,0,Non-clickbait,VnExpress,Thể thao,1278,2
+article_1738,0,Non-clickbait,VnExpress,Thể thao,1285,2
+article_1742,0,Non-clickbait,VnExpress,Thể thao,1289,2
+article_1757,0,Non-clickbait,VnExpress,Thể thao,1301,2
+article_1764,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1305,2
+article_1768,0,Non-clickbait,Tuổi Trẻ,Other,1308,2
+article_1769,1,Clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,1309,2
+article_1774,0,Non-clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,1314,2
+article_1777,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1317,2
+article_1778,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1318,2
+article_1809,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1339,2
+article_1812,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1342,2
+article_1822,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1348,2
+article_1839,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2895,2
+article_1842,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,1355,2
+article_1846,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2896,2
+article_1847,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2897,2
+article_1852,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1357,2
+article_1854,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2899,2
+article_1856,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1359,2
+article_1860,0,Non-clickbait,Kênh14,Giáo dục & Học đường,1362,2
+article_1864,0,Non-clickbait,Kênh14,Giáo dục & Học đường,1366,2
+article_1865,1,Clickbait,Kênh14,Giáo dục & Học đường,2900,2
+article_1874,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,2906,2
+article_1875,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2907,2
+article_1880,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2911,2
+article_1884,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2915,2
+article_1888,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2919,2
+article_1901,0,Non-clickbait,24h,Thể thao,1376,2
+article_1907,0,Non-clickbait,24h,Thể thao,1381,2
+article_1908,0,Non-clickbait,24h,Thể thao,1382,2
+article_1909,0,Non-clickbait,24h,Thể thao,1383,2
+article_1918,1,Clickbait,Báo Mới,Thể thao,1391,2
+article_1920,0,Non-clickbait,Báo Mới,Thể thao,1392,2
+article_1924,0,Non-clickbait,Báo Mới,Thể thao,1395,2
+article_1926,0,Non-clickbait,Báo Mới,Thể thao,1396,2
+article_1935,1,Clickbait,Báo Mới,Thể thao,2928,2
+article_1944,0,Non-clickbait,Báo Mới,Thể thao,1408,2
+article_1945,1,Clickbait,Báo Mới,Thể thao,2932,2
+article_1954,0,Non-clickbait,Báo Mới,Thể thao,1415,2
+article_1958,0,Non-clickbait,Báo Mới,Thể thao,1417,2
+article_1961,0,Non-clickbait,VnExpress,Other,2937,2
+article_1973,0,Non-clickbait,VnExpress,Other,1423,2
+article_1978,0,Non-clickbait,VnExpress,Other,1426,2
+article_1985,1,Clickbait,VnExpress,Other,2941,2
+article_1988,0,Non-clickbait,VnExpress,Other,1435,2
+article_1995,1,Clickbait,VnExpress,Other,2942,2
+article_1998,1,Clickbait,VnExpress,Other,2944,2
+article_2002,0,Non-clickbait,VnExpress,Other,1443,2
+article_2003,0,Non-clickbait,VnExpress,Other,1444,2
+article_2023,0,Non-clickbait,Tuổi Trẻ,Other,1460,2
+article_2028,1,Clickbait,Thanh Niên,Other,2947,2
+article_2036,0,Non-clickbait,Thanh Niên,Other,1468,2
+article_2043,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1474,2
+article_2045,1,Clickbait,Thanh Niên,Other,2951,2
+article_2054,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1482,2
+article_2074,1,Clickbait,Thanh Niên,Other,1495,2
+article_2080,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2960,2
+article_2086,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2962,2
+article_2089,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2963,2
+article_2093,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2964,2
+article_2095,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2965,2
+article_2105,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1515,2
+article_2114,1,Clickbait,SaoStar,Giáo dục & Học đường,2969,2
+article_2131,1,Clickbait,SaoStar,Giáo dục & Học đường,2977,2
+article_2133,0,Non-clickbait,SaoStar,Giáo dục & Học đường,1524,2
+article_2144,1,Clickbait,24h,Công nghệ & Khoa học,2985,2
+article_2150,1,Clickbait,24h,Công nghệ & Khoa học,1526,2
+article_2156,1,Clickbait,24h,Công nghệ & Khoa học,2991,2
+article_2161,1,Clickbait,24h,Công nghệ & Khoa học,2995,2
+article_2177,0,Non-clickbait,Báo Mới,Other,1536,2
+article_2182,1,Clickbait,Báo Mới,Other,3004,2
+article_2192,0,Non-clickbait,Báo Mới,Giải trí & Showbiz,1544,2
+article_2195,1,Clickbait,Báo Mới,Giải trí & Showbiz,1546,2
+article_2203,0,Non-clickbait,Báo Mới,Giải trí & Showbiz,1551,2
+article_2212,1,Clickbait,Báo Mới,Other,3014,2
+article_2225,0,Non-clickbait,VnExpress,Other,1563,2
+article_2242,0,Non-clickbait,VnExpress,Other,1576,2
+article_2245,1,Clickbait,VnExpress,Other,3016,2
+article_2248,0,Non-clickbait,VnExpress,Other,1581,2
+article_2249,1,Clickbait,VnExpress,Other,1582,2
+article_2257,1,Clickbait,VnExpress,Other,3018,2
+article_2258,0,Non-clickbait,VnExpress,Other,1588,2
+article_2283,0,Non-clickbait,Tuổi Trẻ,Giải trí & Showbiz,1602,2
+article_2284,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1603,2
+article_2286,1,Clickbait,Thanh Niên,Văn hóa & Nghệ thuật,3024,2
+article_2289,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1606,2
+article_2296,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1613,2
+article_2312,1,Clickbait,Thanh Niên,Văn hóa & Nghệ thuật,3028,2
+article_2314,0,Non-clickbait,Thanh Niên,Other,1626,2
+article_2316,0,Non-clickbait,Thanh Niên,Other,1628,2
+article_2325,0,Non-clickbait,Thanh Niên,Other,1634,2
+article_2329,0,Non-clickbait,Thanh Niên,Other,1637,2
+article_2333,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1641,2
+article_2358,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1656,2
+article_2360,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,3043,2
+article_2366,1,Clickbait,Kênh14,Sức khỏe & Đời sống,1661,2
+article_2368,1,Clickbait,Kênh14,Sức khỏe & Đời sống,1663,2
+article_2397,0,Non-clickbait,SaoStar,Kinh doanh & Kinh tế,1675,2
+article_2400,0,Non-clickbait,SaoStar,Kinh doanh & Kinh tế,3046,2
+article_2408,0,Non-clickbait,24h,Other,1678,2
+article_2413,1,Clickbait,24h,Other,3051,2
+article_2416,1,Clickbait,24h,Other,3053,2
+article_2417,1,Clickbait,24h,Other,3054,2
+article_2440,0,Non-clickbait,Báo Mới,Other,1701,2
+article_2442,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1703,2
+article_2447,0,Non-clickbait,Báo Mới,Other,1707,2
+article_2451,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1711,2
+article_2465,0,Non-clickbait,Báo Mới,Chính trị & An ninh,3058,2
+article_2466,0,Non-clickbait,Báo Mới,Other,1725,2
+article_2468,0,Non-clickbait,Báo Mới,Other,1727,2
+article_2473,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1732,2
+article_2478,0,Non-clickbait,Báo Mới,Other,1737,2
+article_2503,0,Non-clickbait,VnExpress,Other,1757,2
+article_2506,0,Non-clickbait,VnExpress,Other,1758,2
+article_2516,0,Non-clickbait,VnExpress,Other,1766,2
+article_2535,1,Clickbait,VnExpress,Other,3066,2
+article_2538,0,Non-clickbait,Tuổi Trẻ,Thể thao,1782,2
+article_2540,0,Non-clickbait,Tuổi Trẻ,Thể thao,1784,2
+article_2542,1,Clickbait,Tuổi Trẻ,Thể thao,3069,2
+article_2546,0,Non-clickbait,Tuổi Trẻ,Thể thao,1787,2
+article_2549,0,Non-clickbait,Tuổi Trẻ,Thể thao,1790,2
+article_2552,1,Clickbait,Tuổi Trẻ,Thể thao,1792,2
+article_2556,0,Non-clickbait,Tuổi Trẻ,Thể thao,1795,2
+article_2559,0,Non-clickbait,Tuổi Trẻ,Thể thao,1798,2
+article_2560,0,Non-clickbait,Tuổi Trẻ,Thể thao,1799,2
+article_2586,1,Clickbait,Thanh Niên,Other,3080,2
+article_2598,1,Clickbait,Thanh Niên,Other,3083,2
+article_2602,1,Clickbait,Thanh Niên,Other,3085,2
+article_2608,1,Clickbait,Thanh Niên,Other,3089,2
+article_2611,1,Clickbait,Thanh Niên,Chính trị & An ninh,3091,2
+article_2613,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1823,2
+article_2614,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1824,2
+article_2615,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1825,2
+article_2623,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1832,2
+article_2624,1,Clickbait,VietNamNet,Chính trị & An ninh,3094,2
+article_2625,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1833,2
+article_2633,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1837,2
+article_2635,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1838,2
+article_2636,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1839,2
+article_2646,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1846,2
+article_2649,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1849,2
+article_2650,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1850,2
+article_2651,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1851,2
+article_2656,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1856,2
+article_2663,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1861,2
+article_2665,1,Clickbait,SaoStar,Công nghệ & Khoa học,3104,2
+article_2676,0,Non-clickbait,24h,Other,1868,2
+article_2678,0,Non-clickbait,24h,Other,1869,2
+article_2685,0,Non-clickbait,24h,Other,1872,2
+article_2691,0,Non-clickbait,24h,Other,1875,2
+article_2696,1,Clickbait,24h,Other,3113,2
+article_2705,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1884,2
+article_2712,0,Non-clickbait,Báo Mới,Other,1891,2
+article_2717,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1896,2
+article_2718,0,Non-clickbait,Báo Mới,Other,1897,2
+article_2735,0,Non-clickbait,Báo Mới,Other,1910,2
+article_2742,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1916,2
+article_2747,0,Non-clickbait,Báo Mới,Other,1921,2
+article_2748,0,Non-clickbait,Báo Mới,Other,1922,2
+article_2749,0,Non-clickbait,Báo Mới,Other,1923,2
+article_2752,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1925,2
+article_2777,0,Non-clickbait,VnExpress,Other,1931,2
+article_2778,1,Clickbait,VnExpress,Other,3129,2
+article_2782,1,Clickbait,VnExpress,Other,3131,2
+article_2785,1,Clickbait,VnExpress,Other,1935,2
+article_2794,1,Clickbait,VnExpress,Other,3138,2
+article_2802,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1940,2
+article_2804,1,Clickbait,Tuổi Trẻ,Giáo dục & Học đường,3143,2
+article_2805,1,Clickbait,Tuổi Trẻ,Giáo dục & Học đường,3144,2
+article_2807,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1943,2
+article_2810,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1946,2
+article_2816,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1951,2
+article_2818,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1953,2
+article_2825,0,Non-clickbait,Thanh Niên,Other,1957,2
+article_2826,0,Non-clickbait,Thanh Niên,Other,1958,2
+article_2829,1,Clickbait,Thanh Niên,Other,3149,2
+article_2830,0,Non-clickbait,Thanh Niên,Thể thao,1960,2
+article_2838,0,Non-clickbait,Thanh Niên,Thể thao,1967,2
+article_2839,0,Non-clickbait,Thanh Niên,Thể thao,1968,2
+article_2840,1,Clickbait,Thanh Niên,Other,3151,2
+article_2846,1,Clickbait,Thanh Niên,Other,3154,2
+article_2849,0,Non-clickbait,Thanh Niên,Other,1973,2
+article_2850,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1974,2
+article_2855,0,Non-clickbait,Thanh Niên,Other,1977,2
+article_2859,0,Non-clickbait,Thanh Niên,Other,1979,2
+article_2860,0,Non-clickbait,Thanh Niên,Other,1980,2
+article_2867,0,Non-clickbait,Thanh Niên,Other,1985,2
+article_2868,0,Non-clickbait,Thanh Niên,Other,1986,2
+article_2888,1,Clickbait,VietNamNet,Xe & Vận tải,1996,2
+article_2890,1,Clickbait,VietNamNet,Xe & Vận tải,1997,2
+article_2897,1,Clickbait,VietNamNet,Xe & Vận tải,3168,2
+article_2906,1,Clickbait,VietNamNet,Xe & Vận tải,3172,2
+article_2911,0,Non-clickbait,VietNamNet,Xe & Vận tải,2006,2
+article_2912,1,Clickbait,VietNamNet,Xe & Vận tải,2007,2
+article_2923,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,2014,2
+article_2928,1,Clickbait,SaoStar,Du lịch & Ẩm thực,3179,2
+article_2930,1,Clickbait,SaoStar,Du lịch & Ẩm thực,3181,2
+article_2958,0,Non-clickbait,24h,Other,2020,2
+article_2960,1,Clickbait,24h,Other,3192,2
+article_2976,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3202,2
+article_2977,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3203,2
+article_2987,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2028,2
+article_3002,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3213,2
+article_3009,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2038,2
+article_3027,0,Non-clickbait,VnExpress,Other,2048,2
+article_3029,0,Non-clickbait,VnExpress,Other,2050,2
+article_3049,0,Non-clickbait,VnExpress,Other,2063,2
+article_3051,0,Non-clickbait,VnExpress,Other,3222,2
+article_3054,0,Non-clickbait,VnExpress,Other,2065,2
+article_3072,0,Non-clickbait,Tuổi Trẻ,Other,2076,2
+article_3073,1,Clickbait,Tuổi Trẻ,Other,3228,2
+article_3078,1,Clickbait,Tuổi Trẻ,Other,3229,2
+article_3083,0,Non-clickbait,Tuổi Trẻ,Other,2085,2
+article_3085,0,Non-clickbait,Tuổi Trẻ,Other,2086,2
+article_3095,1,Clickbait,Thanh Niên,Other,3233,2
+article_3097,0,Non-clickbait,Thanh Niên,Other,2093,2
+article_3099,0,Non-clickbait,Thanh Niên,Other,2095,2
+article_3101,1,Clickbait,Thanh Niên,Other,3234,2
+article_3109,1,Clickbait,Thanh Niên,Other,2103,2
+article_3130,1,Clickbait,VietNamNet,Other,3243,2
+article_3131,1,Clickbait,VietNamNet,Other,3244,2
+article_3137,1,Clickbait,VietNamNet,Other,3247,2
+article_3142,0,Non-clickbait,VietNamNet,Other,2122,2
+article_3148,0,Non-clickbait,VietNamNet,Other,2125,2
+article_3150,0,Non-clickbait,VietNamNet,Other,2127,2
+article_3157,1,Clickbait,VietNamNet,Other,3252,2
+article_3159,1,Clickbait,24h,Giải trí & Showbiz,3253,2
+article_3160,1,Clickbait,24h,Giải trí & Showbiz,3254,2
+article_3161,1,Clickbait,24h,Giải trí & Showbiz,3255,2
+article_3164,1,Clickbait,24h,Giải trí & Showbiz,3256,2
+article_3165,0,Non-clickbait,24h,Giải trí & Showbiz,2135,2
+article_3176,0,Non-clickbait,24h,Giải trí & Showbiz,2137,2
+article_3184,0,Non-clickbait,24h,Giải trí & Showbiz,2139,2
+article_3196,0,Non-clickbait,24h,Giải trí & Showbiz,2147,2
+article_3198,0,Non-clickbait,24h,Giải trí & Showbiz,2149,2
+article_3212,1,Clickbait,24h,Giải trí & Showbiz,3273,2
+article_3214,1,Clickbait,24h,Giải trí & Showbiz,3274,2
+article_3215,0,Non-clickbait,24h,Giải trí & Showbiz,2157,2
+article_3220,0,Non-clickbait,24h,Giải trí & Showbiz,2160,2
+article_3222,0,Non-clickbait,24h,Giải trí & Showbiz,2161,2
+article_3223,1,Clickbait,24h,Giải trí & Showbiz,3278,2
+article_3231,1,Clickbait,24h,Giải trí & Showbiz,3284,2
+article_3234,1,Clickbait,Báo Mới,Other,3287,2
+article_3235,1,Clickbait,Báo Mới,Other,2164,2
+article_3237,0,Non-clickbait,Báo Mới,Other,2166,2
+article_3238,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2167,2
+article_3239,0,Non-clickbait,Báo Mới,Other,2168,2
+article_3241,1,Clickbait,Báo Mới,Other,3288,2
+article_3242,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2170,2
+article_3244,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2172,2
+article_3245,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2173,2
+article_3249,0,Non-clickbait,Báo Mới,Other,2177,2
+article_3264,1,Clickbait,Báo Mới,Other,2185,2
+article_3265,0,Non-clickbait,Báo Mới,Other,2186,2
+article_3266,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2187,2
+article_3269,0,Non-clickbait,Báo Mới,Other,2190,2
+article_3275,0,Non-clickbait,Báo Mới,Other,2194,2
+article_3277,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2196,2
+article_3292,0,Non-clickbait,VnExpress,Other,2203,2
+article_3295,0,Non-clickbait,VnExpress,Other,2206,2
+article_3308,0,Non-clickbait,VnExpress,Other,2214,2
+article_3337,0,Non-clickbait,VnExpress,Other,2233,2
+article_3342,0,Non-clickbait,VnExpress,Other,2235,2
+article_3346,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,2238,2
+article_3350,0,Non-clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,2239,2
+article_3354,0,Non-clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,2242,2
+article_3362,1,Clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,3311,2
+article_3366,0,Non-clickbait,Tuổi Trẻ,Other,2250,2
+article_3367,1,Clickbait,Thanh Niên,Other,3312,2
+article_3373,0,Non-clickbait,Thanh Niên,Other,2252,2
+article_3382,0,Non-clickbait,Thanh Niên,Other,2258,2
+article_3388,0,Non-clickbait,Thanh Niên,Other,2262,2
+article_3389,0,Non-clickbait,Thanh Niên,Other,2263,2
+article_3400,1,Clickbait,Thanh Niên,Other,3322,2
+article_3408,1,Clickbait,VietNamNet,Du lịch & Ẩm thực,3326,2
+article_3412,1,Clickbait,VietNamNet,Du lịch & Ẩm thực,3329,2
+article_3417,0,Non-clickbait,VietNamNet,Du lịch & Ẩm thực,2273,2
+article_3420,0,Non-clickbait,VietNamNet,Du lịch & Ẩm thực,2274,2
+article_3423,0,Non-clickbait,VietNamNet,Du lịch & Ẩm thực,2276,2
+article_3431,1,Clickbait,VietNamNet,Du lịch & Ẩm thực,3334,2
+article_3438,1,Clickbait,24h,Xe & Vận tải,3336,2
+article_3446,1,Clickbait,24h,Other,3337,2
+article_3447,1,Clickbait,24h,Xe & Vận tải,2289,2
+article_3451,0,Non-clickbait,24h,Xe & Vận tải,2293,2
+article_3452,1,Clickbait,24h,Xe & Vận tải,3338,2
+article_3459,1,Clickbait,24h,Xe & Vận tải,2295,2
+article_3461,1,Clickbait,24h,Xe & Vận tải,3342,2
+article_3466,0,Non-clickbait,24h,Xe & Vận tải,2299,2
+article_3476,0,Non-clickbait,Báo Mới,Xe & Vận tải,2307,2
+article_3478,0,Non-clickbait,Báo Mới,Xe & Vận tải,2309,2
+article_3480,0,Non-clickbait,Báo Mới,Xe & Vận tải,2310,2
+article_3486,0,Non-clickbait,Báo Mới,Xe & Vận tải,2316,2
+article_3488,0,Non-clickbait,Báo Mới,Xe & Vận tải,2318,2
+article_3489,0,Non-clickbait,Báo Mới,Xe & Vận tải,2319,2
+article_3498,0,Non-clickbait,Báo Mới,Xe & Vận tải,2327,2
+article_3506,0,Non-clickbait,Báo Mới,Xe & Vận tải,2335,2
+article_3508,0,Non-clickbait,Báo Mới,Xe & Vận tải,2337,2
+article_3514,0,Non-clickbait,Báo Mới,Xe & Vận tải,2341,2
+article_3516,0,Non-clickbait,Tuổi Trẻ,Other,2342,2
+article_3523,0,Non-clickbait,Tuổi Trẻ,Other,2347,2
+article_3535,0,Non-clickbait,VietNamNet,Other,2352,2
+article_3566,1,Clickbait,24h,Xe & Vận tải,3351,2
+article_3568,0,Non-clickbait,24h,Xe & Vận tải,2369,2
+article_3573,0,Non-clickbait,24h,Xe & Vận tải,2374,2
+article_3577,1,Clickbait,24h,Xe & Vận tải,3353,2
+article_3578,0,Non-clickbait,24h,Xe & Vận tải,3354,2
+article_3600,0,Non-clickbait,Báo Mới,Other,2396,2
+article_3605,0,Non-clickbait,Báo Mới,Other,2401,2
+article_3621,0,Non-clickbait,Báo Mới,Other,2416,2
+article_3623,0,Non-clickbait,Báo Mới,Other,3358,2
+article_3633,0,Non-clickbait,Báo Mới,Other,2426,2
+article_3637,0,Non-clickbait,Báo Mới,Other,2430,2
+article_3644,0,Non-clickbait,Báo Mới,Other,2436,2
+article_3653,0,Non-clickbait,24h,Giải trí & Showbiz,2443,2
+article_3654,1,Clickbait,24h,Giải trí & Showbiz,3363,2
+article_3662,0,Non-clickbait,24h,Giải trí & Showbiz,2445,2
+article_3668,1,Clickbait,24h,Thể thao,2446,2
+article_3672,0,Non-clickbait,24h,Thể thao,2447,2
+article_3676,0,Non-clickbait,24h,Thể thao,2448,2
+article_3679,0,Non-clickbait,24h,Thể thao,2449,2
+article_3689,0,Non-clickbait,24h,Tin tức tổng hợp,2455,2
+article_3695,1,Clickbait,24h,Sức khỏe & Đời sống,2457,2
+article_3701,1,Clickbait,24h,Sức khỏe & Đời sống,3376,2
+article_3702,1,Clickbait,24h,Sức khỏe & Đời sống,3377,2
+article_3703,1,Clickbait,24h,Sức khỏe & Đời sống,3378,2
+article_3709,1,Clickbait,24h,Sức khỏe & Đời sống,3382,2
+article_3710,1,Clickbait,24h,Sức khỏe & Đời sống,3383,2
+article_3717,1,Clickbait,24h,Sức khỏe & Đời sống,2461,2
+article_3725,0,Non-clickbait,24h,Sức khỏe & Đời sống,2464,2
+article_3734,1,Clickbait,24h,Du lịch & Ẩm thực,2468,2
+article_3744,1,Clickbait,24h,Du lịch & Ẩm thực,3392,2
+article_3746,0,Non-clickbait,24h,Du lịch & Ẩm thực,2473,2
+article_3752,0,Non-clickbait,24h,Du lịch & Ẩm thực,2474,2
+article_3759,1,Clickbait,24h,Du lịch & Ẩm thực,3401,2
+article_3766,0,Non-clickbait,24h,Du lịch & Ẩm thực,3403,2
+article_3774,0,Non-clickbait,24h,Du lịch & Ẩm thực,2481,2
+article_3782,0,Non-clickbait,24h,Du lịch & Ẩm thực,2486,2
+article_3790,0,Non-clickbait,24h,Giáo dục & Học đường,2492,2
+article_3792,0,Non-clickbait,24h,Giáo dục & Học đường,2494,2
+article_0015,0,Non-clickbait,VnExpress,Tin tức tổng hợp,9,3
+article_0020,0,Non-clickbait,VnExpress,Tin tức tổng hợp,14,3
+article_0030,0,Non-clickbait,VnExpress,Tin tức tổng hợp,24,3
+article_0031,0,Non-clickbait,VnExpress,Tin tức tổng hợp,25,3
+article_0034,0,Non-clickbait,VnExpress,Tin tức tổng hợp,28,3
+article_0044,0,Non-clickbait,VnExpress,Tin tức tổng hợp,38,3
+article_0045,0,Non-clickbait,VnExpress,Tin tức tổng hợp,39,3
+article_0048,0,Non-clickbait,VnExpress,Tin tức tổng hợp,42,3
+article_0049,0,Non-clickbait,VnExpress,Tin tức tổng hợp,43,3
+article_0050,0,Non-clickbait,VnExpress,Tin tức tổng hợp,44,3
+article_0051,0,Non-clickbait,Tuổi Trẻ,Tin tức tổng hợp,45,3
+article_0070,0,Non-clickbait,Tuổi Trẻ,Other,61,3
+article_0082,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,73,3
+article_0085,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,76,3
+article_0087,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,78,3
+article_0089,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,2503,3
+article_0096,0,Non-clickbait,Thanh Niên,Other,86,3
+article_0104,0,Non-clickbait,Thanh Niên,Other,94,3
+article_0105,0,Non-clickbait,Thanh Niên,Other,95,3
+article_0108,0,Non-clickbait,Thanh Niên,Other,98,3
+article_0111,0,Non-clickbait,VietNamNet,Chính trị & An ninh,101,3
+article_0128,0,Non-clickbait,VietNamNet,Chính trị & An ninh,117,3
+article_0145,1,Clickbait,Kênh14,Sức khỏe & Đời sống,2510,3
+article_0152,1,Clickbait,SaoStar,Giải trí & Showbiz,130,3
+article_0159,1,Clickbait,SaoStar,Giải trí & Showbiz,2515,3
+article_0161,0,Non-clickbait,SaoStar,Giải trí & Showbiz,2517,3
+article_0166,1,Clickbait,SaoStar,Giải trí & Showbiz,141,3
+article_0179,0,Non-clickbait,24h,Tin tức tổng hợp,153,3
+article_0193,0,Non-clickbait,24h,Giải trí & Showbiz,166,3
+article_0200,0,Non-clickbait,24h,Giải trí & Showbiz,170,3
+article_0207,0,Non-clickbait,24h,Tin tức tổng hợp,177,3
+article_0208,0,Non-clickbait,24h,Tin tức tổng hợp,178,3
+article_0214,1,Clickbait,24h,Tin tức tổng hợp,2521,3
+article_0217,0,Non-clickbait,24h,Quốc tế,184,3
+article_0222,1,Clickbait,Báo Mới,Thể thao,2525,3
+article_0223,1,Clickbait,Báo Mới,Thể thao,2526,3
+article_0234,1,Clickbait,Báo Mới,Thể thao,192,3
+article_0235,0,Non-clickbait,Báo Mới,Thể thao,193,3
+article_0238,1,Clickbait,Báo Mới,Thể thao,194,3
+article_0241,0,Non-clickbait,Báo Mới,Thể thao,2536,3
+article_0245,1,Clickbait,Báo Mới,Thể thao,2537,3
+article_0250,0,Non-clickbait,Báo Mới,Thể thao,202,3
+article_0252,0,Non-clickbait,Báo Mới,Thể thao,203,3
+article_0253,0,Non-clickbait,Báo Mới,Thể thao,204,3
+article_0256,0,Non-clickbait,Báo Mới,Thể thao,207,3
+article_0257,0,Non-clickbait,Báo Mới,Thể thao,208,3
+article_0260,0,Non-clickbait,Báo Mới,Thể thao,211,3
+article_0292,0,Non-clickbait,VnExpress,Quốc tế,237,3
+article_0295,0,Non-clickbait,VnExpress,Quốc tế,2542,3
+article_0296,0,Non-clickbait,VnExpress,Quốc tế,240,3
+article_0303,0,Non-clickbait,VnExpress,Quốc tế,2545,3
+article_0312,0,Non-clickbait,VnExpress,Quốc tế,249,3
+article_0319,0,Non-clickbait,VnExpress,Quốc tế,256,3
+article_0322,0,Non-clickbait,VnExpress,Quốc tế,259,3
+article_0324,0,Non-clickbait,VnExpress,Quốc tế,261,3
+article_0328,0,Non-clickbait,Tuổi Trẻ,Quốc tế,265,3
+article_0332,0,Non-clickbait,Tuổi Trẻ,Quốc tế,268,3
+article_0347,0,Non-clickbait,Thanh Niên,Other,2553,3
+article_0350,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,283,3
+article_0357,0,Non-clickbait,Thanh Niên,Other,290,3
+article_0361,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,294,3
+article_0364,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,296,3
+article_0373,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,304,3
+article_0383,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,313,3
+article_0386,0,Non-clickbait,Thanh Niên,Other,316,3
+article_0388,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,318,3
+article_0390,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,320,3
+article_0395,1,Clickbait,VietNamNet,Tin tức tổng hợp,2558,3
+article_0396,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,322,3
+article_0406,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,329,3
+article_0407,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,330,3
+article_0421,1,Clickbait,Kênh14,Thể thao,342,3
+article_0432,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,352,3
+article_0444,1,Clickbait,SaoStar,Sức khỏe & Đời sống,360,3
+article_0445,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2567,3
+article_0447,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,362,3
+article_0454,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,366,3
+article_0461,1,Clickbait,24h,Quốc tế,2573,3
+article_0464,0,Non-clickbait,24h,Quốc tế,372,3
+article_0472,0,Non-clickbait,24h,Quốc tế,379,3
+article_0473,0,Non-clickbait,24h,Quốc tế,380,3
+article_0478,0,Non-clickbait,24h,Quốc tế,383,3
+article_0479,0,Non-clickbait,24h,Quốc tế,384,3
+article_0485,0,Non-clickbait,24h,Quốc tế,388,3
+article_0487,0,Non-clickbait,24h,Quốc tế,390,3
+article_0489,1,Clickbait,24h,Quốc tế,392,3
+article_0494,1,Clickbait,Báo Mới,Quốc tế,2580,3
+article_0496,0,Non-clickbait,Báo Mới,Quốc tế,396,3
+article_0497,0,Non-clickbait,Báo Mới,Quốc tế,397,3
+article_0499,1,Clickbait,Báo Mới,Quốc tế,399,3
+article_0509,0,Non-clickbait,Báo Mới,Quốc tế,406,3
+article_0519,0,Non-clickbait,Báo Mới,Quốc tế,413,3
+article_0528,0,Non-clickbait,Báo Mới,Quốc tế,421,3
+article_0530,0,Non-clickbait,Báo Mới,Quốc tế,422,3
+article_0532,1,Clickbait,Báo Mới,Quốc tế,2590,3
+article_0537,0,Non-clickbait,Báo Mới,Quốc tế,426,3
+article_0539,0,Non-clickbait,Báo Mới,Quốc tế,428,3
+article_0540,0,Non-clickbait,Báo Mới,Quốc tế,429,3
+article_0544,0,Non-clickbait,Báo Mới,Quốc tế,432,3
+article_0546,1,Clickbait,Báo Mới,Quốc tế,2594,3
+article_0550,0,Non-clickbait,Báo Mới,Quốc tế,437,3
+article_0557,1,Clickbait,VnExpress,Kinh doanh & Kinh tế,2595,3
+article_0568,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,451,3
+article_0571,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,454,3
+article_0581,1,Clickbait,VnExpress,Kinh doanh & Kinh tế,2597,3
+article_0587,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,467,3
+article_0600,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,480,3
+article_0601,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,481,3
+article_0617,1,Clickbait,Tuổi Trẻ,Chính trị & An ninh,2600,3
+article_0624,0,Non-clickbait,Thanh Niên,Other,500,3
+article_0625,0,Non-clickbait,Thanh Niên,Quốc tế,501,3
+article_0626,0,Non-clickbait,Thanh Niên,Quốc tế,502,3
+article_0643,1,Clickbait,Thanh Niên,Quốc tế,517,3
+article_0656,0,Non-clickbait,Thanh Niên,Other,523,3
+article_0657,0,Non-clickbait,Thanh Niên,Other,524,3
+article_0673,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,531,3
+article_0678,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,535,3
+article_0679,1,Clickbait,VietNamNet,Kinh doanh & Kinh tế,2621,3
+article_0680,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,536,3
+article_0682,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,538,3
+article_0683,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,539,3
+article_0684,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,540,3
+article_0688,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,544,3
+article_0696,1,Clickbait,Kênh14,Giải trí & Showbiz,2623,3
+article_0698,1,Clickbait,Kênh14,Giải trí & Showbiz,551,3
+article_0700,1,Clickbait,SaoStar,Quốc tế,2625,3
+article_0708,1,Clickbait,SaoStar,Quốc tế,554,3
+article_0714,1,Clickbait,SaoStar,Quốc tế,557,3
+article_0720,1,Clickbait,SaoStar,Quốc tế,2640,3
+article_0721,1,Clickbait,SaoStar,Quốc tế,558,3
+article_0727,1,Clickbait,SaoStar,Quốc tế,560,3
+article_0730,0,Non-clickbait,24h,Chính trị & An ninh,561,3
+article_0734,0,Non-clickbait,24h,Chính trị & An ninh,562,3
+article_0746,0,Non-clickbait,24h,Chính trị & An ninh,571,3
+article_0747,0,Non-clickbait,24h,Chính trị & An ninh,572,3
+article_0748,0,Non-clickbait,24h,Chính trị & An ninh,573,3
+article_0753,0,Non-clickbait,24h,Chính trị & An ninh,578,3
+article_0765,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,589,3
+article_0766,0,Non-clickbait,Báo Mới,Other,590,3
+article_0767,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,591,3
+article_0774,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,598,3
+article_0775,0,Non-clickbait,Báo Mới,Other,599,3
+article_0778,0,Non-clickbait,Báo Mới,Other,602,3
+article_0788,0,Non-clickbait,Báo Mới,Other,612,3
+article_0795,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,619,3
+article_0811,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,635,3
+article_0817,0,Non-clickbait,Báo Mới,Other,640,3
+article_0839,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,657,3
+article_0842,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,660,3
+article_0844,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,662,3
+article_0856,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,673,3
+article_0857,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,674,3
+article_0868,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,685,3
+article_0875,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,692,3
+article_0882,0,Non-clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,698,3
+article_0884,0,Non-clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,699,3
+article_0886,0,Non-clickbait,Tuổi Trẻ,Other,700,3
+article_0888,0,Non-clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,702,3
+article_0890,0,Non-clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,704,3
+article_0893,0,Non-clickbait,Thanh Niên,Other,707,3
+article_0897,1,Clickbait,Thanh Niên,Kinh doanh & Kinh tế,2661,3
+article_0898,0,Non-clickbait,Thanh Niên,Kinh doanh & Kinh tế,710,3
+article_0911,0,Non-clickbait,Thanh Niên,Other,721,3
+article_0932,0,Non-clickbait,Thanh Niên,Other,739,3
+article_0934,1,Clickbait,Thanh Niên,Other,2667,3
+article_0948,0,Non-clickbait,VietNamNet,Thể thao,749,3
+article_0956,0,Non-clickbait,VietNamNet,Thể thao,755,3
+article_0957,1,Clickbait,VietNamNet,Thể thao,2675,3
+article_0966,0,Non-clickbait,VietNamNet,Thể thao,763,3
+article_0975,1,Clickbait,SaoStar,Giải trí & Showbiz,772,3
+article_0979,0,Non-clickbait,SaoStar,Giải trí & Showbiz,2679,3
+article_0987,1,Clickbait,SaoStar,Giải trí & Showbiz,2685,3
+article_0995,1,Clickbait,SaoStar,Giải trí & Showbiz,780,3
+article_0996,0,Non-clickbait,SaoStar,Giải trí & Showbiz,2689,3
+article_1000,1,Clickbait,SaoStar,Giải trí & Showbiz,784,3
+article_1004,1,Clickbait,SaoStar,Giải trí & Showbiz,786,3
+article_1010,0,Non-clickbait,24h,Kinh doanh & Kinh tế,2696,3
+article_1012,1,Clickbait,24h,Kinh doanh & Kinh tế,2698,3
+article_1013,1,Clickbait,24h,Kinh doanh & Kinh tế,536,3
+article_1017,1,Clickbait,24h,Kinh doanh & Kinh tế,2702,3
+article_1018,1,Clickbait,24h,Kinh doanh & Kinh tế,2703,3
+article_1019,1,Clickbait,24h,Kinh doanh & Kinh tế,2704,3
+article_1020,0,Non-clickbait,24h,Kinh doanh & Kinh tế,2705,3
+article_1026,0,Non-clickbait,24h,Kinh doanh & Kinh tế,789,3
+article_1039,0,Non-clickbait,24h,Kinh doanh & Kinh tế,796,3
+article_1041,1,Clickbait,24h,Other,2714,3
+article_1044,1,Clickbait,24h,Kinh doanh & Kinh tế,2715,3
+article_1045,1,Clickbait,24h,Kinh doanh & Kinh tế,800,3
+article_1047,0,Non-clickbait,24h,Kinh doanh & Kinh tế,802,3
+article_1050,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,805,3
+article_1069,0,Non-clickbait,Báo Mới,Other,822,3
+article_1072,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,825,3
+article_1076,1,Clickbait,Báo Mới,Văn hóa & Nghệ thuật,2721,3
+article_1083,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,831,3
+article_1090,0,Non-clickbait,Báo Mới,Other,837,3
+article_1091,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,838,3
+article_1111,0,Non-clickbait,VnExpress,Other,854,3
+article_1118,0,Non-clickbait,VnExpress,Other,860,3
+article_1119,0,Non-clickbait,VnExpress,Other,861,3
+article_1121,0,Non-clickbait,VnExpress,Other,863,3
+article_1122,0,Non-clickbait,VnExpress,Other,864,3
+article_1127,0,Non-clickbait,VnExpress,Other,869,3
+article_1129,0,Non-clickbait,VnExpress,Other,871,3
+article_1138,0,Non-clickbait,VnExpress,Other,879,3
+article_1140,0,Non-clickbait,VnExpress,Other,881,3
+article_1147,0,Non-clickbait,VnExpress,Other,888,3
+article_1153,0,Non-clickbait,VnExpress,Other,894,3
+article_1159,0,Non-clickbait,VnExpress,Other,900,3
+article_1166,0,Non-clickbait,VnExpress,Other,906,3
+article_1167,1,Clickbait,VnExpress,Other,2728,3
+article_1180,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2732,3
+article_1190,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2741,3
+article_1209,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2752,3
+article_1212,0,Non-clickbait,Thanh Niên,Other,927,3
+article_1213,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,928,3
+article_1215,0,Non-clickbait,Thanh Niên,Other,930,3
+article_1218,0,Non-clickbait,Thanh Niên,Other,933,3
+article_1228,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,940,3
+article_1233,0,Non-clickbait,Thanh Niên,Other,943,3
+article_1238,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,946,3
+article_1241,0,Non-clickbait,Thanh Niên,Other,948,3
+article_1247,0,Non-clickbait,VietNamNet,Giáo dục & Học đường,953,3
+article_1267,1,Clickbait,SaoStar,Giải trí & Showbiz,2770,3
+article_1275,1,Clickbait,SaoStar,Giải trí & Showbiz,2777,3
+article_1276,0,Non-clickbait,SaoStar,Giải trí & Showbiz,966,3
+article_1280,1,Clickbait,SaoStar,Giải trí & Showbiz,968,3
+article_1284,1,Clickbait,SaoStar,Giải trí & Showbiz,2782,3
+article_1287,1,Clickbait,SaoStar,Giải trí & Showbiz,2785,3
+article_1289,1,Clickbait,SaoStar,Giải trí & Showbiz,2786,3
+article_1293,1,Clickbait,SaoStar,Giải trí & Showbiz,971,3
+article_1299,1,Clickbait,24h,Kinh doanh & Kinh tế,975,3
+article_1306,1,Clickbait,24h,Kinh doanh & Kinh tế,2797,3
+article_1309,1,Clickbait,24h,Kinh doanh & Kinh tế,2798,3
+article_1314,1,Clickbait,24h,Kinh doanh & Kinh tế,2800,3
+article_1318,1,Clickbait,24h,Kinh doanh & Kinh tế,2802,3
+article_1319,1,Clickbait,24h,Kinh doanh & Kinh tế,984,3
+article_1326,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,989,3
+article_1329,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,992,3
+article_1335,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,996,3
+article_1336,1,Clickbait,Báo Mới,Other,2807,3
+article_1340,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,998,3
+article_1345,0,Non-clickbait,Báo Mới,Other,1003,3
+article_1352,0,Non-clickbait,Báo Mới,Other,1010,3
+article_1364,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1020,3
+article_1369,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1025,3
+article_1370,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1026,3
+article_1371,0,Non-clickbait,Báo Mới,Other,1027,3
+article_1384,1,Clickbait,VnExpress,Other,2814,3
+article_1385,1,Clickbait,VnExpress,Other,2815,3
+article_1390,0,Non-clickbait,VnExpress,Other,1037,3
+article_1395,0,Non-clickbait,VnExpress,Other,1040,3
+article_1404,0,Non-clickbait,VnExpress,Other,1049,3
+article_1410,1,Clickbait,VnExpress,Other,2821,3
+article_1420,0,Non-clickbait,VnExpress,Other,1061,3
+article_1427,0,Non-clickbait,Tuổi Trẻ,Xe & Vận tải,1067,3
+article_1432,1,Clickbait,Tuổi Trẻ,Xe & Vận tải,2823,3
+article_1443,1,Clickbait,Tuổi Trẻ,Other,2827,3
+article_1444,1,Clickbait,Tuổi Trẻ,Xe & Vận tải,2828,3
+article_1449,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2831,3
+article_1460,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2839,3
+article_1461,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2840,3
+article_1469,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1080,3
+article_1470,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1081,3
+article_1471,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2846,3
+article_1477,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1084,3
+article_1478,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1085,3
+article_1503,0,Non-clickbait,VietNamNet,Quốc tế,1103,3
+article_1504,0,Non-clickbait,VietNamNet,Quốc tế,1104,3
+article_1505,0,Non-clickbait,VietNamNet,Quốc tế,1105,3
+article_1508,0,Non-clickbait,VietNamNet,Quốc tế,1108,3
+article_1518,0,Non-clickbait,VietNamNet,Quốc tế,1117,3
+article_1527,0,Non-clickbait,VietNamNet,Quốc tế,1126,3
+article_1532,0,Non-clickbait,Kênh14,Other,1130,3
+article_1541,1,Clickbait,SaoStar,Thể thao,2856,3
+article_1544,0,Non-clickbait,SaoStar,Thể thao,1138,3
+article_1552,1,Clickbait,SaoStar,Thể thao,2857,3
+article_1555,0,Non-clickbait,SaoStar,Thể thao,1144,3
+article_1556,1,Clickbait,SaoStar,Thể thao,2859,3
+article_1557,0,Non-clickbait,SaoStar,Thể thao,1145,3
+article_1563,1,Clickbait,SaoStar,Thể thao,1149,3
+article_1566,1,Clickbait,SaoStar,Thể thao,2860,3
+article_1571,1,Clickbait,24h,Thể thao,1155,3
+article_1573,0,Non-clickbait,24h,Thể thao,1157,3
+article_1574,0,Non-clickbait,24h,Thể thao,1158,3
+article_1577,0,Non-clickbait,24h,Thể thao,1161,3
+article_1583,0,Non-clickbait,24h,Thể thao,2862,3
+article_1589,0,Non-clickbait,24h,Thể thao,1170,3
+article_1594,0,Non-clickbait,24h,Thể thao,1174,3
+article_1595,0,Non-clickbait,24h,Thể thao,1175,3
+article_1606,1,Clickbait,24h,Thể thao,2868,3
+article_1608,0,Non-clickbait,24h,Thể thao,1182,3
+article_1609,0,Non-clickbait,24h,Thể thao,1183,3
+article_1615,0,Non-clickbait,24h,Thể thao,1188,3
+article_1617,0,Non-clickbait,24h,Thể thao,1190,3
+article_1619,1,Clickbait,24h,Thể thao,2870,3
+article_1625,0,Non-clickbait,24h,Thể thao,1194,3
+article_1627,0,Non-clickbait,24h,Thể thao,1196,3
+article_1629,0,Non-clickbait,24h,Thể thao,1197,3
+article_1630,1,Clickbait,24h,Thể thao,2875,3
+article_1635,0,Non-clickbait,Báo Mới,Other,1201,3
+article_1640,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1206,3
+article_1642,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1208,3
+article_1644,0,Non-clickbait,Báo Mới,Other,1210,3
+article_1652,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1218,3
+article_1654,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1220,3
+article_1658,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1224,3
+article_1664,0,Non-clickbait,Báo Mới,Other,1230,3
+article_1667,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1233,3
+article_1668,0,Non-clickbait,Báo Mới,Other,1234,3
+article_1672,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1238,3
+article_1687,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1252,3
+article_1695,0,Non-clickbait,VnExpress,Thể thao,1260,3
+article_1702,0,Non-clickbait,VnExpress,Thể thao,1264,3
+article_1707,0,Non-clickbait,VnExpress,Thể thao,1266,3
+article_1709,0,Non-clickbait,VnExpress,Thể thao,1267,3
+article_1721,0,Non-clickbait,VnExpress,Thể thao,1273,3
+article_1734,0,Non-clickbait,VnExpress,Thể thao,1281,3
+article_1739,0,Non-clickbait,VnExpress,Thể thao,1286,3
+article_1747,0,Non-clickbait,VnExpress,Thể thao,2881,3
+article_1753,0,Non-clickbait,VnExpress,Thể thao,1297,3
+article_1759,0,Non-clickbait,VnExpress,Thể thao,1302,3
+article_1763,0,Non-clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,1304,3
+article_1773,0,Non-clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,1313,3
+article_1775,1,Clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,1315,3
+article_1776,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1316,3
+article_1780,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1320,3
+article_1783,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1321,3
+article_1786,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1323,3
+article_1791,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1325,3
+article_1794,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1328,3
+article_1796,1,Clickbait,Thanh Niên,Giáo dục & Học đường,2888,3
+article_1798,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1330,3
+article_1799,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1331,3
+article_1805,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1336,3
+article_1808,1,Clickbait,Thanh Niên,Giáo dục & Học đường,2891,3
+article_1810,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1340,3
+article_1821,1,Clickbait,Thanh Niên,Other,2892,3
+article_1827,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1353,3
+article_1861,1,Clickbait,Kênh14,Giáo dục & Học đường,1363,3
+article_1872,0,Non-clickbait,SaoStar,Giải trí & Showbiz,1368,3
+article_1873,1,Clickbait,SaoStar,Sức khỏe & Đời sống,1369,3
+article_1877,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2908,3
+article_1882,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2913,3
+article_1891,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2921,3
+article_1893,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,1371,3
+article_1896,0,Non-clickbait,24h,Thể thao,1372,3
+article_1900,0,Non-clickbait,24h,Thể thao,1375,3
+article_1912,1,Clickbait,24h,Thể thao,2924,3
+article_1915,0,Non-clickbait,24h,Thể thao,1388,3
+article_1929,1,Clickbait,Báo Mới,Thể thao,2926,3
+article_1931,0,Non-clickbait,Báo Mới,Thể thao,1399,3
+article_1932,0,Non-clickbait,Báo Mới,Thể thao,1400,3
+article_1936,1,Clickbait,Báo Mới,Thể thao,2929,3
+article_1939,0,Non-clickbait,Báo Mới,Thể thao,1403,3
+article_1943,0,Non-clickbait,Báo Mới,Thể thao,1407,3
+article_1950,0,Non-clickbait,Báo Mới,Thể thao,1411,3
+article_1952,0,Non-clickbait,Báo Mới,Thể thao,1413,3
+article_1956,0,Non-clickbait,Báo Mới,Thể thao,1416,3
+article_1957,1,Clickbait,Báo Mới,Thể thao,2935,3
+article_1974,0,Non-clickbait,VnExpress,Other,1424,3
+article_1975,0,Non-clickbait,VnExpress,Other,1425,3
+article_1983,0,Non-clickbait,VnExpress,Other,1431,3
+article_1986,0,Non-clickbait,VnExpress,Other,1433,3
+article_1993,0,Non-clickbait,VnExpress,Other,1439,3
+article_2004,0,Non-clickbait,VnExpress,Other,1445,3
+article_2009,1,Clickbait,VnExpress,Other,2945,3
+article_2011,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1450,3
+article_2020,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1457,3
+article_2025,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1461,3
+article_2032,0,Non-clickbait,Thanh Niên,Other,1464,3
+article_2037,0,Non-clickbait,Thanh Niên,Other,1469,3
+article_2040,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1471,3
+article_2041,0,Non-clickbait,Thanh Niên,Other,1472,3
+article_2046,1,Clickbait,Thanh Niên,Other,2952,3
+article_2049,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1477,3
+article_2052,0,Non-clickbait,Thanh Niên,Other,1480,3
+article_2058,0,Non-clickbait,Thanh Niên,Other,1485,3
+article_2062,0,Non-clickbait,Thanh Niên,Other,1489,3
+article_2063,1,Clickbait,Thanh Niên,Chính trị & An ninh,2955,3
+article_2087,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1503,3
+article_2088,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1504,3
+article_2097,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2966,3
+article_2110,0,Non-clickbait,SaoStar,Giáo dục & Học đường,1517,3
+article_2119,1,Clickbait,SaoStar,Giáo dục & Học đường,2971,3
+article_2125,1,Clickbait,SaoStar,Giáo dục & Học đường,2973,3
+article_2127,1,Clickbait,SaoStar,Giáo dục & Học đường,2975,3
+article_2129,1,Clickbait,SaoStar,Giáo dục & Học đường,2976,3
+article_2130,1,Clickbait,SaoStar,Giáo dục & Học đường,1522,3
+article_2149,1,Clickbait,24h,Công nghệ & Khoa học,2988,3
+article_2151,0,Non-clickbait,24h,Công nghệ & Khoa học,1527,3
+article_2152,0,Non-clickbait,24h,Công nghệ & Khoa học,1528,3
+article_2163,1,Clickbait,24h,Công nghệ & Khoa học,2996,3
+article_2166,0,Non-clickbait,24h,Other,1531,3
+article_2170,1,Clickbait,Báo Mới,Giải trí & Showbiz,2999,3
+article_2174,1,Clickbait,Báo Mới,Giải trí & Showbiz,1533,3
+article_2176,1,Clickbait,Báo Mới,Giải trí & Showbiz,1535,3
+article_2184,1,Clickbait,Báo Mới,Giải trí & Showbiz,1539,3
+article_2185,0,Non-clickbait,Báo Mới,Giải trí & Showbiz,1540,3
+article_2187,1,Clickbait,Báo Mới,Giải trí & Showbiz,3007,3
+article_2189,1,Clickbait,Báo Mới,Other,1541,3
+article_2201,0,Non-clickbait,Báo Mới,Giải trí & Showbiz,1550,3
+article_2206,0,Non-clickbait,Báo Mới,Other,1552,3
+article_2207,0,Non-clickbait,Báo Mới,Giải trí & Showbiz,1553,3
+article_2216,0,Non-clickbait,VnExpress,Other,1557,3
+article_2223,0,Non-clickbait,VnExpress,Other,1561,3
+article_2227,0,Non-clickbait,VnExpress,Other,1564,3
+article_2236,0,Non-clickbait,VnExpress,Other,1572,3
+article_2237,1,Clickbait,VnExpress,Other,3015,3
+article_2239,0,Non-clickbait,VnExpress,Other,1573,3
+article_2243,0,Non-clickbait,VnExpress,Other,1577,3
+article_2244,0,Non-clickbait,VnExpress,Other,1578,3
+article_2254,0,Non-clickbait,VnExpress,Other,1586,3
+article_2259,0,Non-clickbait,VnExpress,Other,1589,3
+article_2260,0,Non-clickbait,VnExpress,Other,1590,3
+article_2262,0,Non-clickbait,VnExpress,Other,1591,3
+article_2263,0,Non-clickbait,VnExpress,Other,1592,3
+article_2265,1,Clickbait,Tuổi Trẻ,Giải trí & Showbiz,3019,3
+article_2269,1,Clickbait,Tuổi Trẻ,Giải trí & Showbiz,3020,3
+article_2271,0,Non-clickbait,Tuổi Trẻ,Giải trí & Showbiz,1596,3
+article_2275,0,Non-clickbait,Tuổi Trẻ,Giải trí & Showbiz,1597,3
+article_2282,0,Non-clickbait,Tuổi Trẻ,Giải trí & Showbiz,1601,3
+article_2285,1,Clickbait,Thanh Niên,Văn hóa & Nghệ thuật,3023,3
+article_2290,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1607,3
+article_2291,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1608,3
+article_2308,1,Clickbait,Thanh Niên,Văn hóa & Nghệ thuật,3027,3
+article_2331,0,Non-clickbait,Thanh Niên,Other,1639,3
+article_2334,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1642,3
+article_2338,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1643,3
+article_2340,1,Clickbait,VietNamNet,Công nghệ & Khoa học,3037,3
+article_2349,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1650,3
+article_2353,1,Clickbait,VietNamNet,Công nghệ & Khoa học,3040,3
+article_2355,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1654,3
+article_2356,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1655,3
+article_2363,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1659,3
+article_2369,1,Clickbait,Kênh14,Sức khỏe & Đời sống,1664,3
+article_2387,0,Non-clickbait,SaoStar,Kinh doanh & Kinh tế,1671,3
+article_2391,1,Clickbait,SaoStar,Kinh doanh & Kinh tế,3045,3
+article_2394,0,Non-clickbait,SaoStar,Kinh doanh & Kinh tế,1674,3
+article_2399,0,Non-clickbait,SaoStar,Kinh doanh & Kinh tế,1676,3
+article_2412,1,Clickbait,24h,Other,3050,3
+article_2420,0,Non-clickbait,24h,Other,1684,3
+article_2426,0,Non-clickbait,Báo Mới,Other,1688,3
+article_2428,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1690,3
+article_2429,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1691,3
+article_2441,0,Non-clickbait,Báo Mới,Other,1702,3
+article_2443,1,Clickbait,Báo Mới,Other,3057,3
+article_2449,0,Non-clickbait,Báo Mới,Other,1709,3
+article_2452,0,Non-clickbait,Báo Mới,Other,1712,3
+article_2454,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1714,3
+article_2457,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1717,3
+article_2458,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1718,3
+article_2463,0,Non-clickbait,Báo Mới,Other,1723,3
+article_2489,0,Non-clickbait,VnExpress,Other,1746,3
+article_2495,0,Non-clickbait,VnExpress,Other,1751,3
+article_2501,0,Non-clickbait,VnExpress,Other,1756,3
+article_2504,0,Non-clickbait,VnExpress,Other,3060,3
+article_2507,0,Non-clickbait,VnExpress,Other,1759,3
+article_2510,0,Non-clickbait,VnExpress,Other,1761,3
+article_2511,0,Non-clickbait,VnExpress,Other,1762,3
+article_2513,0,Non-clickbait,VnExpress,Other,1764,3
+article_2517,0,Non-clickbait,VnExpress,Other,1767,3
+article_2519,0,Non-clickbait,VnExpress,Other,1769,3
+article_2520,0,Non-clickbait,VnExpress,Other,1770,3
+article_2528,1,Clickbait,VnExpress,Other,3065,3
+article_2529,0,Non-clickbait,VnExpress,Other,1775,3
+article_2530,0,Non-clickbait,VnExpress,Other,1776,3
+article_2544,0,Non-clickbait,Tuổi Trẻ,Thể thao,1786,3
+article_2545,1,Clickbait,Tuổi Trẻ,Thể thao,3070,3
+article_2550,1,Clickbait,Tuổi Trẻ,Thể thao,3071,3
+article_2574,0,Non-clickbait,Thanh Niên,Giải trí & Showbiz,1809,3
+article_2577,1,Clickbait,Thanh Niên,Giải trí & Showbiz,3075,3
+article_2582,0,Non-clickbait,Thanh Niên,Giải trí & Showbiz,1812,3
+article_2584,1,Clickbait,Thanh Niên,Other,3079,3
+article_2587,0,Non-clickbait,Thanh Niên,Other,1814,3
+article_2600,0,Non-clickbait,Thanh Niên,Other,1820,3
+article_2622,1,Clickbait,VietNamNet,Chính trị & An ninh,3093,3
+article_2630,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1835,3
+article_2631,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1836,3
+article_2638,1,Clickbait,VietNamNet,Chính trị & An ninh,1841,3
+article_2640,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1843,3
+article_2642,1,Clickbait,VietNamNet,Chính trị & An ninh,3099,3
+article_2645,1,Clickbait,SaoStar,Công nghệ & Khoa học,3101,3
+article_2657,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1857,3
+article_2658,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1858,3
+article_2660,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1860,3
+article_2668,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1862,3
+article_2671,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1864,3
+article_2672,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1865,3
+article_2673,0,Non-clickbait,24h,Other,1866,3
+article_2692,1,Clickbait,24h,Other,3110,3
+article_2697,0,Non-clickbait,24h,Other,1877,3
+article_2701,1,Clickbait,24h,Other,3114,3
+article_2709,0,Non-clickbait,Báo Mới,Other,1888,3
+article_2710,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1889,3
+article_2711,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1890,3
+article_2723,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1902,3
+article_2730,0,Non-clickbait,Báo Mới,Other,1906,3
+article_2734,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1909,3
+article_2738,0,Non-clickbait,Báo Mới,Other,1912,3
+article_2744,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1918,3
+article_2750,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1924,3
+article_2766,0,Non-clickbait,VnExpress,Other,3126,3
+article_2767,0,Non-clickbait,VnExpress,Other,1927,3
+article_2770,0,Non-clickbait,VnExpress,Other,1929,3
+article_2774,1,Clickbait,VnExpress,Other,1930,3
+article_2780,1,Clickbait,VnExpress,Other,1932,3
+article_2781,0,Non-clickbait,VnExpress,Other,1933,3
+article_2783,1,Clickbait,VnExpress,Other,3132,3
+article_2784,0,Non-clickbait,VnExpress,Other,1934,3
+article_2787,1,Clickbait,VnExpress,Other,3134,3
+article_2790,1,Clickbait,VnExpress,Other,1936,3
+article_2792,1,Clickbait,VnExpress,Other,3136,3
+article_2801,1,Clickbait,VnExpress,Other,3142,3
+article_2806,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1942,3
+article_2814,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1950,3
+article_2817,0,Non-clickbait,Tuổi Trẻ,Quốc tế,1952,3
+article_2845,1,Clickbait,Thanh Niên,Other,3153,3
+article_2851,0,Non-clickbait,Thanh Niên,Other,1975,3
+article_2856,1,Clickbait,Thanh Niên,Other,3157,3
+article_2862,0,Non-clickbait,Thanh Niên,Other,1981,3
+article_2863,0,Non-clickbait,Thanh Niên,Other,1982,3
+article_2865,0,Non-clickbait,Thanh Niên,Other,1983,3
+article_2870,1,Clickbait,Thanh Niên,Chính trị & An ninh,3161,3
+article_2873,0,Non-clickbait,Thanh Niên,Other,1988,3
+article_2886,1,Clickbait,VietNamNet,Xe & Vận tải,3163,3
+article_2887,1,Clickbait,VietNamNet,Xe & Vận tải,3164,3
+article_2894,0,Non-clickbait,VietNamNet,Xe & Vận tải,2000,3
+article_2903,1,Clickbait,VietNamNet,Xe & Vận tải,2002,3
+article_2905,1,Clickbait,VietNamNet,Xe & Vận tải,2003,3
+article_2913,1,Clickbait,VietNamNet,Xe & Vận tải,3174,3
+article_2931,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,3182,3
+article_2944,1,Clickbait,SaoStar,Du lịch & Ẩm thực,3185,3
+article_2952,1,Clickbait,24h,Other,3189,3
+article_2955,1,Clickbait,24h,Other,2019,3
+article_2957,1,Clickbait,24h,Other,3191,3
+article_2963,1,Clickbait,24h,Other,3194,3
+article_2964,1,Clickbait,24h,Other,3195,3
+article_2968,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3197,3
+article_2975,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3201,3
+article_2981,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2025,3
+article_2988,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2029,3
+article_2997,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3210,3
+article_2999,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3212,3
+article_3006,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2036,3
+article_3007,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2037,3
+article_3008,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3215,3
+article_3010,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3216,3
+article_3014,1,Clickbait,Báo Mới,Công nghệ & Khoa học,2039,3
+article_3015,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2040,3
+article_3028,0,Non-clickbait,VnExpress,Other,2049,3
+article_3033,0,Non-clickbait,VnExpress,Other,2051,3
+article_3039,0,Non-clickbait,VnExpress,Other,2056,3
+article_3040,1,Clickbait,VnExpress,Other,3221,3
+article_3055,0,Non-clickbait,VnExpress,Other,2066,3
+article_3059,0,Non-clickbait,VnExpress,Other,2067,3
+article_3060,0,Non-clickbait,VnExpress,Other,2068,3
+article_3071,0,Non-clickbait,VnExpress,Other,2075,3
+article_3084,1,Clickbait,Tuổi Trẻ,Other,3230,3
+article_3087,0,Non-clickbait,Tuổi Trẻ,Other,2087,3
+article_3091,1,Clickbait,Thanh Niên,Other,3232,3
+article_3094,1,Clickbait,Thanh Niên,Other,2091,3
+article_3098,0,Non-clickbait,Thanh Niên,Other,2094,3
+article_3100,0,Non-clickbait,Thanh Niên,Other,2096,3
+article_3102,0,Non-clickbait,Thanh Niên,Other,2097,3
+article_3103,0,Non-clickbait,Thanh Niên,Other,2098,3
+article_3108,0,Non-clickbait,Thanh Niên,Other,2102,3
+article_3113,0,Non-clickbait,Thanh Niên,Other,2106,3
+article_3117,1,Clickbait,Thanh Niên,Other,3238,3
+article_3120,0,Non-clickbait,Thanh Niên,Other,2110,3
+article_3125,0,Non-clickbait,Thanh Niên,Other,2113,3
+article_3138,0,Non-clickbait,VietNamNet,Other,2118,3
+article_3139,1,Clickbait,VietNamNet,Other,2119,3
+article_3146,1,Clickbait,VietNamNet,Other,3250,3
+article_3155,1,Clickbait,VietNamNet,Other,2131,3
+article_3171,1,Clickbait,24h,Giải trí & Showbiz,3260,3
+article_3185,0,Non-clickbait,24h,Giải trí & Showbiz,2140,3
+article_3186,0,Non-clickbait,24h,Giải trí & Showbiz,2141,3
+article_3189,0,Non-clickbait,24h,Giải trí & Showbiz,2143,3
+article_3199,0,Non-clickbait,24h,Giải trí & Showbiz,2150,3
+article_3202,1,Clickbait,24h,Giải trí & Showbiz,3268,3
+article_3205,1,Clickbait,24h,Giải trí & Showbiz,3270,3
+article_3216,1,Clickbait,24h,Giải trí & Showbiz,2158,3
+article_3225,1,Clickbait,24h,Giải trí & Showbiz,3280,3
+article_3226,0,Non-clickbait,24h,Giải trí & Showbiz,2162,3
+article_3246,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2174,3
+article_3247,0,Non-clickbait,Báo Mới,Other,2175,3
+article_3262,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2183,3
+article_3271,0,Non-clickbait,Báo Mới,Other,2192,3
+article_3279,0,Non-clickbait,VnExpress,Other,2198,3
+article_3288,1,Clickbait,VnExpress,Other,3296,3
+article_3290,0,Non-clickbait,VnExpress,Other,2202,3
+article_3294,0,Non-clickbait,VnExpress,Other,2205,3
+article_3300,0,Non-clickbait,VnExpress,Other,2210,3
+article_3304,1,Clickbait,VnExpress,Other,3298,3
+article_3309,0,Non-clickbait,VnExpress,Other,2215,3
+article_3310,0,Non-clickbait,VnExpress,Other,2216,3
+article_3311,1,Clickbait,VnExpress,Other,3299,3
+article_3313,1,Clickbait,VnExpress,Other,3300,3
+article_3323,1,Clickbait,VnExpress,Other,3301,3
+article_3327,1,Clickbait,VnExpress,Other,2227,3
+article_3333,1,Clickbait,VnExpress,Other,3303,3
+article_3347,1,Clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,3306,3
+article_3357,0,Non-clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,2244,3
+article_3368,1,Clickbait,Thanh Niên,Other,2251,3
+article_3380,0,Non-clickbait,Thanh Niên,Other,2256,3
+article_3391,0,Non-clickbait,Thanh Niên,Other,2265,3
+article_3395,0,Non-clickbait,Thanh Niên,Other,2266,3
+article_3403,0,Non-clickbait,Thanh Niên,Other,2271,3
+article_3414,1,Clickbait,VietNamNet,Du lịch & Ẩm thực,3330,3
+article_3416,1,Clickbait,VietNamNet,Du lịch & Ẩm thực,3331,3
+article_3426,1,Clickbait,VietNamNet,Du lịch & Ẩm thực,3333,3
+article_3436,0,Non-clickbait,24h,Xe & Vận tải,2284,3
+article_3442,0,Non-clickbait,24h,Xe & Vận tải,2287,3
+article_3445,1,Clickbait,24h,Xe & Vận tải,2288,3
+article_3454,1,Clickbait,24h,Xe & Vận tải,3339,3
+article_3460,1,Clickbait,24h,Xe & Vận tải,3341,3
+article_3462,0,Non-clickbait,24h,Xe & Vận tải,2296,3
+article_3468,0,Non-clickbait,Báo Mới,Xe & Vận tải,2301,3
+article_3470,0,Non-clickbait,Báo Mới,Xe & Vận tải,2302,3
+article_3497,0,Non-clickbait,Báo Mới,Xe & Vận tải,2326,3
+article_3502,0,Non-clickbait,Báo Mới,Xe & Vận tải,2331,3
+article_3505,0,Non-clickbait,Báo Mới,Xe & Vận tải,2334,3
+article_3512,0,Non-clickbait,Báo Mới,Xe & Vận tải,3346,3
+article_3517,0,Non-clickbait,Tuổi Trẻ,Other,2343,3
+article_3519,0,Non-clickbait,Tuổi Trẻ,Other,2345,3
+article_3521,1,Clickbait,Tuổi Trẻ,Chính trị & An ninh,3348,3
+article_3531,0,Non-clickbait,VietNamNet,Other,2349,3
+article_3534,0,Non-clickbait,VietNamNet,Other,2351,3
+article_3551,0,Non-clickbait,VietNamNet,Other,2361,3
+article_3553,0,Non-clickbait,VietNamNet,Other,2362,3
+article_3558,0,Non-clickbait,VietNamNet,Other,2363,3
+article_3561,0,Non-clickbait,24h,Xe & Vận tải,2366,3
+article_3563,1,Clickbait,24h,Xe & Vận tải,3350,3
+article_3569,0,Non-clickbait,24h,Xe & Vận tải,2370,3
+article_3581,0,Non-clickbait,24h,Xe & Vận tải,2380,3
+article_3583,0,Non-clickbait,24h,Xe & Vận tải,2382,3
+article_3586,0,Non-clickbait,Báo Mới,Other,2384,3
+article_3588,0,Non-clickbait,Báo Mới,Other,2386,3
+article_3594,0,Non-clickbait,Báo Mới,Other,2391,3
+article_3595,1,Clickbait,Báo Mới,Other,3356,3
+article_3596,0,Non-clickbait,Báo Mới,Other,2392,3
+article_3598,0,Non-clickbait,Báo Mới,Other,2394,3
+article_3603,0,Non-clickbait,Báo Mới,Other,2399,3
+article_3615,0,Non-clickbait,Báo Mới,Other,2411,3
+article_3616,0,Non-clickbait,Báo Mới,Other,2412,3
+article_3618,0,Non-clickbait,Báo Mới,Other,2413,3
+article_3619,0,Non-clickbait,Báo Mới,Other,2414,3
+article_3622,0,Non-clickbait,Báo Mới,Other,2417,3
+article_3624,0,Non-clickbait,Báo Mới,Other,2418,3
+article_3626,0,Non-clickbait,Báo Mới,Other,2420,3
+article_3632,0,Non-clickbait,Báo Mới,Other,2425,3
+article_3635,0,Non-clickbait,Báo Mới,Other,2428,3
+article_3636,0,Non-clickbait,Báo Mới,Other,2429,3
+article_3639,0,Non-clickbait,Báo Mới,Other,2432,3
+article_3647,0,Non-clickbait,Báo Mới,Other,2439,3
+article_3648,1,Clickbait,24h,Giải trí & Showbiz,3361,3
+article_3650,1,Clickbait,24h,Giải trí & Showbiz,2440,3
+article_3651,0,Non-clickbait,24h,Giải trí & Showbiz,2441,3
+article_3655,0,Non-clickbait,24h,Giải trí & Showbiz,2444,3
+article_3683,0,Non-clickbait,24h,Thể thao,2450,3
+article_3687,0,Non-clickbait,24h,Tin tức tổng hợp,2453,3
+article_3688,0,Non-clickbait,24h,Tin tức tổng hợp,2454,3
+article_3694,1,Clickbait,24h,Sức khỏe & Đời sống,3370,3
+article_3696,1,Clickbait,24h,Sức khỏe & Đời sống,3371,3
+article_3697,1,Clickbait,24h,Sức khỏe & Đời sống,3372,3
+article_3711,1,Clickbait,24h,Sức khỏe & Đời sống,3384,3
+article_3724,0,Non-clickbait,24h,Sức khỏe & Đời sống,2463,3
+article_3726,1,Clickbait,24h,Du lịch & Ẩm thực,3389,3
+article_3729,1,Clickbait,24h,Du lịch & Ẩm thực,2465,3
+article_3736,1,Clickbait,24h,Du lịch & Ẩm thực,3391,3
+article_3737,0,Non-clickbait,24h,Du lịch & Ẩm thực,2469,3
+article_3739,0,Non-clickbait,24h,Du lịch & Ẩm thực,2470,3
+article_3742,0,Non-clickbait,24h,Du lịch & Ẩm thực,2471,3
+article_3747,1,Clickbait,24h,Du lịch & Ẩm thực,3393,3
+article_3762,0,Non-clickbait,24h,Du lịch & Ẩm thực,2476,3
+article_3763,1,Clickbait,24h,Du lịch & Ẩm thực,3402,3
+article_3764,0,Non-clickbait,24h,Du lịch & Ẩm thực,2477,3
+article_3772,1,Clickbait,24h,Du lịch & Ẩm thực,3405,3
+article_3779,1,Clickbait,24h,Du lịch & Ẩm thực,3407,3
+article_3780,0,Non-clickbait,24h,Du lịch & Ẩm thực,2484,3
+article_3791,0,Non-clickbait,24h,Giáo dục & Học đường,2493,3
+article_3796,1,Clickbait,24h,Giáo dục & Học đường,2495,3
+article_3797,0,Non-clickbait,24h,Giáo dục & Học đường,2496,3
+article_0004,0,Non-clickbait,VnExpress,Tin tức tổng hợp,2,4
+article_0008,0,Non-clickbait,VnExpress,Tin tức tổng hợp,2498,4
+article_0010,0,Non-clickbait,VnExpress,Tin tức tổng hợp,4,4
+article_0012,0,Non-clickbait,VnExpress,Tin tức tổng hợp,6,4
+article_0014,0,Non-clickbait,VnExpress,Tin tức tổng hợp,8,4
+article_0016,0,Non-clickbait,VnExpress,Tin tức tổng hợp,10,4
+article_0018,0,Non-clickbait,VnExpress,Tin tức tổng hợp,12,4
+article_0019,0,Non-clickbait,VnExpress,Tin tức tổng hợp,13,4
+article_0027,0,Non-clickbait,VnExpress,Tin tức tổng hợp,21,4
+article_0029,0,Non-clickbait,VnExpress,Tin tức tổng hợp,23,4
+article_0033,0,Non-clickbait,VnExpress,Tin tức tổng hợp,27,4
+article_0039,0,Non-clickbait,VnExpress,Tin tức tổng hợp,33,4
+article_0054,0,Non-clickbait,Tuổi Trẻ,Tin tức tổng hợp,48,4
+article_0055,0,Non-clickbait,Tuổi Trẻ,Other,49,4
+article_0058,0,Non-clickbait,Tuổi Trẻ,Other,52,4
+article_0059,1,Clickbait,Tuổi Trẻ,Other,2500,4
+article_0062,1,Clickbait,Tuổi Trẻ,Other,2501,4
+article_0066,0,Non-clickbait,Tuổi Trẻ,Other,57,4
+article_0071,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,62,4
+article_0075,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,66,4
+article_0093,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,83,4
+article_0098,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,88,4
+article_0099,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,89,4
+article_0101,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,91,4
+article_0103,0,Non-clickbait,Thanh Niên,Chính trị & An ninh,93,4
+article_0107,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,97,4
+article_0110,0,Non-clickbait,VietNamNet,Chính trị & An ninh,100,4
+article_0121,0,Non-clickbait,VietNamNet,Chính trị & An ninh,110,4
+article_0129,0,Non-clickbait,VietNamNet,Chính trị & An ninh,118,4
+article_0136,0,Non-clickbait,VietNamNet,Chính trị & An ninh,125,4
+article_0137,0,Non-clickbait,VietNamNet,Chính trị & An ninh,126,4
+article_0138,0,Non-clickbait,VietNamNet,Chính trị & An ninh,127,4
+article_0142,1,Clickbait,Kênh14,Sức khỏe & Đời sống,2507,4
+article_0146,1,Clickbait,Kênh14,Sức khỏe & Đời sống,2511,4
+article_0147,1,Clickbait,SaoStar,Giải trí & Showbiz,2512,4
+article_0163,1,Clickbait,SaoStar,Giải trí & Showbiz,138,4
+article_0165,1,Clickbait,SaoStar,Giải trí & Showbiz,140,4
+article_0168,1,Clickbait,SaoStar,Giải trí & Showbiz,2518,4
+article_0176,1,Clickbait,SaoStar,Giải trí & Showbiz,150,4
+article_0198,0,Non-clickbait,24h,Tin tức tổng hợp,168,4
+article_0204,0,Non-clickbait,24h,Tin tức tổng hợp,174,4
+article_0210,0,Non-clickbait,24h,Tin tức tổng hợp,180,4
+article_0229,1,Clickbait,Báo Mới,Thể thao,2528,4
+article_0232,0,Non-clickbait,Báo Mới,Thể thao,2530,4
+article_0233,1,Clickbait,Báo Mới,Thể thao,2531,4
+article_0237,1,Clickbait,Báo Mới,Thể thao,2533,4
+article_0239,0,Non-clickbait,Báo Mới,Thể thao,2534,4
+article_0248,0,Non-clickbait,Báo Mới,Thể thao,200,4
+article_0249,0,Non-clickbait,Báo Mới,Thể thao,201,4
+article_0255,0,Non-clickbait,Báo Mới,Thể thao,206,4
+article_0259,1,Clickbait,Báo Mới,Thể thao,210,4
+article_0261,0,Non-clickbait,Báo Mới,Thể thao,212,4
+article_0263,0,Non-clickbait,Báo Mới,Thể thao,214,4
+article_0265,0,Non-clickbait,Báo Mới,Thể thao,216,4
+article_0267,0,Non-clickbait,Báo Mới,Thể thao,218,4
+article_0268,0,Non-clickbait,Báo Mới,Thể thao,219,4
+article_0270,1,Clickbait,Báo Mới,Thể thao,2539,4
+article_0271,0,Non-clickbait,Báo Mới,Thể thao,221,4
+article_0274,0,Non-clickbait,Báo Mới,Thể thao,223,4
+article_0289,0,Non-clickbait,VnExpress,Quốc tế,234,4
+article_0290,0,Non-clickbait,VnExpress,Quốc tế,235,4
+article_0291,0,Non-clickbait,VnExpress,Quốc tế,236,4
+article_0297,0,Non-clickbait,VnExpress,Quốc tế,241,4
+article_0298,0,Non-clickbait,VnExpress,Quốc tế,242,4
+article_0305,0,Non-clickbait,VnExpress,Quốc tế,245,4
+article_0323,0,Non-clickbait,VnExpress,Quốc tế,260,4
+article_0330,1,Clickbait,Tuổi Trẻ,Other,2550,4
+article_0333,0,Non-clickbait,Tuổi Trẻ,Quốc tế,269,4
+article_0334,0,Non-clickbait,Tuổi Trẻ,Quốc tế,270,4
+article_0336,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,272,4
+article_0340,0,Non-clickbait,Tuổi Trẻ,Other,275,4
+article_0344,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,279,4
+article_0346,1,Clickbait,Thanh Niên,Other,2552,4
+article_0351,0,Non-clickbait,Thanh Niên,Other,284,4
+article_0352,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,285,4
+article_0353,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,286,4
+article_0360,0,Non-clickbait,Thanh Niên,Other,293,4
+article_0363,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,2554,4
+article_0367,0,Non-clickbait,Thanh Niên,Other,298,4
+article_0368,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,299,4
+article_0376,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,307,4
+article_0377,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,308,4
+article_0380,0,Non-clickbait,Thanh Niên,Tin tức tổng hợp,311,4
+article_0402,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,326,4
+article_0404,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,327,4
+article_0409,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,332,4
+article_0416,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,339,4
+article_0418,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,340,4
+article_0419,0,Non-clickbait,Kênh14,Thể thao,2561,4
+article_0420,1,Clickbait,Kênh14,Thể thao,341,4
+article_0424,1,Clickbait,Kênh14,Thể thao,345,4
+article_0425,0,Non-clickbait,Kênh14,Thể thao,346,4
+article_0429,1,Clickbait,SaoStar,Sức khỏe & Đời sống,349,4
+article_0431,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,351,4
+article_0440,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,356,4
+article_0443,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,359,4
+article_0455,0,Non-clickbait,SaoStar,Sức khỏe & Đời sống,367,4
+article_0458,1,Clickbait,24h,Quốc tế,2571,4
+article_0465,0,Non-clickbait,24h,Quốc tế,373,4
+article_0466,0,Non-clickbait,24h,Quốc tế,374,4
+article_0468,0,Non-clickbait,24h,Quốc tế,376,4
+article_0469,1,Clickbait,24h,Quốc tế,2574,4
+article_0480,1,Clickbait,24h,Quốc tế,2577,4
+article_0481,1,Clickbait,24h,Quốc tế,2578,4
+article_0503,0,Non-clickbait,Báo Mới,Quốc tế,403,4
+article_0510,0,Non-clickbait,Báo Mới,Quốc tế,407,4
+article_0512,0,Non-clickbait,Báo Mới,Quốc tế,409,4
+article_0514,1,Clickbait,Báo Mới,Quốc tế,2585,4
+article_0515,1,Clickbait,Báo Mới,Quốc tế,2586,4
+article_0517,1,Clickbait,Báo Mới,Quốc tế,2587,4
+article_0526,0,Non-clickbait,Báo Mới,Quốc tế,419,4
+article_0538,0,Non-clickbait,Báo Mới,Quốc tế,427,4
+article_0543,0,Non-clickbait,Báo Mới,Quốc tế,2593,4
+article_0547,0,Non-clickbait,Báo Mới,Quốc tế,434,4
+article_0548,0,Non-clickbait,Báo Mới,Quốc tế,435,4
+article_0553,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,440,4
+article_0559,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,442,4
+article_0567,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,450,4
+article_0569,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,452,4
+article_0580,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,461,4
+article_0590,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,470,4
+article_0604,0,Non-clickbait,VnExpress,Kinh doanh & Kinh tế,484,4
+article_0609,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,488,4
+article_0612,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,491,4
+article_0614,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,493,4
+article_0618,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,495,4
+article_0620,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,497,4
+article_0627,0,Non-clickbait,Thanh Niên,Quốc tế,503,4
+article_0635,0,Non-clickbait,Thanh Niên,Other,510,4
+article_0637,1,Clickbait,Thanh Niên,Quốc tế,512,4
+article_0639,0,Non-clickbait,Thanh Niên,Quốc tế,2603,4
+article_0640,0,Non-clickbait,Thanh Niên,Quốc tế,514,4
+article_0647,0,Non-clickbait,Thanh Niên,Other,520,4
+article_0651,1,Clickbait,Thanh Niên,Other,2606,4
+article_0660,1,Clickbait,Thanh Niên,Other,2613,4
+article_0690,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,546,4
+article_0697,1,Clickbait,Kênh14,Giải trí & Showbiz,2624,4
+article_0711,1,Clickbait,SaoStar,Quốc tế,2632,4
+article_0713,1,Clickbait,SaoStar,Quốc tế,2634,4
+article_0716,1,Clickbait,SaoStar,Quốc tế,2636,4
+article_0717,1,Clickbait,SaoStar,Quốc tế,2637,4
+article_0719,1,Clickbait,SaoStar,Quốc tế,2639,4
+article_0723,1,Clickbait,SaoStar,Quốc tế,2642,4
+article_0732,1,Clickbait,24h,Chính trị & An ninh,2648,4
+article_0733,1,Clickbait,24h,Chính trị & An ninh,2649,4
+article_0737,1,Clickbait,24h,Chính trị & An ninh,565,4
+article_0738,1,Clickbait,24h,Chính trị & An ninh,2650,4
+article_0740,1,Clickbait,24h,Chính trị & An ninh,2652,4
+article_0743,0,Non-clickbait,24h,Giải trí & Showbiz,568,4
+article_0749,0,Non-clickbait,24h,Chính trị & An ninh,574,4
+article_0750,0,Non-clickbait,24h,Chính trị & An ninh,575,4
+article_0754,0,Non-clickbait,24h,Chính trị & An ninh,579,4
+article_0759,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,583,4
+article_0764,0,Non-clickbait,Báo Mới,Other,588,4
+article_0777,0,Non-clickbait,Báo Mới,Other,601,4
+article_0780,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,604,4
+article_0787,0,Non-clickbait,Báo Mới,Other,611,4
+article_0792,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,616,4
+article_0797,0,Non-clickbait,Báo Mới,Other,621,4
+article_0798,0,Non-clickbait,Báo Mới,Other,622,4
+article_0799,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,623,4
+article_0800,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,624,4
+article_0805,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,629,4
+article_0808,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,632,4
+article_0815,0,Non-clickbait,Báo Mới,Other,638,4
+article_0820,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,643,4
+article_0824,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,647,4
+article_0831,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,2655,4
+article_0834,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,653,4
+article_0835,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,654,4
+article_0845,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,663,4
+article_0847,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,665,4
+article_0848,1,Clickbait,VnExpress,Công nghệ & Khoa học,2656,4
+article_0851,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,668,4
+article_0863,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,680,4
+article_0867,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,684,4
+article_0871,0,Non-clickbait,VnExpress,Công nghệ & Khoa học,688,4
+article_0880,0,Non-clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,696,4
+article_0895,0,Non-clickbait,Thanh Niên,Kinh doanh & Kinh tế,708,4
+article_0915,0,Non-clickbait,Thanh Niên,Kinh doanh & Kinh tế,725,4
+article_0918,0,Non-clickbait,Thanh Niên,Kinh doanh & Kinh tế,728,4
+article_0923,0,Non-clickbait,Thanh Niên,Other,732,4
+article_0927,0,Non-clickbait,Thanh Niên,Other,735,4
+article_0933,0,Non-clickbait,Thanh Niên,Other,740,4
+article_0937,1,Clickbait,VietNamNet,Thể thao,741,4
+article_0949,0,Non-clickbait,VietNamNet,Thể thao,750,4
+article_0950,0,Non-clickbait,VietNamNet,Thể thao,751,4
+article_0953,1,Clickbait,VietNamNet,Thể thao,2673,4
+article_0959,0,Non-clickbait,VietNamNet,Thể thao,757,4
+article_0964,0,Non-clickbait,VietNamNet,Thể thao,761,4
+article_0974,1,Clickbait,Kênh14,Giải trí & Showbiz,771,4
+article_1011,0,Non-clickbait,24h,Kinh doanh & Kinh tế,2697,4
+article_1014,0,Non-clickbait,24h,Kinh doanh & Kinh tế,2699,4
+article_1021,1,Clickbait,24h,Kinh doanh & Kinh tế,2706,4
+article_1030,1,Clickbait,24h,Other,792,4
+article_1032,0,Non-clickbait,24h,Kinh doanh & Kinh tế,2711,4
+article_1040,0,Non-clickbait,24h,Other,797,4
+article_1053,0,Non-clickbait,Báo Mới,Other,807,4
+article_1054,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,808,4
+article_1055,0,Non-clickbait,Báo Mới,Other,809,4
+article_1060,0,Non-clickbait,Báo Mới,Other,813,4
+article_1065,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,818,4
+article_1068,0,Non-clickbait,Báo Mới,Other,821,4
+article_1082,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,830,4
+article_1088,0,Non-clickbait,Báo Mới,Văn hóa & Nghệ thuật,835,4
+article_1089,0,Non-clickbait,Báo Mới,Other,836,4
+article_1099,0,Non-clickbait,Báo Mới,Other,845,4
+article_1105,0,Non-clickbait,VnExpress,Other,850,4
+article_1107,0,Non-clickbait,VnExpress,Other,851,4
+article_1116,0,Non-clickbait,VnExpress,Other,859,4
+article_1117,1,Clickbait,VnExpress,Other,2725,4
+article_1125,0,Non-clickbait,VnExpress,Other,867,4
+article_1131,1,Clickbait,VnExpress,Other,2726,4
+article_1141,0,Non-clickbait,VnExpress,Other,882,4
+article_1149,0,Non-clickbait,VnExpress,Other,890,4
+article_1150,0,Non-clickbait,VnExpress,Other,891,4
+article_1156,0,Non-clickbait,VnExpress,Other,897,4
+article_1160,0,Non-clickbait,VnExpress,Other,901,4
+article_1161,0,Non-clickbait,VnExpress,Other,902,4
+article_1163,0,Non-clickbait,VnExpress,Other,904,4
+article_1165,0,Non-clickbait,VnExpress,Other,905,4
+article_1168,0,Non-clickbait,VnExpress,Other,907,4
+article_1169,0,Non-clickbait,Tuổi Trẻ,Công nghệ & Khoa học,908,4
+article_1171,0,Non-clickbait,Tuổi Trẻ,Công nghệ & Khoa học,910,4
+article_1172,0,Non-clickbait,Tuổi Trẻ,Công nghệ & Khoa học,911,4
+article_1177,0,Non-clickbait,Tuổi Trẻ,Công nghệ & Khoa học,914,4
+article_1178,0,Non-clickbait,Tuổi Trẻ,Công nghệ & Khoa học,915,4
+article_1181,1,Clickbait,Tuổi Trẻ,Công nghệ & Khoa học,2733,4
+article_1187,0,Non-clickbait,Tuổi Trẻ,Công nghệ & Khoa học,916,4
+article_1193,1,Clickbait,Thanh Niên,Other,2743,4
+article_1196,1,Clickbait,Thanh Niên,Chính trị & An ninh,2745,4
+article_1201,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,2747,4
+article_1202,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2748,4
+article_1204,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,923,4
+article_1208,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,924,4
+article_1222,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2754,4
+article_1224,1,Clickbait,Thanh Niên,Other,937,4
+article_1225,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,938,4
+article_1232,0,Non-clickbait,Thanh Niên,Other,942,4
+article_1239,0,Non-clickbait,Thanh Niên,Other,947,4
+article_1251,1,Clickbait,VietNamNet,Giáo dục & Học đường,2763,4
+article_1253,0,Non-clickbait,VietNamNet,Giáo dục & Học đường,956,4
+article_1257,1,Clickbait,Kênh14,Giải trí & Showbiz,2767,4
+article_1261,1,Clickbait,Kênh14,Giải trí & Showbiz,961,4
+article_1263,1,Clickbait,Kênh14,Giải trí & Showbiz,963,4
+article_1266,0,Non-clickbait,SaoStar,Giải trí & Showbiz,2769,4
+article_1268,1,Clickbait,SaoStar,Giải trí & Showbiz,2771,4
+article_1269,1,Clickbait,SaoStar,Giải trí & Showbiz,2772,4
+article_1272,1,Clickbait,SaoStar,Giải trí & Showbiz,2774,4
+article_1273,1,Clickbait,SaoStar,Giải trí & Showbiz,2775,4
+article_1274,1,Clickbait,SaoStar,Giải trí & Showbiz,2776,4
+article_1283,1,Clickbait,SaoStar,Giải trí & Showbiz,2781,4
+article_1297,0,Non-clickbait,24h,Kinh doanh & Kinh tế,974,4
+article_1300,1,Clickbait,24h,Kinh doanh & Kinh tế,2792,4
+article_1302,1,Clickbait,24h,Kinh doanh & Kinh tế,976,4
+article_1303,1,Clickbait,24h,Kinh doanh & Kinh tế,2794,4
+article_1305,1,Clickbait,24h,Kinh doanh & Kinh tế,2796,4
+article_1308,1,Clickbait,24h,Kinh doanh & Kinh tế,978,4
+article_1316,1,Clickbait,24h,Kinh doanh & Kinh tế,2801,4
+article_1323,0,Non-clickbait,Báo Mới,Other,986,4
+article_1332,1,Clickbait,Báo Mới,Other,2806,4
+article_1333,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,994,4
+article_1337,0,Non-clickbait,Báo Mới,Other,2808,4
+article_1346,0,Non-clickbait,Báo Mới,Other,1004,4
+article_1349,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1007,4
+article_1355,1,Clickbait,Báo Mới,Other,2811,4
+article_1357,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,1013,4
+article_1359,0,Non-clickbait,Báo Mới,Other,1015,4
+article_1382,0,Non-clickbait,VnExpress,Other,1033,4
+article_1383,0,Non-clickbait,VnExpress,Other,1034,4
+article_1387,0,Non-clickbait,VnExpress,Other,1035,4
+article_1396,0,Non-clickbait,VnExpress,Other,1041,4
+article_1398,0,Non-clickbait,VnExpress,Other,1043,4
+article_1413,0,Non-clickbait,VnExpress,Other,1055,4
+article_1426,0,Non-clickbait,VnExpress,Other,1066,4
+article_1434,0,Non-clickbait,Tuổi Trẻ,Xe & Vận tải,1071,4
+article_1436,1,Clickbait,Tuổi Trẻ,Xe & Vận tải,1073,4
+article_1440,1,Clickbait,Tuổi Trẻ,Xe & Vận tải,2825,4
+article_1442,1,Clickbait,Tuổi Trẻ,Xe & Vận tải,2826,4
+article_1453,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2834,4
+article_1465,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2843,4
+article_1467,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,2845,4
+article_1474,1,Clickbait,Thanh Niên,Sức khỏe & Đời sống,2848,4
+article_1485,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1091,4
+article_1488,0,Non-clickbait,Thanh Niên,Other,1093,4
+article_1493,0,Non-clickbait,Thanh Niên,Sức khỏe & Đời sống,1094,4
+article_1498,0,Non-clickbait,Thanh Niên,Other,1098,4
+article_1506,0,Non-clickbait,VietNamNet,Quốc tế,1106,4
+article_1507,0,Non-clickbait,VietNamNet,Quốc tế,1107,4
+article_1509,0,Non-clickbait,VietNamNet,Quốc tế,1109,4
+article_1513,0,Non-clickbait,VietNamNet,Quốc tế,1112,4
+article_1514,0,Non-clickbait,VietNamNet,Quốc tế,1113,4
+article_1516,0,Non-clickbait,VietNamNet,Quốc tế,1115,4
+article_1517,0,Non-clickbait,VietNamNet,Quốc tế,1116,4
+article_1521,0,Non-clickbait,VietNamNet,Quốc tế,1120,4
+article_1540,0,Non-clickbait,SaoStar,Thể thao,1135,4
+article_1553,1,Clickbait,SaoStar,Thể thao,2858,4
+article_1558,0,Non-clickbait,SaoStar,Thể thao,1146,4
+article_1559,0,Non-clickbait,SaoStar,Thể thao,1147,4
+article_1561,1,Clickbait,SaoStar,Thể thao,1148,4
+article_1565,0,Non-clickbait,SaoStar,Thể thao,1151,4
+article_1570,1,Clickbait,24h,Thể thao,2861,4
+article_1575,0,Non-clickbait,24h,Thể thao,1159,4
+article_1579,0,Non-clickbait,24h,Thể thao,1163,4
+article_1585,0,Non-clickbait,24h,Thể thao,2864,4
+article_1587,0,Non-clickbait,24h,Thể thao,1168,4
+article_1593,0,Non-clickbait,24h,Thể thao,1173,4
+article_1605,0,Non-clickbait,24h,Thể thao,1181,4
+article_1607,1,Clickbait,24h,Thể thao,2869,4
+article_1611,0,Non-clickbait,24h,Thể thao,1185,4
+article_1637,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1203,4
+article_1645,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1211,4
+article_1646,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1212,4
+article_1655,0,Non-clickbait,Báo Mới,Other,1221,4
+article_1660,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1226,4
+article_1662,0,Non-clickbait,Báo Mới,Other,1228,4
+article_1665,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1231,4
+article_1676,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1242,4
+article_1678,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1244,4
+article_1679,0,Non-clickbait,Báo Mới,Giáo dục & Học đường,1245,4
+article_1683,1,Clickbait,Báo Mới,Giáo dục & Học đường,2877,4
+article_1694,0,Non-clickbait,VnExpress,Thể thao,1259,4
+article_1698,0,Non-clickbait,VnExpress,Thể thao,1262,4
+article_1700,0,Non-clickbait,VnExpress,Thể thao,1263,4
+article_1705,1,Clickbait,VnExpress,Thể thao,2878,4
+article_1728,0,Non-clickbait,VnExpress,Thể thao,1276,4
+article_1733,0,Non-clickbait,VnExpress,Thể thao,1280,4
+article_1735,0,Non-clickbait,VnExpress,Thể thao,1282,4
+article_1737,0,Non-clickbait,VnExpress,Thể thao,1284,4
+article_1740,0,Non-clickbait,VnExpress,Thể thao,1287,4
+article_1744,0,Non-clickbait,VnExpress,Thể thao,1291,4
+article_1746,0,Non-clickbait,VnExpress,Thể thao,1293,4
+article_1770,0,Non-clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,1310,4
+article_1782,1,Clickbait,Thanh Niên,Giáo dục & Học đường,2883,4
+article_1784,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1322,4
+article_1787,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1324,4
+article_1792,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1326,4
+article_1793,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1327,4
+article_1795,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1329,4
+article_1800,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1332,4
+article_1802,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1334,4
+article_1806,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1337,4
+article_1815,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1344,4
+article_1818,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1346,4
+article_1819,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1347,4
+article_1824,0,Non-clickbait,Thanh Niên,Giáo dục & Học đường,1350,4
+article_1828,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2893,4
+article_1853,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2898,4
+article_1855,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1358,4
+article_1862,0,Non-clickbait,Kênh14,Giáo dục & Học đường,1364,4
+article_1868,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2903,4
+article_1883,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2914,4
+article_1895,1,Clickbait,SaoStar,Sức khỏe & Đời sống,2923,4
+article_1904,0,Non-clickbait,24h,Thể thao,1378,4
+article_1910,0,Non-clickbait,24h,Thể thao,1384,4
+article_1913,0,Non-clickbait,24h,Thể thao,1386,4
+article_1914,0,Non-clickbait,24h,Thể thao,1387,4
+article_1916,0,Non-clickbait,24h,Thể thao,1389,4
+article_1917,0,Non-clickbait,24h,Thể thao,1390,4
+article_1921,0,Non-clickbait,Báo Mới,Thể thao,1393,4
+article_1938,0,Non-clickbait,Báo Mới,Thể thao,2931,4
+article_1946,0,Non-clickbait,Báo Mới,Thể thao,1409,4
+article_1949,1,Clickbait,Báo Mới,Thể thao,2933,4
+article_1953,0,Non-clickbait,Báo Mới,Thể thao,1414,4
+article_1955,1,Clickbait,Báo Mới,Thể thao,2934,4
+article_1959,1,Clickbait,VnExpress,Other,2936,4
+article_1972,1,Clickbait,VnExpress,Other,2938,4
+article_1992,0,Non-clickbait,VnExpress,Other,1438,4
+article_1994,0,Non-clickbait,VnExpress,Other,1440,4
+article_2001,0,Non-clickbait,VnExpress,Other,1442,4
+article_2006,0,Non-clickbait,VnExpress,Other,1447,4
+article_2010,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1449,4
+article_2012,1,Clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,2946,4
+article_2021,0,Non-clickbait,Tuổi Trẻ,Văn hóa & Nghệ thuật,1458,4
+article_2026,0,Non-clickbait,Thanh Niên,Other,1462,4
+article_2027,0,Non-clickbait,Thanh Niên,Other,1463,4
+article_2030,1,Clickbait,Thanh Niên,Other,2948,4
+article_2035,1,Clickbait,Thanh Niên,Chính trị & An ninh,1467,4
+article_2044,0,Non-clickbait,Thanh Niên,Other,1475,4
+article_2047,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1476,4
+article_2048,1,Clickbait,Thanh Niên,Other,2953,4
+article_2053,0,Non-clickbait,Thanh Niên,Du lịch & Ẩm thực,1481,4
+article_2068,1,Clickbait,Thanh Niên,Other,2957,4
+article_2070,0,Non-clickbait,Thanh Niên,Other,1494,4
+article_2072,1,Clickbait,Thanh Niên,Chính trị & An ninh,2959,4
+article_2076,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1496,4
+article_2081,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,2961,4
+article_2101,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1511,4
+article_2102,0,Non-clickbait,VietNamNet,Sức khỏe & Đời sống,1512,4
+article_2107,0,Non-clickbait,SaoStar,Giáo dục & Học đường,1516,4
+article_2126,0,Non-clickbait,SaoStar,Giáo dục & Học đường,2974,4
+article_2132,1,Clickbait,SaoStar,Giáo dục & Học đường,1523,4
+article_2137,1,Clickbait,24h,Công nghệ & Khoa học,2979,4
+article_2142,1,Clickbait,24h,Công nghệ & Khoa học,2983,4
+article_2143,1,Clickbait,24h,Công nghệ & Khoa học,2984,4
+article_2148,1,Clickbait,24h,Công nghệ & Khoa học,2987,4
+article_2155,1,Clickbait,24h,Công nghệ & Khoa học,2990,4
+article_2159,1,Clickbait,24h,Công nghệ & Khoa học,2993,4
+article_2164,1,Clickbait,24h,Công nghệ & Khoa học,2997,4
+article_2169,1,Clickbait,Báo Mới,Giải trí & Showbiz,2998,4
+article_2178,1,Clickbait,Báo Mới,Other,3002,4
+article_2180,0,Non-clickbait,Báo Mới,Other,1538,4
+article_2183,1,Clickbait,Báo Mới,Other,3005,4
+article_2213,0,Non-clickbait,Báo Mới,Other,1555,4
+article_2215,0,Non-clickbait,VnExpress,Other,1556,4
+article_2222,0,Non-clickbait,VnExpress,Other,1560,4
+article_2229,0,Non-clickbait,VnExpress,Other,1566,4
+article_2233,0,Non-clickbait,VnExpress,Other,1569,4
+article_2234,0,Non-clickbait,VnExpress,Other,1570,4
+article_2241,0,Non-clickbait,VnExpress,Other,1575,4
+article_2268,0,Non-clickbait,Tuổi Trẻ,Giải trí & Showbiz,1594,4
+article_2270,0,Non-clickbait,Tuổi Trẻ,Giải trí & Showbiz,1595,4
+article_2276,0,Non-clickbait,Tuổi Trẻ,Giải trí & Showbiz,1598,4
+article_2278,1,Clickbait,Tuổi Trẻ,Giải trí & Showbiz,3021,4
+article_2280,1,Clickbait,Tuổi Trẻ,Giải trí & Showbiz,3022,4
+article_2287,0,Non-clickbait,Thanh Niên,Other,1604,4
+article_2294,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1611,4
+article_2295,1,Clickbait,Thanh Niên,Other,1612,4
+article_2299,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1616,4
+article_2300,1,Clickbait,Thanh Niên,Văn hóa & Nghệ thuật,3025,4
+article_2309,0,Non-clickbait,Thanh Niên,Văn hóa & Nghệ thuật,1623,4
+article_2320,0,Non-clickbait,Thanh Niên,Other,1631,4
+article_2323,1,Clickbait,Thanh Niên,Other,3032,4
+article_2330,0,Non-clickbait,Thanh Niên,Other,1638,4
+article_2336,1,Clickbait,VietNamNet,Công nghệ & Khoa học,3034,4
+article_2341,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1644,4
+article_2347,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1649,4
+article_2350,1,Clickbait,VietNamNet,Công nghệ & Khoa học,3039,4
+article_2352,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1652,4
+article_2359,1,Clickbait,VietNamNet,Công nghệ & Khoa học,3042,4
+article_2361,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,1657,4
+article_2373,0,Non-clickbait,SaoStar,Kinh doanh & Kinh tế,1666,4
+article_2375,0,Non-clickbait,SaoStar,Kinh doanh & Kinh tế,3044,4
+article_2376,0,Non-clickbait,SaoStar,Kinh doanh & Kinh tế,1667,4
+article_2405,1,Clickbait,24h,Other,3048,4
+article_2409,0,Non-clickbait,24h,Other,1679,4
+article_2421,1,Clickbait,24h,Other,3055,4
+article_2422,1,Clickbait,24h,Công nghệ & Khoa học,3056,4
+article_2427,0,Non-clickbait,Báo Mới,Other,1689,4
+article_2436,0,Non-clickbait,Báo Mới,Other,1698,4
+article_2444,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1704,4
+article_2464,0,Non-clickbait,Báo Mới,Other,1724,4
+article_2469,0,Non-clickbait,Báo Mới,Other,1728,4
+article_2470,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1729,4
+article_2471,0,Non-clickbait,Báo Mới,Other,1730,4
+article_2476,0,Non-clickbait,Báo Mới,Other,1735,4
+article_2479,0,Non-clickbait,Báo Mới,Chính trị & An ninh,1738,4
+article_2484,0,Non-clickbait,VnExpress,Other,1743,4
+article_2485,0,Non-clickbait,VnExpress,Other,1744,4
+article_2492,0,Non-clickbait,VnExpress,Other,1748,4
+article_2493,0,Non-clickbait,VnExpress,Other,1749,4
+article_2498,0,Non-clickbait,VnExpress,Other,1753,4
+article_2499,0,Non-clickbait,VnExpress,Other,1754,4
+article_2514,0,Non-clickbait,VnExpress,Other,1765,4
+article_2522,0,Non-clickbait,VnExpress,Other,1772,4
+article_2532,0,Non-clickbait,VnExpress,Other,1778,4
+article_2534,0,Non-clickbait,VnExpress,Other,1780,4
+article_2541,1,Clickbait,Tuổi Trẻ,Thể thao,3068,4
+article_2554,1,Clickbait,Tuổi Trẻ,Thể thao,1793,4
+article_2555,0,Non-clickbait,Tuổi Trẻ,Thể thao,1794,4
+article_2557,0,Non-clickbait,Tuổi Trẻ,Thể thao,1796,4
+article_2558,0,Non-clickbait,Tuổi Trẻ,Thể thao,1797,4
+article_2561,1,Clickbait,Tuổi Trẻ,Thể thao,3073,4
+article_2562,0,Non-clickbait,Tuổi Trẻ,Thể thao,1800,4
+article_2563,0,Non-clickbait,Tuổi Trẻ,Thể thao,1801,4
+article_2578,1,Clickbait,Thanh Niên,Giải trí & Showbiz,3076,4
+article_2579,1,Clickbait,Thanh Niên,Giải trí & Showbiz,3077,4
+article_2585,0,Non-clickbait,Thanh Niên,Other,1813,4
+article_2592,1,Clickbait,Thanh Niên,Other,1816,4
+article_2593,1,Clickbait,Thanh Niên,Other,1817,4
+article_2609,0,Non-clickbait,Thanh Niên,Other,1822,4
+article_2627,1,Clickbait,VietNamNet,Chính trị & An ninh,3095,4
+article_2628,1,Clickbait,VietNamNet,Chính trị & An ninh,3096,4
+article_2641,0,Non-clickbait,VietNamNet,Chính trị & An ninh,1844,4
+article_2653,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1853,4
+article_2654,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1854,4
+article_2655,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1855,4
+article_2659,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1859,4
+article_2661,1,Clickbait,SaoStar,Công nghệ & Khoa học,3102,4
+article_2662,1,Clickbait,SaoStar,Công nghệ & Khoa học,3103,4
+article_2666,1,Clickbait,SaoStar,Công nghệ & Khoa học,3105,4
+article_2669,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,1863,4
+article_2675,0,Non-clickbait,24h,Other,1867,4
+article_2679,0,Non-clickbait,24h,Other,1870,4
+article_2680,1,Clickbait,24h,Other,3107,4
+article_2681,0,Non-clickbait,24h,Other,1871,4
+article_2687,1,Clickbait,24h,Other,3109,4
+article_2693,1,Clickbait,24h,Other,3111,4
+article_2695,1,Clickbait,24h,Other,3112,4
+article_2699,0,Non-clickbait,24h,Other,1879,4
+article_2700,0,Non-clickbait,24h,Other,1880,4
+article_2714,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1893,4
+article_2721,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1900,4
+article_2724,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1903,4
+article_2726,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1904,4
+article_2729,0,Non-clickbait,Báo Mới,Other,1905,4
+article_2745,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,1919,4
+article_2746,0,Non-clickbait,Báo Mới,Other,1920,4
+article_2779,1,Clickbait,VnExpress,Other,3130,4
+article_2791,1,Clickbait,VnExpress,Other,1937,4
+article_2798,0,Non-clickbait,VnExpress,Other,1939,4
+article_2808,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1944,4
+article_2811,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1947,4
+article_2813,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1949,4
+article_2819,0,Non-clickbait,Tuổi Trẻ,Giáo dục & Học đường,1954,4
+article_2821,1,Clickbait,Tuổi Trẻ,Giáo dục & Học đường,3146,4
+article_2824,1,Clickbait,Thanh Niên,Other,3147,4
+article_2827,1,Clickbait,Thanh Niên,Other,3148,4
+article_2828,1,Clickbait,Thanh Niên,Other,1959,4
+article_2831,1,Clickbait,Thanh Niên,Thể thao,3150,4
+article_2837,0,Non-clickbait,Thanh Niên,Thể thao,1966,4
+article_2841,0,Non-clickbait,Thanh Niên,Other,1969,4
+article_2842,0,Non-clickbait,Thanh Niên,Other,1970,4
+article_2843,1,Clickbait,Thanh Niên,Other,3152,4
+article_2844,0,Non-clickbait,Thanh Niên,Other,1971,4
+article_2848,1,Clickbait,Thanh Niên,Other,3155,4
+article_2861,1,Clickbait,Thanh Niên,Other,3158,4
+article_2872,0,Non-clickbait,Thanh Niên,Other,1987,4
+article_2878,0,Non-clickbait,Thanh Niên,Other,1989,4
+article_2882,0,Non-clickbait,Thanh Niên,Other,1992,4
+article_2884,0,Non-clickbait,Thanh Niên,Other,1994,4
+article_2892,1,Clickbait,VietNamNet,Xe & Vận tải,1998,4
+article_2895,1,Clickbait,VietNamNet,Xe & Vận tải,3166,4
+article_2898,1,Clickbait,VietNamNet,Xe & Vận tải,2001,4
+article_2899,1,Clickbait,VietNamNet,Xe & Vận tải,3169,4
+article_2902,1,Clickbait,VietNamNet,Xe & Vận tải,3170,4
+article_2904,1,Clickbait,VietNamNet,Xe & Vận tải,3171,4
+article_2907,1,Clickbait,VietNamNet,Xe & Vận tải,2004,4
+article_2908,1,Clickbait,VietNamNet,Xe & Vận tải,2005,4
+article_2917,1,Clickbait,SaoStar,Du lịch & Ẩm thực,3175,4
+article_2926,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,3178,4
+article_2935,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,2017,4
+article_2946,1,Clickbait,24h,Other,3186,4
+article_2947,1,Clickbait,24h,Other,3187,4
+article_2961,0,Non-clickbait,24h,Other,2021,4
+article_2962,1,Clickbait,24h,Other,3193,4
+article_2965,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3196,4
+article_2966,1,Clickbait,Báo Mới,Công nghệ & Khoa học,2022,4
+article_2969,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2023,4
+article_2970,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3198,4
+article_2971,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2024,4
+article_2980,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3205,4
+article_2994,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3209,4
+article_2995,1,Clickbait,Báo Mới,Công nghệ & Khoa học,2031,4
+article_3001,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2033,4
+article_3004,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3214,4
+article_3012,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3217,4
+article_3013,1,Clickbait,Báo Mới,Công nghệ & Khoa học,3218,4
+article_3017,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2042,4
+article_3019,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,2043,4
+article_3021,0,Non-clickbait,VnExpress,Other,2045,4
+article_3023,0,Non-clickbait,VnExpress,Other,2046,4
+article_3025,0,Non-clickbait,VnExpress,Other,2047,4
+article_3045,0,Non-clickbait,VnExpress,Other,2059,4
+article_3046,0,Non-clickbait,VnExpress,Other,2060,4
+article_3048,0,Non-clickbait,VnExpress,Other,2062,4
+article_3053,1,Clickbait,VnExpress,Other,3223,4
+article_3063,0,Non-clickbait,VnExpress,Other,2070,4
+article_3070,0,Non-clickbait,VnExpress,Other,2074,4
+article_3075,0,Non-clickbait,Tuổi Trẻ,Other,2078,4
+article_3079,0,Non-clickbait,Tuổi Trẻ,Other,2081,4
+article_3080,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,2082,4
+article_3086,1,Clickbait,Tuổi Trẻ,Other,3231,4
+article_3096,0,Non-clickbait,Thanh Niên,Other,2092,4
+article_3104,0,Non-clickbait,Thanh Niên,Other,2099,4
+article_3105,1,Clickbait,Thanh Niên,Other,2100,4
+article_3106,0,Non-clickbait,Thanh Niên,Other,2101,4
+article_3112,0,Non-clickbait,Thanh Niên,Other,2105,4
+article_3114,0,Non-clickbait,Thanh Niên,Other,2107,4
+article_3115,0,Non-clickbait,Thanh Niên,Other,2108,4
+article_3116,1,Clickbait,Thanh Niên,Other,3237,4
+article_3122,1,Clickbait,Thanh Niên,Other,2111,4
+article_3141,0,Non-clickbait,VietNamNet,Other,2121,4
+article_3153,0,Non-clickbait,VietNamNet,Other,2129,4
+article_3154,1,Clickbait,VietNamNet,Other,2130,4
+article_3162,0,Non-clickbait,24h,Giải trí & Showbiz,2133,4
+article_3170,1,Clickbait,24h,Giải trí & Showbiz,3259,4
+article_3178,0,Non-clickbait,24h,Giải trí & Showbiz,2138,4
+article_3179,1,Clickbait,24h,Giải trí & Showbiz,3263,4
+article_3180,1,Clickbait,24h,Giải trí & Showbiz,3264,4
+article_3195,0,Non-clickbait,24h,Giải trí & Showbiz,2146,4
+article_3203,1,Clickbait,24h,Giải trí & Showbiz,3269,4
+article_3207,1,Clickbait,24h,Other,3271,4
+article_3219,0,Non-clickbait,24h,Giải trí & Showbiz,2159,4
+article_3221,1,Clickbait,24h,Giải trí & Showbiz,3277,4
+article_3224,1,Clickbait,24h,Giải trí & Showbiz,3279,4
+article_3228,1,Clickbait,24h,Giải trí & Showbiz,3282,4
+article_3232,1,Clickbait,24h,Giải trí & Showbiz,3285,4
+article_3240,0,Non-clickbait,Báo Mới,Other,2169,4
+article_3251,1,Clickbait,Báo Mới,Other,3289,4
+article_3253,0,Non-clickbait,Báo Mới,Other,2180,4
+article_3256,1,Clickbait,Báo Mới,Other,3290,4
+article_3257,1,Clickbait,Báo Mới,Other,3291,4
+article_3259,1,Clickbait,Báo Mới,Other,3292,4
+article_3261,1,Clickbait,Báo Mới,Other,3294,4
+article_3268,0,Non-clickbait,Báo Mới,Other,2189,4
+article_3276,0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,2195,4
+article_3286,0,Non-clickbait,VnExpress,Other,2201,4
+article_3293,0,Non-clickbait,VnExpress,Other,2204,4
+article_3297,0,Non-clickbait,VnExpress,Other,2208,4
+article_3302,1,Clickbait,VnExpress,Other,3297,4
+article_3305,0,Non-clickbait,VnExpress,Other,2212,4
+article_3307,0,Non-clickbait,VnExpress,Other,2213,4
+article_3317,0,Non-clickbait,VnExpress,Other,2220,4
+article_3318,0,Non-clickbait,VnExpress,Other,2221,4
+article_3319,0,Non-clickbait,VnExpress,Other,2222,4
+article_3328,0,Non-clickbait,VnExpress,Other,2228,4
+article_3341,1,Clickbait,VnExpress,Other,3305,4
+article_3348,1,Clickbait,Tuổi Trẻ,Kinh doanh & Kinh tế,3307,4
+article_3353,0,Non-clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,2241,4
+article_3358,0,Non-clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,2245,4
+article_3363,0,Non-clickbait,Tuổi Trẻ,Sức khỏe & Đời sống,2247,4
+article_3370,0,Non-clickbait,Thanh Niên,Other,3314,4
+article_3376,0,Non-clickbait,Thanh Niên,Other,2253,4
+article_3383,0,Non-clickbait,Thanh Niên,Other,2259,4
+article_3399,0,Non-clickbait,Thanh Niên,Other,2269,4
+article_3406,1,Clickbait,VietNamNet,Du lịch & Ẩm thực,3324,4
+article_3410,1,Clickbait,VietNamNet,Du lịch & Ẩm thực,3327,4
+article_3411,1,Clickbait,VietNamNet,Du lịch & Ẩm thực,3328,4
+article_3422,0,Non-clickbait,VietNamNet,Du lịch & Ẩm thực,2275,4
+article_3433,0,Non-clickbait,VietNamNet,Du lịch & Ẩm thực,2281,4
+article_3437,1,Clickbait,24h,Xe & Vận tải,3335,4
+article_3439,0,Non-clickbait,24h,Xe & Vận tải,2285,4
+article_3448,0,Non-clickbait,24h,Xe & Vận tải,2290,4
+article_3458,1,Clickbait,24h,Xe & Vận tải,3340,4
+article_3465,0,Non-clickbait,24h,Xe & Vận tải,2298,4
+article_3472,0,Non-clickbait,Báo Mới,Xe & Vận tải,2303,4
+article_3474,0,Non-clickbait,Báo Mới,Xe & Vận tải,2305,4
+article_3475,0,Non-clickbait,Báo Mới,Xe & Vận tải,2306,4
+article_3479,1,Clickbait,Báo Mới,Xe & Vận tải,3344,4
+article_3483,1,Clickbait,Báo Mới,Xe & Vận tải,2313,4
+article_3487,0,Non-clickbait,Báo Mới,Xe & Vận tải,2317,4
+article_3491,0,Non-clickbait,Báo Mới,Xe & Vận tải,2321,4
+article_3494,0,Non-clickbait,Báo Mới,Xe & Vận tải,2324,4
+article_3496,0,Non-clickbait,Báo Mới,Xe & Vận tải,2325,4
+article_3501,0,Non-clickbait,Báo Mới,Xe & Vận tải,2330,4
+article_3503,0,Non-clickbait,Báo Mới,Xe & Vận tải,2332,4
+article_3504,0,Non-clickbait,Báo Mới,Xe & Vận tải,2333,4
+article_3510,0,Non-clickbait,Báo Mới,Xe & Vận tải,2338,4
+article_3513,0,Non-clickbait,Báo Mới,Xe & Vận tải,2340,4
+article_3515,1,Clickbait,Tuổi Trẻ,Other,3347,4
+article_3518,0,Non-clickbait,Tuổi Trẻ,Other,2344,4
+article_3522,0,Non-clickbait,Tuổi Trẻ,Chính trị & An ninh,2346,4
+article_3528,0,Non-clickbait,VietNamNet,Other,2348,4
+article_3536,0,Non-clickbait,VietNamNet,Other,2353,4
+article_3540,0,Non-clickbait,VietNamNet,Other,2355,4
+article_3542,0,Non-clickbait,VietNamNet,Other,2356,4
+article_3546,0,Non-clickbait,VietNamNet,Other,2358,4
+article_3562,0,Non-clickbait,24h,Xe & Vận tải,2367,4
+article_3567,1,Clickbait,24h,Xe & Vận tải,3352,4
+article_3570,0,Non-clickbait,24h,Xe & Vận tải,2371,4
+article_3571,0,Non-clickbait,24h,Xe & Vận tải,2372,4
+article_3574,0,Non-clickbait,24h,Xe & Vận tải,2375,4
+article_3576,0,Non-clickbait,24h,Xe & Vận tải,2377,4
+article_3587,0,Non-clickbait,Báo Mới,Other,2385,4
+article_3590,0,Non-clickbait,Báo Mới,Other,2388,4
+article_3592,0,Non-clickbait,Báo Mới,Other,2389,4
+article_3599,0,Non-clickbait,Báo Mới,Other,2395,4
+article_3601,0,Non-clickbait,Báo Mới,Other,2397,4
+article_3607,0,Non-clickbait,Báo Mới,Other,2403,4
+article_3620,0,Non-clickbait,Báo Mới,Other,2415,4
+article_3628,1,Clickbait,Báo Mới,Other,3359,4
+article_3630,0,Non-clickbait,Báo Mới,Other,2423,4
+article_3634,0,Non-clickbait,Báo Mới,Other,2427,4
+article_3638,0,Non-clickbait,Báo Mới,Other,2431,4
+article_3641,0,Non-clickbait,Báo Mới,Other,2433,4
+article_3649,1,Clickbait,24h,Giải trí & Showbiz,3362,4
+article_3658,1,Clickbait,24h,Giải trí & Showbiz,3365,4
+article_3685,0,Non-clickbait,24h,Quốc tế,2451,4
+article_3690,0,Non-clickbait,24h,Tin tức tổng hợp,2456,4
+article_3693,1,Clickbait,24h,Sức khỏe & Đời sống,3369,4
+article_3704,1,Clickbait,24h,Sức khỏe & Đời sống,3379,4
+article_3713,0,Non-clickbait,24h,Sức khỏe & Đời sống,2458,4
+article_3716,1,Clickbait,24h,Sức khỏe & Đời sống,2460,4
+article_3720,1,Clickbait,24h,Sức khỏe & Đời sống,3388,4
+article_3750,1,Clickbait,24h,Du lịch & Ẩm thực,3396,4
+article_3756,1,Clickbait,24h,Du lịch & Ẩm thực,3400,4
+article_3768,0,Non-clickbait,24h,Du lịch & Ẩm thực,2478,4
+article_3781,0,Non-clickbait,24h,Du lịch & Ẩm thực,2485,4
+article_3789,0,Non-clickbait,24h,Giáo dục & Học đường,2491,4
+article_3793,1,Clickbait,24h,Giáo dục & Học đường,3408,4
+article_3798,0,Non-clickbait,24h,Giáo dục & Học đường,2497,4

@@ -1,0 +1,6 @@
+{
+  "n_total": 3414,
+  "n_valid_datetime": 3383,
+  "n_missing_datetime": 31,
+  "note": "Temporal split is exploratory if most samples belong to a single year. Report this limitation explicitly."
+}
