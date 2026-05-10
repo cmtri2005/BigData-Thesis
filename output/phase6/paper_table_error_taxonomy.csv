@@ -1,0 +1,14 @@
+error_type,taxonomy_label,count,percentage_within_error_type,percentage_overall
+FN,FN_subtle_curiosity_gap,18,0.36,0.18
+FN,FN_domain_specific_clickbait,10,0.2,0.1
+FN,FN_neutral_surface_form,7,0.14,0.07
+FN,AMB_borderline_label,6,0.12,0.06
+FN,FN_entity_context_needed,4,0.08,0.04
+FN,DATA_quality_issue,3,0.06,0.03
+FN,FN_requires_lead_context,2,0.04,0.02
+FP,FP_emotional_but_informative,21,0.42,0.21
+FP,FP_entertainment_style_bias,13,0.26,0.13
+FP,FP_question_but_legitimate,8,0.16,0.08
+FP,OTHER,4,0.08,0.04
+FP,FP_source_style_bias,3,0.06,0.03
+FP,FP_short_ambiguous_title,1,0.02,0.01

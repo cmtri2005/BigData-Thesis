@@ -1,0 +1,14 @@
+{
+  "annotation_source": "output/phase5/manual_error_annotation_completed.csv",
+  "rows": 100,
+  "missing_annotation_columns": [],
+  "error_type_counts": {
+    "FN": 50,
+    "FP": 50
+  },
+  "taxonomy_filled_rows": 100,
+  "annotator_note_filled_rows": 100,
+  "case_study_flagged_rows": 15,
+  "taxonomy_completion_rate": 1.0,
+  "annotation_status": "ready_for_taxonomy_analysis"
+}

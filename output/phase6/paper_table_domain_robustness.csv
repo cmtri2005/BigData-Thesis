@@ -1,0 +1,16 @@
+selection_reason,domain_type,domain_name,model_name,macro_f1,clickbait_f1,macro_f1_drop,clickbait_f1_drop,balanced_accuracy,balanced_accuracy_drop
+lowest_macro_f1,category,Giải trí & Showbiz,tfidf_word_svm,0.5708,0.6573,0.1476,-0.0392,0.6083,0.1141
+lowest_macro_f1,category,Quốc tế,tfidf_word_svm,0.5868,0.4342,0.1316,0.184,0.612,0.1104
+lowest_macro_f1,category,Giải trí & Showbiz,tfidf_word_logreg,0.5917,0.7101,0.1342,-0.0672,0.6101,0.132
+lowest_macro_f1,category,Quốc tế,tfidf_word_logreg,0.6007,0.4366,0.1253,0.2062,0.6174,0.1247
+lowest_macro_f1,category,Tin tức tổng hợp,tfidf_word_logreg,0.6062,0.3043,0.1197,0.3385,0.8555,-0.1134
+lowest_macro_f1,category,Tin tức tổng hợp,tfidf_word_svm,0.6111,0.3111,0.1072,0.3071,0.8581,-0.1357
+lowest_macro_f1,category,Thể thao,tfidf_word_logreg,0.6183,0.4574,0.1076,0.1854,0.6294,0.1127
+lowest_macro_f1,source,VnExpress,tfidf_word_logreg,0.6288,0.4444,0.0971,0.1984,0.7421,0.0
+lowest_macro_f1,category,Thể thao,tfidf_word_svm,0.6389,0.5,0.0795,0.1182,0.6607,0.0618
+lowest_macro_f1,source,VnExpress,tfidf_word_svm,0.6409,0.446,0.0774,0.1721,0.7292,-0.0068
+lowest_macro_f1,category,Chính trị & An ninh,tfidf_word_svm,0.6534,0.4211,0.0649,0.1971,0.6513,0.0711
+lowest_macro_f1,category,Công nghệ & Khoa học,tfidf_word_svm,0.67,0.5965,0.0484,0.0217,0.679,0.0434
+largest_clickbait_f1_drop,category,Chính trị & An ninh,tfidf_word_logreg,0.7064,0.5231,0.0195,0.1198,0.7271,0.015
+largest_clickbait_f1_drop,source,Báo Mới,tfidf_word_logreg,0.7331,0.5578,-0.0071,0.0851,0.7082,0.0339
+largest_clickbait_f1_drop,category,Other,tfidf_word_logreg,0.695,0.5858,0.0309,0.0571,0.7233,0.0188

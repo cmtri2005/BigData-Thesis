@@ -1,0 +1,13 @@
+rank_macro_f1,model_name,macro_f1,clickbait_precision,clickbait_recall,clickbait_f1,roc_auc,pr_auc,balanced_accuracy
+1,tfidf_word_logreg,0.7259,0.5817,0.7183,0.6429,0.815,0.6567,0.7421
+2,tfidf_word_char_logreg,0.7201,0.5847,0.6808,0.6291,0.8191,0.6665,0.7308
+3,tfidf_word_svm,0.7184,0.5991,0.6385,0.6182,0.8025,0.6397,0.7224
+4,tfidf_word_char_svm,0.7176,0.6093,0.615,0.6121,0.8039,0.6492,0.7182
+5,tfidf_char_svm,0.7163,0.589,0.6526,0.6192,0.8019,0.6498,0.7231
+6,tfidf_char_logreg,0.7132,0.5698,0.6901,0.6242,0.8117,0.6564,0.727
+7,tfidf_word_rf,0.6878,0.6513,0.4648,0.5425,0.8127,0.6545,0.676
+8,keyword_heuristic_threshold_1.00,0.6711,0.6855,0.3991,0.5045,0.6611,0.4767,0.658
+9,tfidf_word_nb,0.6068,0.7681,0.2488,0.3759,0.8063,0.6411,0.6074
+10,random_stratified,0.5079,0.3226,0.3286,0.3256,,,0.5079
+11,length_heuristic_threshold_73.00,0.4974,0.3093,0.3427,0.3252,0.4789,0.2977,0.498
+12,majority_class,0.4076,0.0,0.0,0.0,,,0.5

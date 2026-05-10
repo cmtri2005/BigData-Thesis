@@ -1,0 +1,35 @@
+group_type,group_name,n_samples,n_clickbait,n_non_clickbait,macro_f1,clickbait_f1,false_positive_count,false_negative_count,false_positive_rate,false_negative_rate,dominant_error_type
+source,Kênh14,9,5,4,0.55,0.6,2,2,0.5,0.4,FN
+length_bin,very_short,68,28,40,0.585,0.5484,17,11,0.425,0.3929,FP
+category,Giải trí & Showbiz,51,35,16,0.6029,0.7353,8,10,0.5,0.2857,FN
+category,Văn hóa & Nghệ thuật,11,4,7,0.6071,0.5,2,2,0.2857,0.5,FN
+category,Thể thao,64,12,52,0.6135,0.4444,16,4,0.3077,0.3333,FP
+category,Chính trị & An ninh,26,6,20,0.6286,0.4,2,4,0.1,0.6667,FN
+has_question,has_question,55,41,14,0.6319,0.8193,8,7,0.5714,0.1707,FP
+source,VnExpress,131,20,111,0.6343,0.4444,29,6,0.2613,0.3,FP
+category,Du lịch & Ẩm thực,23,13,10,0.6349,0.7143,5,3,0.5,0.2308,FP
+category,Sức khỏe & Đời sống,40,19,21,0.6419,0.6957,11,3,0.5238,0.1579,FP
+source,VietNamNet,67,17,50,0.6436,0.5,13,7,0.26,0.4118,FP
+category,Xe & Vận tải,28,10,18,0.6571,0.5714,5,4,0.2778,0.4,FP
+has_curiosity_gap,has_curiosity_gap,27,22,5,0.6667,0.8889,3,2,0.6,0.0909,FP
+source,SaoStar,67,40,27,0.6676,0.747,12,9,0.4444,0.225,FP
+has_clickbait_keyword,no_clickbait_keyword,600,159,441,0.6994,0.5801,98,54,0.2222,0.3396,FP
+source,Tuổi Trẻ,33,10,23,0.6997,0.6087,6,3,0.2609,0.3,FP
+length_bin,short,154,44,110,0.7113,0.6306,32,9,0.2909,0.2045,FP
+category,Other,228,61,167,0.7114,0.6,37,19,0.2216,0.3115,FP
+has_question,no_question,628,172,456,0.713,0.6056,102,53,0.2237,0.3081,FP
+has_number,no_number,434,154,280,0.7138,0.6551,78,41,0.2786,0.2662,FP
+has_curiosity_gap,no_curiosity_gap,656,191,465,0.7149,0.6172,107,58,0.2301,0.3037,FP
+source,Thanh Niên,118,34,84,0.7166,0.6133,18,11,0.2143,0.3235,FP
+category,Công nghệ & Khoa học,41,17,24,0.7311,0.7179,8,3,0.3333,0.1765,FP
+has_number,has_number,249,59,190,0.7359,0.6107,32,19,0.1684,0.322,FP
+length_bin,long,143,40,103,0.7371,0.6452,23,10,0.2233,0.25,FP
+has_clickbait_keyword,has_clickbait_keyword,83,54,29,0.748,0.8421,12,6,0.4138,0.1111,FP
+length_bin,medium,262,85,177,0.7546,0.6778,34,24,0.1921,0.2824,FP
+source,24h,129,60,69,0.7592,0.748,17,14,0.2464,0.2333,FP
+category,Quốc tế,38,6,32,0.7625,0.625,5,1,0.1562,0.1667,FP
+source,Báo Mới,129,27,102,0.7693,0.6441,13,8,0.1275,0.2963,FP
+length_bin,very_long,56,16,40,0.7724,0.6667,4,6,0.1,0.375,FN
+category,Giáo dục & Học đường,43,12,31,0.7923,0.6957,3,4,0.0968,0.3333,FN
+category,Kinh doanh & Kinh tế,51,15,36,0.8043,0.7429,7,2,0.1944,0.1333,FP
+category,Tin tức tổng hợp,39,3,36,0.8194,0.6667,1,1,0.0278,0.3333,FP
