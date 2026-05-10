@@ -1,0 +1,43 @@
+{
+  "phase4_dir": "",
+  "phase5_dir": "",
+  "file_status": {
+    "random_split_results.csv": true,
+    "kfold_results.csv": true,
+    "source_heldout_results.csv": true,
+    "category_heldout_results.csv": true,
+    "all_results.csv": true,
+    "best_traditional_model_predictions.csv": true,
+    "predictions_random_split.csv": true,
+    "feature_importance_logreg.csv": true,
+    "confusion_matrices.json": true
+  },
+  "missing_files": [],
+  "features_rows": 3414,
+  "features_unique_ids": 3414,
+  "best_predictions_rows": 683,
+  "best_predictions_unique_ids": 683,
+  "best_predictions_duplicate_ids": 0,
+  "prediction_ids_missing_in_features": [],
+  "y_true_values": [
+    0,
+    1
+  ],
+  "y_pred_values": [
+    0,
+    1
+  ],
+  "random_split_result_rows": 24,
+  "random_split_test_rows": 12,
+  "kfold_result_rows": 40,
+  "source_heldout_rows": 16,
+  "category_heldout_rows": 24,
+  "feature_importance_rows": 200,
+  "feature_importance_direction_counts": {
+    "clickbait": 100,
+    "non_clickbait": 100
+  },
+  "confusion_matrix_entries": 104,
+  "hard_errors": [],
+  "audit_passed": true
+}

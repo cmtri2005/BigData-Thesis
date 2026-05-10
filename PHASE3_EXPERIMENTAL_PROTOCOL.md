@@ -2,7 +2,10 @@
 
 ## 1. Mục tiêu
 
-Phase 3 chuẩn hóa cách chia dữ liệu và cách đánh giá trước khi benchmark mô hình. Mục tiêu là tránh cherry-picking, giảm rủi ro leakage và tạo protocol đủ rõ để người khác có thể chạy lại.
+Phase 3 chuẩn hóa *cách chia dữ liệu* và *cách đánh giá* trước khi benchmark mô hình. Mục tiêu là tránh cherry-picking, giảm rủi ro leakage và tạo protocol đủ rõ để người khác có thể chạy lại.
+
+NOTE:
+**cherry-picking:** cố tình hoặc vô tình chọn cách split/evaluation cho ra kết quả đẹp nhất.
 
 Input chính:
 
@@ -104,7 +107,7 @@ Nguyên tắc:
 Vai trò:
 
 - Kiểm tra domain generalization theo nguồn báo.
-- Đây là split quan trọng nhất để trả lời câu hỏi: mô hình học clickbait thật hay học publisher/source bias?
+- Đây là split quan trọng nhất để trả lời câu hỏi: **mô hình học clickbait thật hay học publisher/source bias?**
 
 ### 3.4. Category-Held-Out
 
@@ -146,12 +149,11 @@ Vai trò:
 
 ## 4. Metric Protocol
 
-Metric chính:
+**Metric chính:**
 
 - Macro-F1.
 
-Metric bắt buộc:
-
+**Metric BẮT BUỘC**
 - Precision cho class clickbait.
 - Recall cho class clickbait.
 - F1 cho class clickbait.

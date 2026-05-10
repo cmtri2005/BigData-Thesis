@@ -68,13 +68,12 @@ PHASE4_DIR = Path('/content/output/phase4')
 
 Các baseline bắt buộc:
 
-1. Majority class baseline.
-2. Random stratified baseline.
-3. Length-based heuristic.
-4. Keyword-based heuristic.
+1. **Majority class baseline.**
+2. **Random stratified baseline.**
+3. **Length-based heuristic.**
+4. **Keyword-based heuristic.**
 
-Mục đích:
-
+MỤC ĐÍCH:
 - Kiểm tra model ML có thật sự vượt qua rule đơn giản không.
 - Tạo mốc thấp nhất cho benchmark.
 - Hỗ trợ explainability vì clickbait có nhiều cue bề mặt.
@@ -94,7 +93,7 @@ Các model cần chạy:
 
 Khuyến nghị:
 
-- Logistic Regression và Linear SVM là baseline chính.
+- *Logistic Regression* và *Linear SVM* là baseline chính.
 - Random Forest chỉ là baseline phụ vì thường không mạnh trên sparse text.
 - Char n-gram quan trọng với tiếng Việt vì có dấu, biến thể chính tả và tên riêng.
 

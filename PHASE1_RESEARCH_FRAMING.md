@@ -45,6 +45,8 @@ Các khoảng trống chính mà đề tài hướng đến:
 2. **Evaluation protocol nghiêm túc hơn random split**: Bổ sung k-fold hoặc multi-seed evaluation, leave-one-source-out, category-held-out và temporal robustness nếu dữ liệu cho phép.
 3. **Shortcut và domain-bias analysis**: Kiểm tra mô hình có bị ảnh hưởng bởi source/category/temporal bias hay không thông qua các baseline chỉ dùng metadata và phân tích performance drop.
 4. **Explainability và error analysis**: Phân tích lexical cues, feature importance, explanation examples và taxonomy lỗi để hiểu vì sao mô hình đúng/sai.
+*NOTE*:
+- **lexical cues:** các từ/cụm từ/ngôn ngữ mà model dùng để làm nhận biết clickbait.
 
 ## 6. Literature Review Notes
 

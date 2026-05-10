@@ -1,0 +1,626 @@
+{
+  "random_split::validation::majority_class": {
+    "tn": 235,
+    "fp": 0,
+    "fn": 107,
+    "tp": 0
+  },
+  "random_split::validation::random_stratified": {
+    "tn": 166,
+    "fp": 69,
+    "fn": 73,
+    "tp": 34
+  },
+  "random_split::validation::length_heuristic_threshold_73.00": {
+    "tn": 154,
+    "fp": 81,
+    "fn": 64,
+    "tp": 43
+  },
+  "random_split::validation::keyword_heuristic_threshold_1.00": {
+    "tn": 217,
+    "fp": 18,
+    "fn": 67,
+    "tp": 40
+  },
+  "random_split::test::majority_class": {
+    "tn": 470,
+    "fp": 0,
+    "fn": 213,
+    "tp": 0
+  },
+  "random_split::test::random_stratified": {
+    "tn": 323,
+    "fp": 147,
+    "fn": 143,
+    "tp": 70
+  },
+  "random_split::test::length_heuristic_threshold_73.00": {
+    "tn": 307,
+    "fp": 163,
+    "fn": 140,
+    "tp": 73
+  },
+  "random_split::test::keyword_heuristic_threshold_1.00": {
+    "tn": 431,
+    "fp": 39,
+    "fn": 128,
+    "tp": 85
+  },
+  "random_split::validation::tfidf_word_logreg": {
+    "tn": 186,
+    "fp": 49,
+    "fn": 26,
+    "tp": 81
+  },
+  "random_split::test::tfidf_word_logreg": {
+    "tn": 360,
+    "fp": 110,
+    "fn": 60,
+    "tp": 153
+  },
+  "random_split::validation::tfidf_char_logreg": {
+    "tn": 179,
+    "fp": 56,
+    "fn": 27,
+    "tp": 80
+  },
+  "random_split::test::tfidf_char_logreg": {
+    "tn": 359,
+    "fp": 111,
+    "fn": 66,
+    "tp": 147
+  },
+  "random_split::validation::tfidf_word_char_logreg": {
+    "tn": 187,
+    "fp": 48,
+    "fn": 25,
+    "tp": 82
+  },
+  "random_split::test::tfidf_word_char_logreg": {
+    "tn": 367,
+    "fp": 103,
+    "fn": 68,
+    "tp": 145
+  },
+  "random_split::validation::tfidf_word_svm": {
+    "tn": 188,
+    "fp": 47,
+    "fn": 35,
+    "tp": 72
+  },
+  "random_split::test::tfidf_word_svm": {
+    "tn": 379,
+    "fp": 91,
+    "fn": 77,
+    "tp": 136
+  },
+  "random_split::validation::tfidf_char_svm": {
+    "tn": 188,
+    "fp": 47,
+    "fn": 32,
+    "tp": 75
+  },
+  "random_split::test::tfidf_char_svm": {
+    "tn": 373,
+    "fp": 97,
+    "fn": 74,
+    "tp": 139
+  },
+  "random_split::validation::tfidf_word_char_svm": {
+    "tn": 194,
+    "fp": 41,
+    "fn": 35,
+    "tp": 72
+  },
+  "random_split::test::tfidf_word_char_svm": {
+    "tn": 386,
+    "fp": 84,
+    "fn": 82,
+    "tp": 131
+  },
+  "random_split::validation::tfidf_word_nb": {
+    "tn": 224,
+    "fp": 11,
+    "fn": 75,
+    "tp": 32
+  },
+  "random_split::test::tfidf_word_nb": {
+    "tn": 454,
+    "fp": 16,
+    "fn": 160,
+    "tp": 53
+  },
+  "random_split::validation::tfidf_word_rf": {
+    "tn": 203,
+    "fp": 32,
+    "fn": 55,
+    "tp": 52
+  },
+  "random_split::test::tfidf_word_rf": {
+    "tn": 417,
+    "fp": 53,
+    "fn": 114,
+    "tp": 99
+  },
+  "stratified_kfold::fold_0::majority_class": {
+    "tn": 470,
+    "fp": 0,
+    "fn": 213,
+    "tp": 0
+  },
+  "stratified_kfold::fold_0::tfidf_word_logreg": {
+    "tn": 377,
+    "fp": 93,
+    "fn": 60,
+    "tp": 153
+  },
+  "stratified_kfold::fold_0::tfidf_char_logreg": {
+    "tn": 384,
+    "fp": 86,
+    "fn": 60,
+    "tp": 153
+  },
+  "stratified_kfold::fold_0::tfidf_word_char_logreg": {
+    "tn": 384,
+    "fp": 86,
+    "fn": 69,
+    "tp": 144
+  },
+  "stratified_kfold::fold_0::tfidf_word_svm": {
+    "tn": 397,
+    "fp": 73,
+    "fn": 87,
+    "tp": 126
+  },
+  "stratified_kfold::fold_0::tfidf_char_svm": {
+    "tn": 391,
+    "fp": 79,
+    "fn": 76,
+    "tp": 137
+  },
+  "stratified_kfold::fold_0::tfidf_word_char_svm": {
+    "tn": 398,
+    "fp": 72,
+    "fn": 80,
+    "tp": 133
+  },
+  "stratified_kfold::fold_0::tfidf_word_nb": {
+    "tn": 455,
+    "fp": 15,
+    "fn": 153,
+    "tp": 60
+  },
+  "stratified_kfold::fold_1::majority_class": {
+    "tn": 470,
+    "fp": 0,
+    "fn": 213,
+    "tp": 0
+  },
+  "stratified_kfold::fold_1::tfidf_word_logreg": {
+    "tn": 378,
+    "fp": 92,
+    "fn": 66,
+    "tp": 147
+  },
+  "stratified_kfold::fold_1::tfidf_char_logreg": {
+    "tn": 381,
+    "fp": 89,
+    "fn": 65,
+    "tp": 148
+  },
+  "stratified_kfold::fold_1::tfidf_word_char_logreg": {
+    "tn": 391,
+    "fp": 79,
+    "fn": 70,
+    "tp": 143
+  },
+  "stratified_kfold::fold_1::tfidf_word_svm": {
+    "tn": 394,
+    "fp": 76,
+    "fn": 77,
+    "tp": 136
+  },
+  "stratified_kfold::fold_1::tfidf_char_svm": {
+    "tn": 394,
+    "fp": 76,
+    "fn": 78,
+    "tp": 135
+  },
+  "stratified_kfold::fold_1::tfidf_word_char_svm": {
+    "tn": 399,
+    "fp": 71,
+    "fn": 78,
+    "tp": 135
+  },
+  "stratified_kfold::fold_1::tfidf_word_nb": {
+    "tn": 451,
+    "fp": 19,
+    "fn": 163,
+    "tp": 50
+  },
+  "stratified_kfold::fold_2::majority_class": {
+    "tn": 470,
+    "fp": 0,
+    "fn": 213,
+    "tp": 0
+  },
+  "stratified_kfold::fold_2::tfidf_word_logreg": {
+    "tn": 378,
+    "fp": 92,
+    "fn": 54,
+    "tp": 159
+  },
+  "stratified_kfold::fold_2::tfidf_char_logreg": {
+    "tn": 366,
+    "fp": 104,
+    "fn": 60,
+    "tp": 153
+  },
+  "stratified_kfold::fold_2::tfidf_word_char_logreg": {
+    "tn": 372,
+    "fp": 98,
+    "fn": 58,
+    "tp": 155
+  },
+  "stratified_kfold::fold_2::tfidf_word_svm": {
+    "tn": 392,
+    "fp": 78,
+    "fn": 61,
+    "tp": 152
+  },
+  "stratified_kfold::fold_2::tfidf_char_svm": {
+    "tn": 384,
+    "fp": 86,
+    "fn": 68,
+    "tp": 145
+  },
+  "stratified_kfold::fold_2::tfidf_word_char_svm": {
+    "tn": 391,
+    "fp": 79,
+    "fn": 64,
+    "tp": 149
+  },
+  "stratified_kfold::fold_2::tfidf_word_nb": {
+    "tn": 459,
+    "fp": 11,
+    "fn": 146,
+    "tp": 67
+  },
+  "stratified_kfold::fold_3::majority_class": {
+    "tn": 470,
+    "fp": 0,
+    "fn": 213,
+    "tp": 0
+  },
+  "stratified_kfold::fold_3::tfidf_word_logreg": {
+    "tn": 364,
+    "fp": 106,
+    "fn": 57,
+    "tp": 156
+  },
+  "stratified_kfold::fold_3::tfidf_char_logreg": {
+    "tn": 372,
+    "fp": 98,
+    "fn": 61,
+    "tp": 152
+  },
+  "stratified_kfold::fold_3::tfidf_word_char_logreg": {
+    "tn": 383,
+    "fp": 87,
+    "fn": 62,
+    "tp": 151
+  },
+  "stratified_kfold::fold_3::tfidf_word_svm": {
+    "tn": 388,
+    "fp": 82,
+    "fn": 72,
+    "tp": 141
+  },
+  "stratified_kfold::fold_3::tfidf_char_svm": {
+    "tn": 394,
+    "fp": 76,
+    "fn": 66,
+    "tp": 147
+  },
+  "stratified_kfold::fold_3::tfidf_word_char_svm": {
+    "tn": 402,
+    "fp": 68,
+    "fn": 71,
+    "tp": 142
+  },
+  "stratified_kfold::fold_3::tfidf_word_nb": {
+    "tn": 458,
+    "fp": 12,
+    "fn": 152,
+    "tp": 61
+  },
+  "stratified_kfold::fold_4::majority_class": {
+    "tn": 469,
+    "fp": 0,
+    "fn": 213,
+    "tp": 0
+  },
+  "stratified_kfold::fold_4::tfidf_word_logreg": {
+    "tn": 375,
+    "fp": 94,
+    "fn": 64,
+    "tp": 149
+  },
+  "stratified_kfold::fold_4::tfidf_char_logreg": {
+    "tn": 362,
+    "fp": 107,
+    "fn": 63,
+    "tp": 150
+  },
+  "stratified_kfold::fold_4::tfidf_word_char_logreg": {
+    "tn": 376,
+    "fp": 93,
+    "fn": 63,
+    "tp": 150
+  },
+  "stratified_kfold::fold_4::tfidf_word_svm": {
+    "tn": 379,
+    "fp": 90,
+    "fn": 71,
+    "tp": 142
+  },
+  "stratified_kfold::fold_4::tfidf_char_svm": {
+    "tn": 372,
+    "fp": 97,
+    "fn": 81,
+    "tp": 132
+  },
+  "stratified_kfold::fold_4::tfidf_word_char_svm": {
+    "tn": 371,
+    "fp": 98,
+    "fn": 78,
+    "tp": 135
+  },
+  "stratified_kfold::fold_4::tfidf_word_nb": {
+    "tn": 452,
+    "fp": 17,
+    "fn": 162,
+    "tp": 51
+  },
+  "leave_one_source_out::24h::tfidf_word_logreg": {
+    "tn": 220,
+    "fp": 96,
+    "fn": 59,
+    "tp": 189
+  },
+  "leave_one_source_out::Báo Mới::tfidf_word_logreg": {
+    "tn": 550,
+    "fp": 33,
+    "fn": 78,
+    "tp": 70
+  },
+  "leave_one_source_out::Kênh14::tfidf_word_logreg": {
+    "tn": 9,
+    "fp": 3,
+    "fn": 7,
+    "tp": 33
+  },
+  "leave_one_source_out::SaoStar::tfidf_word_logreg": {
+    "tn": 75,
+    "fp": 25,
+    "fn": 54,
+    "tp": 132
+  },
+  "leave_one_source_out::Thanh Niên::tfidf_word_logreg": {
+    "tn": 321,
+    "fp": 83,
+    "fn": 66,
+    "tp": 106
+  },
+  "leave_one_source_out::Tuổi Trẻ::tfidf_word_logreg": {
+    "tn": 138,
+    "fp": 33,
+    "fn": 18,
+    "tp": 52
+  },
+  "leave_one_source_out::VietNamNet::tfidf_word_logreg": {
+    "tn": 183,
+    "fp": 60,
+    "fn": 37,
+    "tp": 76
+  },
+  "leave_one_source_out::VnExpress::tfidf_word_logreg": {
+    "tn": 370,
+    "fp": 150,
+    "fn": 20,
+    "tp": 68
+  },
+  "leave_one_source_out::24h::tfidf_word_svm": {
+    "tn": 235,
+    "fp": 81,
+    "fn": 78,
+    "tp": 170
+  },
+  "leave_one_source_out::Báo Mới::tfidf_word_svm": {
+    "tn": 545,
+    "fp": 38,
+    "fn": 71,
+    "tp": 77
+  },
+  "leave_one_source_out::Kênh14::tfidf_word_svm": {
+    "tn": 10,
+    "fp": 2,
+    "fn": 8,
+    "tp": 32
+  },
+  "leave_one_source_out::SaoStar::tfidf_word_svm": {
+    "tn": 80,
+    "fp": 20,
+    "fn": 73,
+    "tp": 113
+  },
+  "leave_one_source_out::Thanh Niên::tfidf_word_svm": {
+    "tn": 326,
+    "fp": 78,
+    "fn": 73,
+    "tp": 99
+  },
+  "leave_one_source_out::Tuổi Trẻ::tfidf_word_svm": {
+    "tn": 141,
+    "fp": 30,
+    "fn": 22,
+    "tp": 48
+  },
+  "leave_one_source_out::VietNamNet::tfidf_word_svm": {
+    "tn": 189,
+    "fp": 54,
+    "fn": 45,
+    "tp": 68
+  },
+  "leave_one_source_out::VnExpress::tfidf_word_svm": {
+    "tn": 392,
+    "fp": 128,
+    "fn": 26,
+    "tp": 62
+  },
+  "category_heldout::Chính trị & An ninh::tfidf_word_logreg": {
+    "tn": 125,
+    "fp": 19,
+    "fn": 12,
+    "tp": 17
+  },
+  "category_heldout::Công nghệ & Khoa học::tfidf_word_logreg": {
+    "tn": 99,
+    "fp": 43,
+    "fn": 20,
+    "tp": 58
+  },
+  "category_heldout::Du lịch & Ẩm thực::tfidf_word_logreg": {
+    "tn": 45,
+    "fp": 17,
+    "fn": 11,
+    "tp": 36
+  },
+  "category_heldout::Giáo dục & Học đường::tfidf_word_logreg": {
+    "tn": 116,
+    "fp": 7,
+    "fn": 13,
+    "tp": 24
+  },
+  "category_heldout::Giải trí & Showbiz::tfidf_word_logreg": {
+    "tn": 40,
+    "fp": 30,
+    "fn": 59,
+    "tp": 109
+  },
+  "category_heldout::Kinh doanh & Kinh tế::tfidf_word_logreg": {
+    "tn": 120,
+    "fp": 20,
+    "fn": 21,
+    "tp": 43
+  },
+  "category_heldout::Other::tfidf_word_logreg": {
+    "tn": 610,
+    "fp": 207,
+    "fn": 90,
+    "tp": 210
+  },
+  "category_heldout::Quốc tế::tfidf_word_logreg": {
+    "tn": 130,
+    "fp": 51,
+    "fn": 29,
+    "tp": 31
+  },
+  "category_heldout::Sức khỏe & Đời sống::tfidf_word_logreg": {
+    "tn": 67,
+    "fp": 31,
+    "fn": 31,
+    "tp": 99
+  },
+  "category_heldout::Thể thao::tfidf_word_logreg": {
+    "tn": 180,
+    "fp": 61,
+    "fn": 41,
+    "tp": 43
+  },
+  "category_heldout::Tin tức tổng hợp::tfidf_word_logreg": {
+    "tn": 158,
+    "fp": 31,
+    "fn": 1,
+    "tp": 7
+  },
+  "category_heldout::Xe & Vận tải::tfidf_word_logreg": {
+    "tn": 60,
+    "fp": 27,
+    "fn": 14,
+    "tp": 36
+  },
+  "category_heldout::Chính trị & An ninh::tfidf_word_svm": {
+    "tn": 128,
+    "fp": 16,
+    "fn": 17,
+    "tp": 12
+  },
+  "category_heldout::Công nghệ & Khoa học::tfidf_word_svm": {
+    "tn": 100,
+    "fp": 42,
+    "fn": 27,
+    "tp": 51
+  },
+  "category_heldout::Du lịch & Ẩm thực::tfidf_word_svm": {
+    "tn": 50,
+    "fp": 12,
+    "fn": 14,
+    "tp": 33
+  },
+  "category_heldout::Giáo dục & Học đường::tfidf_word_svm": {
+    "tn": 115,
+    "fp": 8,
+    "fn": 12,
+    "tp": 25
+  },
+  "category_heldout::Giải trí & Showbiz::tfidf_word_svm": {
+    "tn": 46,
+    "fp": 24,
+    "fn": 74,
+    "tp": 94
+  },
+  "category_heldout::Kinh doanh & Kinh tế::tfidf_word_svm": {
+    "tn": 121,
+    "fp": 19,
+    "fn": 23,
+    "tp": 41
+  },
+  "category_heldout::Other::tfidf_word_svm": {
+    "tn": 624,
+    "fp": 193,
+    "fn": 107,
+    "tp": 193
+  },
+  "category_heldout::Quốc tế::tfidf_word_svm": {
+    "tn": 122,
+    "fp": 59,
+    "fn": 27,
+    "tp": 33
+  },
+  "category_heldout::Sức khỏe & Đời sống::tfidf_word_svm": {
+    "tn": 75,
+    "fp": 23,
+    "fn": 36,
+    "tp": 94
+  },
+  "category_heldout::Thể thao::tfidf_word_svm": {
+    "tn": 175,
+    "fp": 66,
+    "fn": 34,
+    "tp": 50
+  },
+  "category_heldout::Tin tức tổng hợp::tfidf_word_svm": {
+    "tn": 159,
+    "fp": 30,
+    "fn": 1,
+    "tp": 7
+  },
+  "category_heldout::Xe & Vận tải::tfidf_word_svm": {
+    "tn": 64,
+    "fp": 23,
+    "fn": 19,
+    "tp": 31
+  }
+}

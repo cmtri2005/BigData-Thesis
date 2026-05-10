@@ -1,0 +1,201 @@
+model_name,vectorizer,feature,coefficient,direction,abs_coefficient,cue_group,rank_within_direction
+tfidf_word_logreg,word,nào,2.1010466849794502,clickbait,2.1010466849794502,question/curiosity,1
+tfidf_word_logreg,word,sao,2.0011821679792288,clickbait,2.0011821679792288,question/curiosity,2
+tfidf_word_logreg,word,có,1.8793797099719445,clickbait,1.8793797099719445,vague_reference,3
+tfidf_word_logreg,word,bất,1.851197609755711,clickbait,1.851197609755711,surprise/emotion,4
+tfidf_word_logreg,word,gì,1.8373951975241651,clickbait,1.8373951975241651,question/curiosity,5
+tfidf_word_logreg,word,ngờ,1.7100093114345176,clickbait,1.7100093114345176,surprise/emotion,6
+tfidf_word_logreg,word,không,1.6801841460422586,clickbait,1.6801841460422586,vague_reference,7
+tfidf_word_logreg,word,con,1.6250080736656904,clickbait,1.6250080736656904,other,8
+tfidf_word_logreg,word,ăn,1.5770308143512413,clickbait,1.5770308143512413,other,9
+tfidf_word_logreg,word,khiến,1.5047381302988387,clickbait,1.5047381302988387,vague_reference,10
+tfidf_word_logreg,word,của,1.486836711128272,clickbait,1.486836711128272,other,11
+tfidf_word_logreg,word,bất ngờ,1.485292164259033,clickbait,1.485292164259033,surprise/emotion,12
+tfidf_word_logreg,word,lộ,1.4399812339283211,clickbait,1.4399812339283211,other,13
+tfidf_word_logreg,word,vì,1.4345327021698553,clickbait,1.4345327021698553,other,14
+tfidf_word_logreg,word,là,1.430154422804503,clickbait,1.430154422804503,vague_reference,15
+tfidf_word_logreg,word,gây,1.3645635875498308,clickbait,1.3645635875498308,other,16
+tfidf_word_logreg,word,như,1.3134973391284546,clickbait,1.3134973391284546,other,17
+tfidf_word_logreg,word,cũng,1.304322830124966,clickbait,1.304322830124966,other,18
+tfidf_word_logreg,word,khi,1.2437262266894649,clickbait,1.2437262266894649,other,19
+tfidf_word_logreg,word,phải,1.2337688641372102,clickbait,1.2337688641372102,other,20
+tfidf_word_logreg,word,vợ,1.204459532254123,clickbait,1.204459532254123,other,21
+tfidf_word_logreg,word,này,1.1583272228035588,clickbait,1.1583272228035588,vague_reference,22
+tfidf_word_logreg,word,bạn,1.1186779398851996,clickbait,1.1186779398851996,other,23
+tfidf_word_logreg,word,làm,1.0997142424300737,clickbait,1.0997142424300737,other,24
+tfidf_word_logreg,word,nhưng,1.0865475992597615,clickbait,1.0865475992597615,other,25
+tfidf_word_logreg,word,trên,1.0527177016186873,clickbait,1.0527177016186873,other,26
+tfidf_word_logreg,word,sốc,1.0187939898176317,clickbait,1.0187939898176317,surprise/emotion,27
+tfidf_word_logreg,word,người,1.0186388732046177,clickbait,1.0186388732046177,other,28
+tfidf_word_logreg,word,đi,1.0140155008559222,clickbait,1.0140155008559222,other,29
+tfidf_word_logreg,word,chuyện,1.0107969156526992,clickbait,1.0107969156526992,other,30
+tfidf_word_logreg,word,ẩn,1.0031569789788932,clickbait,1.0031569789788932,other,31
+tfidf_word_logreg,word,clip,0.9814509427985134,clickbait,0.9814509427985134,other,32
+tfidf_word_logreg,word,nhờ,0.97907601018769,clickbait,0.97907601018769,other,33
+tfidf_word_logreg,word,phim,0.9628723338634292,clickbait,0.9628723338634292,other,34
+tfidf_word_logreg,word,tay,0.9609428603102276,clickbait,0.9609428603102276,other,35
+tfidf_word_logreg,word,hôn,0.9550966105220904,clickbait,0.9550966105220904,other,36
+tfidf_word_logreg,word,vì sao,0.9475495795004916,clickbait,0.9475495795004916,question/curiosity,37
+tfidf_word_logreg,word,phẩm,0.9472266727998596,clickbait,0.9472266727998596,other,38
+tfidf_word_logreg,word,hé,0.9429399636448594,clickbait,0.9429399636448594,other,39
+tfidf_word_logreg,word,hé lộ,0.9429399636448594,clickbait,0.9429399636448594,other,40
+tfidf_word_logreg,word,thế,0.9401334168579842,clickbait,0.9401334168579842,other,41
+tfidf_word_logreg,word,phụ,0.9203079026863504,clickbait,0.9203079026863504,other,42
+tfidf_word_logreg,word,cái,0.91817635482867,clickbait,0.91817635482867,other,43
+tfidf_word_logreg,word,mật,0.9176586892886868,clickbait,0.9176586892886868,other,44
+tfidf_word_logreg,word,ra sao,0.9169446334430076,clickbait,0.9169446334430076,other,45
+tfidf_word_logreg,word,mang,0.9104319405468816,clickbait,0.9104319405468816,other,46
+tfidf_word_logreg,word,thực,0.9064203270409232,clickbait,0.9064203270409232,other,47
+tfidf_word_logreg,word,vô,0.8871773067738067,clickbait,0.8871773067738067,other,48
+tfidf_word_logreg,word,câu,0.8793977217883757,clickbait,0.8793977217883757,other,49
+tfidf_word_logreg,word,uống,0.87886554372297,clickbait,0.87886554372297,other,50
+tfidf_word_logreg,word,từng,0.874630763409742,clickbait,0.874630763409742,other,51
+tfidf_word_logreg,word,nên,0.8740475441062721,clickbait,0.8740475441062721,other,52
+tfidf_word_logreg,word,quen,0.8661255363338847,clickbait,0.8661255363338847,other,53
+tfidf_word_logreg,word,kg,0.8660268772432598,clickbait,0.8660268772432598,other,54
+tfidf_word_logreg,word,tiết lộ,0.8654879174506164,clickbait,0.8654879174506164,other,55
+tfidf_word_logreg,word,đời,0.8625941991829598,clickbait,0.8625941991829598,other,56
+tfidf_word_logreg,word,thực phẩm,0.8534868563448238,clickbait,0.8534868563448238,other,57
+tfidf_word_logreg,word,sự,0.852132755867591,clickbait,0.852132755867591,other,58
+tfidf_word_logreg,word,chê,0.847697899608299,clickbait,0.847697899608299,other,59
+tfidf_word_logreg,word,tiền,0.8429303018952227,clickbait,0.8429303018952227,other,60
+tfidf_word_logreg,word,cô,0.8420251943309742,clickbait,0.8420251943309742,other,61
+tfidf_word_logreg,word,được,0.8359727507598239,clickbait,0.8359727507598239,other,62
+tfidf_word_logreg,word,lý do,0.835273903832553,clickbait,0.835273903832553,other,63
+tfidf_word_logreg,word,ngồi,0.8319244833201643,clickbait,0.8319244833201643,other,64
+tfidf_word_logreg,word,saostar,0.8020499755381982,clickbait,0.8020499755381982,other,65
+tfidf_word_logreg,word,chí saostar,0.8020499755381982,clickbait,0.8020499755381982,other,66
+tfidf_word_logreg,word,sốt,0.7988154406395404,clickbait,0.7988154406395404,other,67
+tfidf_word_logreg,word,nữ,0.7970215987481614,clickbait,0.7970215987481614,other,68
+tfidf_word_logreg,word,đám,0.7958696421957387,clickbait,0.7958696421957387,other,69
+tfidf_word_logreg,word,gây sốt,0.7893812294018604,clickbait,0.7893812294018604,surprise/emotion,70
+tfidf_word_logreg,word,gái,0.7893598855354033,clickbait,0.7893598855354033,other,71
+tfidf_word_logreg,word,tình,0.7836799334128473,clickbait,0.7836799334128473,other,72
+tfidf_word_logreg,word,tuổi,0.7836710079469479,clickbait,0.7836710079469479,other,73
+tfidf_word_logreg,word,diễn viên,0.7836498835330903,clickbait,0.7836498835330903,other,74
+tfidf_word_logreg,word,thói quen,0.7832226951727758,clickbait,0.7832226951727758,other,75
+tfidf_word_logreg,word,thói,0.7832226951727758,clickbait,0.7832226951727758,other,76
+tfidf_word_logreg,word,nói,0.7808684116064125,clickbait,0.7808684116064125,other,77
+tfidf_word_logreg,word,bầu,0.7752671638224458,clickbait,0.7752671638224458,other,78
+tfidf_word_logreg,word,chồng,0.7737572146016816,clickbait,0.7737572146016816,other,79
+tfidf_word_logreg,word,bỏ,0.7726394360489544,clickbait,0.7726394360489544,other,80
+tfidf_word_logreg,word,thế giới,0.7723058619819255,clickbait,0.7723058619819255,other,81
+tfidf_word_logreg,word,phụ nữ,0.7668156009622747,clickbait,0.7668156009622747,other,82
+tfidf_word_logreg,word,bí,0.7648286284628081,clickbait,0.7648286284628081,other,83
+tfidf_word_logreg,word,hàn,0.7589778667671896,clickbait,0.7589778667671896,other,84
+tfidf_word_logreg,word,chưa từng,0.7573561933473477,clickbait,0.7573561933473477,other,85
+tfidf_word_logreg,word,sĩ,0.7397898348703478,clickbait,0.7397898348703478,other,86
+tfidf_word_logreg,word,bí mật,0.7366963767925435,clickbait,0.7366963767925435,other,87
+tfidf_word_logreg,word,cãi,0.7361051388736243,clickbait,0.7361051388736243,other,88
+tfidf_word_logreg,word,lịch sử,0.7327493267968912,clickbait,0.7327493267968912,other,89
+tfidf_word_logreg,word,cỏ,0.7309909182365156,clickbait,0.7309909182365156,other,90
+tfidf_word_logreg,word,lạ,0.727648441650805,clickbait,0.727648441650805,other,91
+tfidf_word_logreg,word,cô gái,0.7238979406697753,clickbait,0.7238979406697753,other,92
+tfidf_word_logreg,word,game,0.7220778174876765,clickbait,0.7220778174876765,other,93
+tfidf_word_logreg,word,dragon,0.7181217785504869,clickbait,0.7181217785504869,other,94
+tfidf_word_logreg,word,món,0.7168855845821748,clickbait,0.7168855845821748,other,95
+tfidf_word_logreg,word,bằng,0.7103631708446172,clickbait,0.7103631708446172,other,96
+tfidf_word_logreg,word,cưới,0.7094663928924707,clickbait,0.7094663928924707,other,97
+tfidf_word_logreg,word,trước,0.7018876856893403,clickbait,0.7018876856893403,other,98
+tfidf_word_logreg,word,ông lớn,0.7017195167747039,clickbait,0.7017195167747039,other,99
+tfidf_word_logreg,word,dậy,0.6958649493987685,clickbait,0.6958649493987685,other,100
+tfidf_word_logreg,word,báo,-1.7445143575106312,non_clickbait,1.7445143575106312,official/news,1
+tfidf_word_logreg,word,2025,-1.6198975406230156,non_clickbait,1.6198975406230156,entity/event,2
+tfidf_word_logreg,word,công,-1.6044413049540969,non_clickbait,1.6044413049540969,official/news,3
+tfidf_word_logreg,word,bộ,-1.562368639323098,non_clickbait,1.562368639323098,official/news,4
+tfidf_word_logreg,word,án,-1.4920957903564642,non_clickbait,1.4920957903564642,official/news,5
+tfidf_word_logreg,word,hội,-1.415903932041462,non_clickbait,1.415903932041462,official/news,6
+tfidf_word_logreg,word,điểm,-1.1695724010656596,non_clickbait,1.1695724010656596,other,7
+tfidf_word_logreg,word,báo chí,-1.132387155512001,non_clickbait,1.132387155512001,official/news,8
+tfidf_word_logreg,word,thông,-1.083039518073278,non_clickbait,1.083039518073278,other,9
+tfidf_word_logreg,word,từ,-1.0826799077000764,non_clickbait,1.0826799077000764,other,10
+tfidf_word_logreg,word,vụ,-1.0662276386016498,non_clickbait,1.0662276386016498,official/news,11
+tfidf_word_logreg,word,nước,-1.0657338652573627,non_clickbait,1.0657338652573627,other,12
+tfidf_word_logreg,word,thi,-1.052453557116289,non_clickbait,1.052453557116289,other,13
+tfidf_word_logreg,word,tướng,-1.0433163181525025,non_clickbait,1.0433163181525025,other,14
+tfidf_word_logreg,word,tế,-0.9592167974636968,non_clickbait,0.9592167974636968,other,15
+tfidf_word_logreg,word,thủ tướng,-0.9428143505863864,non_clickbait,0.9428143505863864,official/news,16
+tfidf_word_logreg,word,mới,-0.9262595107850268,non_clickbait,0.9262595107850268,other,17
+tfidf_word_logreg,word,hợp,-0.902297158222802,non_clickbait,0.902297158222802,other,18
+tfidf_word_logreg,word,mới nhất,-0.8727581899017522,non_clickbait,0.8727581899017522,other,19
+tfidf_word_logreg,word,quy,-0.8676634578354205,non_clickbait,0.8676634578354205,other,20
+tfidf_word_logreg,word,xã,-0.8658791274152287,non_clickbait,0.8658791274152287,other,21
+tfidf_word_logreg,word,vận,-0.834853112258831,non_clickbait,0.834853112258831,other,22
+tfidf_word_logreg,word,chí,-0.8338080665818256,non_clickbait,0.8338080665818256,other,23
+tfidf_word_logreg,word,an,-0.8327846034886338,non_clickbait,0.8327846034886338,other,24
+tfidf_word_logreg,word,bắc,-0.8324877370173791,non_clickbait,0.8324877370173791,other,25
+tfidf_word_logreg,word,đà nẵng,-0.8300266824825473,non_clickbait,0.8300266824825473,other,26
+tfidf_word_logreg,word,nẵng,-0.8300266824825473,non_clickbait,0.8300266824825473,other,27
+tfidf_word_logreg,word,nhật,-0.8052783483032652,non_clickbait,0.8052783483032652,other,28
+tfidf_word_logreg,word,chức,-0.8017657850684171,non_clickbait,0.8017657850684171,other,29
+tfidf_word_logreg,word,cơ,-0.7944679516250917,non_clickbait,0.7944679516250917,other,30
+tfidf_word_logreg,word,khởi,-0.7932015946139905,non_clickbait,0.7932015946139905,other,31
+tfidf_word_logreg,word,khu,-0.7868892447401804,non_clickbait,0.7868892447401804,other,32
+tfidf_word_logreg,word,dẫn,-0.7815911992170065,non_clickbait,0.7815911992170065,other,33
+tfidf_word_logreg,word,21,-0.7742019344195185,non_clickbait,0.7742019344195185,entity/event,34
+tfidf_word_logreg,word,hành,-0.7723523355617969,non_clickbait,0.7723523355617969,other,35
+tfidf_word_logreg,word,lớp,-0.7683207464787705,non_clickbait,0.7683207464787705,other,36
+tfidf_word_logreg,word,trung,-0.7592056288479259,non_clickbait,0.7592056288479259,other,37
+tfidf_word_logreg,word,kế,-0.758467261038826,non_clickbait,0.758467261038826,other,38
+tfidf_word_logreg,word,quốc,-0.7506811098810329,non_clickbait,0.7506811098810329,other,39
+tfidf_word_logreg,word,triển,-0.7424838345013755,non_clickbait,0.7424838345013755,other,40
+tfidf_word_logreg,word,phân,-0.7337440268362814,non_clickbait,0.7337440268362814,other,41
+tfidf_word_logreg,word,lãnh,-0.731777805455132,non_clickbait,0.731777805455132,other,42
+tfidf_word_logreg,word,xếp,-0.7285470344854875,non_clickbait,0.7285470344854875,other,43
+tfidf_word_logreg,word,chính,-0.7228891152109581,non_clickbait,0.7228891152109581,other,44
+tfidf_word_logreg,word,mưa,-0.7227407560160136,non_clickbait,0.7227407560160136,other,45
+tfidf_word_logreg,word,tp,-0.7157262947153239,non_clickbait,0.7157262947153239,other,46
+tfidf_word_logreg,word,đà,-0.7150174161454105,non_clickbait,0.7150174161454105,other,47
+tfidf_word_logreg,word,xuất,-0.7106560726187078,non_clickbait,0.7106560726187078,other,48
+tfidf_word_logreg,word,hôm,-0.7071715533458495,non_clickbait,0.7071715533458495,other,49
+tfidf_word_logreg,word,hôm nay,-0.7071715533458495,non_clickbait,0.7071715533458495,other,50
+tfidf_word_logreg,word,đấu,-0.7033691480506723,non_clickbait,0.7033691480506723,other,51
+tfidf_word_logreg,word,xét,-0.6901191135176517,non_clickbait,0.6901191135176517,other,52
+tfidf_word_logreg,word,dự,-0.6888126169625124,non_clickbait,0.6888126169625124,other,53
+tfidf_word_logreg,word,mắt,-0.6870621764713134,non_clickbait,0.6870621764713134,other,54
+tfidf_word_logreg,word,cấp,-0.6818036481922045,non_clickbait,0.6818036481922045,other,55
+tfidf_word_logreg,word,du,-0.6768326043559335,non_clickbait,0.6768326043559335,other,56
+tfidf_word_logreg,word,hạ,-0.673092486094636,non_clickbait,0.673092486094636,other,57
+tfidf_word_logreg,word,vinh,-0.6677670414031538,non_clickbait,0.6677670414031538,other,58
+tfidf_word_logreg,word,thái,-0.6667004592808506,non_clickbait,0.6667004592808506,other,59
+tfidf_word_logreg,word,tháng,-0.6628305069612319,non_clickbait,0.6628305069612319,other,60
+tfidf_word_logreg,word,thắng,-0.660121817786513,non_clickbait,0.660121817786513,other,61
+tfidf_word_logreg,word,giải,-0.6599809787349773,non_clickbait,0.6599809787349773,other,62
+tfidf_word_logreg,word,nghiệm,-0.6546288158824524,non_clickbait,0.6546288158824524,other,63
+tfidf_word_logreg,word,đâm,-0.6497048330796849,non_clickbait,0.6497048330796849,other,64
+tfidf_word_logreg,word,cán bộ,-0.6443953483953032,non_clickbait,0.6443953483953032,other,65
+tfidf_word_logreg,word,năng,-0.6428175838325403,non_clickbait,0.6428175838325403,other,66
+tfidf_word_logreg,word,rộng,-0.6422326917246227,non_clickbait,0.6422326917246227,other,67
+tfidf_word_logreg,word,trí,-0.6378827489771931,non_clickbait,0.6378827489771931,other,68
+tfidf_word_logreg,word,phiên,-0.6371508569671148,non_clickbait,0.6371508569671148,other,69
+tfidf_word_logreg,word,in,-0.634746464169697,non_clickbait,0.634746464169697,other,70
+tfidf_word_logreg,word,tổ,-0.6333488964353569,non_clickbait,0.6333488964353569,other,71
+tfidf_word_logreg,word,tra,-0.6296817355907542,non_clickbait,0.6296817355907542,other,72
+tfidf_word_logreg,word,công an,-0.6286670299495494,non_clickbait,0.6286670299495494,other,73
+tfidf_word_logreg,word,thái lan,-0.6285965077581618,non_clickbait,0.6285965077581618,other,74
+tfidf_word_logreg,word,áp,-0.6275512832309533,non_clickbait,0.6275512832309533,other,75
+tfidf_word_logreg,word,hạng,-0.625752195216127,non_clickbait,0.625752195216127,other,76
+tfidf_word_logreg,word,não,-0.623190464972893,non_clickbait,0.623190464972893,other,77
+tfidf_word_logreg,word,triệu đồng,-0.6188967442468757,non_clickbait,0.6188967442468757,other,78
+tfidf_word_logreg,word,ra mắt,-0.6154265524412234,non_clickbait,0.6154265524412234,other,79
+tfidf_word_logreg,word,lịch,-0.6151019052805916,non_clickbait,0.6151019052805916,other,80
+tfidf_word_logreg,word,phường,-0.6123780116298915,non_clickbait,0.6123780116298915,other,81
+tfidf_word_logreg,word,bắt,-0.6080626751852413,non_clickbait,0.6080626751852413,other,82
+tfidf_word_logreg,word,cứu,-0.6062156913026401,non_clickbait,0.6062156913026401,other,83
+tfidf_word_logreg,word,ngành,-0.605314228188589,non_clickbait,0.605314228188589,other,84
+tfidf_word_logreg,word,trợ,-0.6047014421055242,non_clickbait,0.6047014421055242,other,85
+tfidf_word_logreg,word,nguy kịch,-0.6041672970724223,non_clickbait,0.6041672970724223,other,86
+tfidf_word_logreg,word,vào,-0.601505617949332,non_clickbait,0.601505617949332,other,87
+tfidf_word_logreg,word,bảng,-0.6010001817548746,non_clickbait,0.6010001817548746,other,88
+tfidf_word_logreg,word,cán,-0.6005994465612776,non_clickbait,0.6005994465612776,other,89
+tfidf_word_logreg,word,tăng,-0.6005903679142907,non_clickbait,0.6005903679142907,other,90
+tfidf_word_logreg,word,vinfast,-0.6002045702613485,non_clickbait,0.6002045702613485,other,91
+tfidf_word_logreg,word,nội,-0.59963071102787,non_clickbait,0.59963071102787,other,92
+tfidf_word_logreg,word,kinh tế,-0.5985870596370476,non_clickbait,0.5985870596370476,other,93
+tfidf_word_logreg,word,lượng,-0.5982658613007231,non_clickbait,0.5982658613007231,other,94
+tfidf_word_logreg,word,tại,-0.5972750864678354,non_clickbait,0.5972750864678354,other,95
+tfidf_word_logreg,word,đồng,-0.5935082873556514,non_clickbait,0.5935082873556514,other,96
+tfidf_word_logreg,word,nghị,-0.5927116949446745,non_clickbait,0.5927116949446745,other,97
+tfidf_word_logreg,word,thảo,-0.5913117659222796,non_clickbait,0.5913117659222796,other,98
+tfidf_word_logreg,word,danh,-0.5912524534487984,non_clickbait,0.5912524534487984,other,99
+tfidf_word_logreg,word,lập,-0.5909985045548047,non_clickbait,0.5909985045548047,other,100
