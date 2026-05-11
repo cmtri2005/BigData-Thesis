@@ -1,0 +1,7 @@
+model,avg_heldout_macro_f1
+baseline_word_title,0.711638538882624
+7.1_word_title_lead,0.715926013865505
+7.2_char_title,0.6927948859771751
+7.2_word_char_title,0.710002062104812
+7.3_word_title_lexical,0.7214660300665536
+7.4_word_title_no_source_cues,0.6937726518591614
