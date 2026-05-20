@@ -1,0 +1,4 @@
+protocol,split,n_total,n_clickbait,n_non_clickbait,clickbait_rate,share_of_dataset
+random_group_stratified_70_10_20,train,2389,745,1644,31.18,69.98
+random_group_stratified_70_10_20,validation,342,107,235,31.29,10.02
+random_group_stratified_70_10_20,test,683,213,470,31.19,20.01

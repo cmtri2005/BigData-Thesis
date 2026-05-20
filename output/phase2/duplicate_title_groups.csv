@@ -1,0 +1,95 @@
+duplicate_group,normalized_title,group_size,cross_source,cross_label,id,title,label,label_str,source,category,original_split
+g00153,ai,2,0,0,article_2739,AI - công cụ mới của phóng viên - Báo Hải Dương,0,Non-clickbait,Báo Mới,Other,train
+g00153,ai,2,0,0,article_2969,AI - Một góc nhìn khác từ truyền thống Do Thái - Tạp chí nghiên cứu Phật học,0,Non-clickbait,Báo Mới,Công nghệ & Khoa học,train
+g00200,"bayern munich tung chiêu, quyết vượt barca ký nico williams",2,1,1,article_0939,"Bayern Munich tung chiêu, quyết vượt Barca ký Nico Williams",0,Non-clickbait,VietNamNet,Thể thao,train
+g00200,"bayern munich tung chiêu, quyết vượt barca ký nico williams",2,1,1,article_1955,"Bayern Munich tung chiêu, quyết vượt Barca ký Nico Williams - Báo VietnamNet",1,Clickbait,Báo Mới,Thể thao,train
+g00298,bí thư bà rịa,2,1,0,article_0136,Bí thư Bà Rịa - Vũng Tàu nói lời 'gan ruột' trước thời khắc sáp nhập với TPHCM,0,Non-clickbait,VietNamNet,Chính trị & An ninh,test
+g00298,bí thư bà rịa,2,1,0,article_1337,Bí thư Bà Rịa - Vũng Tàu gửi thông điệp đến đội ngũ cán bộ trước thềm hợp nhất vào TP.HCM - Tạp chí Doanh nhân Sài Gòn,0,Non-clickbait,Báo Mới,Other,train
+g00487,chiêu trò khiến sữa hiup giả vẫn bán chạy dù giá cao ngất ngưởng,2,1,0,article_2080,Chiêu trò khiến sữa HIUP giả vẫn bán chạy dù giá cao ngất ngưởng,1,Clickbait,VietNamNet,Sức khỏe & Đời sống,train
+g00487,chiêu trò khiến sữa hiup giả vẫn bán chạy dù giá cao ngất ngưởng,2,1,0,article_2443,Chiêu trò khiến sữa HIUP giả vẫn bán chạy dù giá cao ngất ngưởng - Báo VietnamNet,1,Clickbait,Báo Mới,Other,train
+g00553,"chóng mặt, buồn nôn khi đi xe điện: khoa học nói gì?",2,1,0,article_2885,"Chóng mặt, buồn nôn khi đi xe điện: Khoa học nói gì?",1,Clickbait,VietNamNet,Xe & Vận tải,validation
+g00553,"chóng mặt, buồn nôn khi đi xe điện: khoa học nói gì?",2,1,0,article_2966,"Chóng mặt, buồn nôn khi đi xe điện: Khoa học nói gì? - Báo VietnamNet",1,Clickbait,Báo Mới,Công nghệ & Khoa học,train
+g00611,clb đà nẵng muốn đổi sân đá play-off với bình phước,2,1,0,article_0242,CLB Đà Nẵng muốn đổi sân đá play-off với Bình Phước - Báo VietnamNet,0,Non-clickbait,Báo Mới,Thể thao,test
+g00611,clb đà nẵng muốn đổi sân đá play-off với bình phước,2,1,0,article_0940,CLB Đà Nẵng muốn đổi sân đá play-off với Bình Phước,0,Non-clickbait,VietNamNet,Thể thao,train
+g00716,công an hà nội khởi tố tiktoker vũ hồng phúc cún bông,2,1,0,article_2429,Công an Hà Nội khởi tố Tiktoker Vũ Hồng Phúc 'Cún Bông' - Báo Tiền Phong,0,Non-clickbait,Báo Mới,Chính trị & An ninh,train
+g00716,công an hà nội khởi tố tiktoker vũ hồng phúc cún bông,2,1,0,article_3690,Công an Hà Nội khởi tố Tiktoker Vũ Hồng Phúc 'Cún Bông',0,Non-clickbait,24h,Tin tức tổng hợp,train
+g00894,"dù có cơ chế miễn trách nhiệm, cán bộ xử lý việc phức tạp, nhạy cảm vẫn lo lắng",2,1,0,article_0113,"Dù có cơ chế miễn trách nhiệm, cán bộ xử lý việc phức tạp, nhạy cảm vẫn lo lắng",0,Non-clickbait,VietNamNet,Chính trị & An ninh,train
+g00894,"dù có cơ chế miễn trách nhiệm, cán bộ xử lý việc phức tạp, nhạy cảm vẫn lo lắng",2,1,0,article_0810,"Dù có cơ chế miễn trách nhiệm, cán bộ xử lý việc phức tạp, nhạy cảm vẫn lo lắng - Báo VietnamNet",0,Non-clickbait,Báo Mới,Tin tức tổng hợp,train
+g00972,g-dragon cảm ơn hà nội,2,1,0,article_2206,G-Dragon cảm ơn Hà Nội - Báo Tiền Phong,0,Non-clickbait,Báo Mới,Other,train
+g00972,g-dragon cảm ơn hà nội,2,1,0,article_3162,G-Dragon cảm ơn Hà Nội,0,Non-clickbait,24h,Giải trí & Showbiz,test
+g01036,"giá xe ga honda vario 125 cuối tháng 6/2025, ưu đãi tiền triệu",2,1,0,article_3435,"Giá xe ga Honda Vario 125 cuối tháng 6/2025, ưu đãi tiền triệu",0,Non-clickbait,24h,Xe & Vận tải,train
+g01036,"giá xe ga honda vario 125 cuối tháng 6/2025, ưu đãi tiền triệu",2,1,0,article_3484,"Giá xe ga Honda Vario 125 cuối tháng 6/2025, ưu đãi tiền triệu - Tạp chí Người Đưa Tin",0,Non-clickbait,Báo Mới,Xe & Vận tải,train
+g01063,"giải thể 44 bộ chỉ huy bộ đội biên phòng các tỉnh, thành phố",2,1,0,article_0130,"Giải thể 44 Bộ chỉ huy Bộ đội Biên phòng các tỉnh, thành phố",0,Non-clickbait,VietNamNet,Chính trị & An ninh,test
+g01063,"giải thể 44 bộ chỉ huy bộ đội biên phòng các tỉnh, thành phố",2,1,0,article_0381,"Giải thể 44 bộ chỉ huy Bộ đội biên phòng các tỉnh, thành phố",0,Non-clickbait,Thanh Niên,Other,train
+g01097,"gặp mưa to bất chợt, lái xe cần nằm lòng 6 quy tắc sống còn sau để đảm bảo an toàn",2,1,0,article_2888,"Gặp mưa to bất chợt, lái xe cần nằm lòng 6 quy tắc sống còn sau để đảm bảo an toàn",1,Clickbait,VietNamNet,Xe & Vận tải,test
+g01097,"gặp mưa to bất chợt, lái xe cần nằm lòng 6 quy tắc sống còn sau để đảm bảo an toàn",2,1,0,article_3509,"Gặp mưa to bất chợt, lái xe cần nằm lòng 6 quy tắc sống còn sau để đảm bảo an toàn - Báo VietnamNet",1,Clickbait,Báo Mới,Xe & Vận tải,train
+g01248,"hải sản kỳ dị ở thanh hóa ăn giòn như bào ngư, bắt vài tiếng được cả cân",2,1,0,article_1100,"Hải sản kỳ dị ở Thanh Hóa ăn giòn như bào ngư, bắt vài tiếng được cả cân - Báo VietnamNet",1,Clickbait,Báo Mới,Other,train
+g01248,"hải sản kỳ dị ở thanh hóa ăn giòn như bào ngư, bắt vài tiếng được cả cân",2,1,0,article_3406,"Hải sản kỳ dị ở Thanh Hóa ăn giòn như bào ngư, bắt vài tiếng được cả cân",1,Clickbait,VietNamNet,Du lịch & Ẩm thực,train
+g01294,iphone 17 pro max có thêm xác nhận tính năng cao cấp,2,1,0,article_2333,iPhone 17 Pro Max có thêm xác nhận tính năng cao cấp,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,train
+g01294,iphone 17 pro max có thêm xác nhận tính năng cao cấp,2,1,0,article_2707,iPhone 17 Pro Max có thêm xác nhận tính năng cao cấp - Báo VietnamNet,0,Non-clickbait,Báo Mới,Other,test
+g01489,"lautaro martinez ghi tuyệt phẩm, inter milan thắng nhọc đội bóng châu á",2,1,0,article_0268,"Lautaro Martinez ghi tuyệt phẩm, Inter Milan thắng nhọc đội bóng châu Á - Báo VietnamNet",0,Non-clickbait,Báo Mới,Thể thao,train
+g01489,"lautaro martinez ghi tuyệt phẩm, inter milan thắng nhọc đội bóng châu á",2,1,0,article_0965,"Lautaro Martinez ghi tuyệt phẩm, Inter Milan thắng nhọc đội bóng châu Á",0,Non-clickbait,VietNamNet,Thể thao,test
+g01547,lào cai,2,1,1,article_1775,"Lào Cai - Yên Bái sáp nhập, đã Sa Pa còn thêm Mù Cang Chải, đẹp ai chịu nổi?!",1,Clickbait,Tuổi Trẻ,Du lịch & Ẩm thực,train
+g01547,lào cai,2,1,1,article_2919,Lào Cai - Điểm đến cho tín đồ du lịch chậm hè 2025,0,Non-clickbait,SaoStar,Du lịch & Ẩm thực,train
+g01549,"lái xe đi nghỉ mát, cả gia đình được buổi xông hơi vì điều hòa ô tô giở chứng",2,1,1,article_2887,"Lái xe đi nghỉ mát, cả gia đình được buổi 'xông hơi' vì điều hòa ô tô giở chứng",1,Clickbait,VietNamNet,Xe & Vận tải,train
+g01549,"lái xe đi nghỉ mát, cả gia đình được buổi xông hơi vì điều hòa ô tô giở chứng",2,1,1,article_3276,"Lái xe đi nghỉ mát, cả gia đình được buổi 'xông hơi' vì điều hòa ô tô giở chứng - Báo VietnamNet",0,Non-clickbait,Báo Mới,Sức khỏe & Đời sống,test
+g01632,lời cảm ơn nhân ngày báo chí cách mạng việt nam 21/6/2025,2,1,0,article_0786,Lời cảm ơn nhân Ngày Báo chí Cách mạng Việt Nam 21/6/2025 - Báo VietnamNet,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,train
+g01632,lời cảm ơn nhân ngày báo chí cách mạng việt nam 21/6/2025,2,1,0,article_3528,Lời cảm ơn nhân Ngày Báo chí Cách mạng Việt Nam 21/6/2025,0,Non-clickbait,VietNamNet,Other,train
+g01646,"man city đánh tennis, đoạt vé sớm vào vòng 1/8 fifa club world cup",2,1,1,article_0229,"Man City 'đánh tennis', đoạt vé sớm vào vòng 1/8 FIFA Club World Cup - Báo VietnamNet",1,Clickbait,Báo Mới,Thể thao,train
+g01646,"man city đánh tennis, đoạt vé sớm vào vòng 1/8 fifa club world cup",2,1,1,article_0941,"Man City 'đánh tennis', đoạt vé sớm vào vòng 1/8 FIFA Club World Cup",0,Non-clickbait,VietNamNet,Thể thao,train
+g01690,"món rau dân dã giá vài nghìn đồng nhưng mát từ gan tới da, dinh dưỡng cực tốt",2,1,0,article_1866,"Món rau dân dã giá vài nghìn đồng nhưng mát từ gan tới da, dinh dưỡng cực tốt",1,Clickbait,SaoStar,Sức khỏe & Đời sống,train
+g01690,"món rau dân dã giá vài nghìn đồng nhưng mát từ gan tới da, dinh dưỡng cực tốt",2,1,0,article_3256,"Món rau dân dã giá vài nghìn đồng nhưng mát từ gan tới da, dinh dưỡng cực tốt - Tạp chí SaoStar",1,Clickbait,Báo Mới,Other,train
+g01736,một bệnh viện cầu cứu khi bị hacker đe dọa tung dữ liệu bệnh nhân lên mạng,2,1,1,article_2334,Một bệnh viện cầu cứu khi bị hacker đe dọa tung dữ liệu bệnh nhân lên mạng,0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,train
+g01736,một bệnh viện cầu cứu khi bị hacker đe dọa tung dữ liệu bệnh nhân lên mạng,2,1,1,article_2737,Một bệnh viện cầu cứu khi bị hacker đe dọa tung dữ liệu bệnh nhân lên mạng - Báo VietnamNet,1,Clickbait,Báo Mới,Other,validation
+g01745,một đơn vị hải quan mới quản lý sân bay tân sơn nhất và long thành,2,1,0,article_0662,Một đơn vị hải quan mới quản lý sân bay Tân Sơn Nhất và Long Thành,0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,validation
+g01745,một đơn vị hải quan mới quản lý sân bay tân sơn nhất và long thành,2,1,0,article_1370,Một đơn vị hải quan mới quản lý sân bay Tân Sơn Nhất và Long Thành - Báo VietnamNet,0,Non-clickbait,Báo Mới,Kinh doanh & Kinh tế,train
+g01755,mỹ ban bố cảnh báo toàn cầu với công dân sau vụ tấn công iran,2,1,0,article_0545,Mỹ ban bố 'cảnh báo toàn cầu' với công dân sau vụ tấn công Iran - Báo VietnamNet,0,Non-clickbait,Báo Mới,Quốc tế,train
+g01755,mỹ ban bố cảnh báo toàn cầu với công dân sau vụ tấn công iran,2,1,0,article_1502,Mỹ ban bố 'cảnh báo toàn cầu' với công dân sau vụ tấn công Iran,0,Non-clickbait,VietNamNet,Quốc tế,train
+g01811,nghiên cứu mới hé lộ sự thật bất ngờ về tuổi thọ pin xe điện,2,1,0,article_2727,Nghiên cứu mới hé lộ sự thật bất ngờ về tuổi thọ pin xe điện - Báo VietnamNet,1,Clickbait,Báo Mới,Công nghệ & Khoa học,test
+g01811,nghiên cứu mới hé lộ sự thật bất ngờ về tuổi thọ pin xe điện,2,1,0,article_2886,Nghiên cứu mới hé lộ sự thật bất ngờ về tuổi thọ pin xe điện,1,Clickbait,VietNamNet,Xe & Vận tải,train
+g01815,"nghề báo là nghề dấn thân, đòi hỏi những con người đặc biệt",2,1,0,article_1675,"Nghề báo là nghề dấn thân, đòi hỏi những con người đặc biệt - Báo VietnamNet",0,Non-clickbait,Báo Mới,Giáo dục & Học đường,train
+g01815,"nghề báo là nghề dấn thân, đòi hỏi những con người đặc biệt",2,1,0,article_2341,"Nghề báo là nghề dấn thân, đòi hỏi những con người đặc biệt",0,Non-clickbait,VietNamNet,Công nghệ & Khoa học,test
+g01938,nhà báo chiến trường,2,0,0,article_0065,Nhà báo chiến trường - ngòi bút giữa đạn bom - Kỳ 5: 'Nếu tôi hy sinh xin gửi cuốn phim về tòa soạn',0,Non-clickbait,Tuổi Trẻ,Other,train
+g01938,nhà báo chiến trường,2,0,0,article_0067,Nhà báo chiến trường - ngòi bút giữa đạn bom - Kỳ 4: Làm báo ở biên giới Việt - Trung,0,Non-clickbait,Tuổi Trẻ,Other,validation
+g01948,nhà sáng lập tesla đánh giá grok: quá nhiều nội dung vô dụng,2,1,0,article_2643,Nhà sáng lập Tesla đánh giá Grok: Quá nhiều nội dung vô dụng,0,Non-clickbait,SaoStar,Công nghệ & Khoa học,test
+g01948,nhà sáng lập tesla đánh giá grok: quá nhiều nội dung vô dụng,2,1,0,article_2722,Nhà sáng lập Tesla đánh giá Grok: Quá nhiều nội dung vô dụng - Tạp chí SaoStar,0,Non-clickbait,Báo Mới,Other,validation
+g01989,những món quà độc lạ tại lễ nhận bằng tốt nghiệp đại học,2,1,0,article_1244,Những món quà độc lạ tại lễ nhận bằng tốt nghiệp đại học,1,Clickbait,VietNamNet,Giáo dục & Học đường,train
+g01989,những món quà độc lạ tại lễ nhận bằng tốt nghiệp đại học,2,1,0,article_2171,Những món quà độc lạ tại lễ nhận bằng tốt nghiệp đại học - Báo VietnamNet,1,Clickbait,Báo Mới,Giải trí & Showbiz,train
+g02144,"phải đến khi anh long sang việt nam, nhiều người mới gật gù: sơn tùng quá giống g-dragon!",2,1,0,article_0695,"Phải đến khi “anh Long” sang Việt Nam, nhiều người mới gật gù: Sơn Tùng quá giống G-Dragon!",1,Clickbait,Kênh14,Giải trí & Showbiz,test
+g02144,"phải đến khi anh long sang việt nam, nhiều người mới gật gù: sơn tùng quá giống g-dragon!",2,1,0,article_3168,"Phải đến khi ""anh Long” sang Việt Nam, nhiều người mới gật gù: Sơn Tùng quá giống G-Dragon!",1,Clickbait,24h,Giải trí & Showbiz,train
+g02180,quyết định quá tàn bạo của hồng nhung,2,1,0,article_2169,Quyết định quá tàn bạo của Hồng Nhung - Báo Tiền Phong,1,Clickbait,Báo Mới,Giải trí & Showbiz,test
+g02180,quyết định quá tàn bạo của hồng nhung,2,1,0,article_3159,Quyết định quá tàn bạo của Hồng Nhung,1,Clickbait,24h,Giải trí & Showbiz,train
+g02230,redmi k90 pro sẽ có camera tele tiềm vọng chất lượng hàng đầu,2,1,0,article_2165,Redmi K90 Pro sẽ có camera tele tiềm vọng chất lượng hàng đầu,0,Non-clickbait,24h,Other,train
+g02230,redmi k90 pro sẽ có camera tele tiềm vọng chất lượng hàng đầu,2,1,0,article_2738,Redmi K90 Pro sẽ có camera tele tiềm vọng chất lượng hàng đầu - Tạp chí Người Đưa Tin,0,Non-clickbait,Báo Mới,Other,train
+g02249,rộ tin đồn lisa blackpink bí mật kết hôn với frédéric arnault,2,1,0,article_2187,Rộ tin đồn Lisa BLACKPINK bí mật kết hôn với Frédéric Arnault - Chuyên trang Hoa Học Trò - Báo Tiền Phong,1,Clickbait,Báo Mới,Giải trí & Showbiz,train
+g02249,rộ tin đồn lisa blackpink bí mật kết hôn với frédéric arnault,2,1,0,article_3161,Rộ tin đồn Lisa BLACKPINK bí mật kết hôn với Frédéric Arnault,1,Clickbait,24h,Giải trí & Showbiz,train
+g02350,sốc với album mới của aespa,2,1,0,article_0975,Sốc với album mới của aespa,1,Clickbait,SaoStar,Giải trí & Showbiz,validation
+g02350,sốc với album mới của aespa,2,1,0,article_2205,Sốc với album mới của aespa - Tạp chí SaoStar,1,Clickbait,Báo Mới,Other,train
+g02437,"thí sinh hoa hậu catwalk với đồ tái chế từ bao tải, diễn áo tắm rực lửa",2,1,0,article_2213,"Thí sinh hoa hậu catwalk với đồ tái chế từ bao tải, diễn áo tắm rực lửa - Báo VietnamNet",0,Non-clickbait,Báo Mới,Other,train
+g02437,"thí sinh hoa hậu catwalk với đồ tái chế từ bao tải, diễn áo tắm rực lửa",2,1,0,article_2675,"Thí sinh hoa hậu catwalk với đồ tái chế từ bao tải, diễn áo tắm rực lửa",0,Non-clickbait,24h,Other,test
+g02532,"tin tức về chuyển nhượng 23/6: mu lấy watkins, liverpool chốt isak",2,1,0,article_0938,"Tin tức về chuyển nhượng 23/6: MU lấy Watkins, Liverpool chốt Isak",0,Non-clickbait,VietNamNet,Thể thao,train
+g02532,"tin tức về chuyển nhượng 23/6: mu lấy watkins, liverpool chốt isak",2,1,0,article_1934,"Tin tức về chuyển nhượng 23/6: MU lấy Watkins, Liverpool chốt Isak - Báo VietnamNet",0,Non-clickbait,Báo Mới,Thể thao,validation
+g02746,tình thế đảo ngược với tiền vệ tuấn anh,2,1,1,article_0225,Tình thế đảo ngược với tiền vệ Tuấn Anh - Tạp chí SaoStar,1,Clickbait,Báo Mới,Thể thao,test
+g02746,tình thế đảo ngược với tiền vệ tuấn anh,2,1,1,article_1539,Tình thế đảo ngược với tiền vệ Tuấn Anh,0,Non-clickbait,SaoStar,Thể thao,train
+g02747,tình trạng của chồng khánh thi sau chấn thương ngoài ý muốn,2,1,1,article_0147,Tình trạng của chồng Khánh Thi sau chấn thương ngoài ý muốn,1,Clickbait,SaoStar,Giải trí & Showbiz,train
+g02747,tình trạng của chồng khánh thi sau chấn thương ngoài ý muốn,2,1,1,article_2201,Tình trạng của chồng Khánh Thi sau chấn thương ngoài ý muốn - Tạp chí SaoStar,0,Non-clickbait,Báo Mới,Giải trí & Showbiz,validation
+g02758,tòa án hiến pháp thái lan xem xét kiến nghị đình chỉ thủ tướng paetongtarn,2,1,0,article_0217,Tòa án Hiến pháp Thái Lan xem xét kiến nghị đình chỉ Thủ tướng Paetongtarn,0,Non-clickbait,24h,Quốc tế,train
+g02758,tòa án hiến pháp thái lan xem xét kiến nghị đình chỉ thủ tướng paetongtarn,2,1,0,article_0550,Tòa án Hiến pháp Thái Lan xem xét kiến nghị đình chỉ Thủ tướng Paetongtarn - Báo Tiền Phong,0,Non-clickbait,Báo Mới,Quốc tế,train
+g02814,tổng bí thư trao quyết định thành lập cơ quan ủy ban trung ương mttq việt nam,2,1,0,article_0006,Tổng Bí thư trao quyết định thành lập Cơ quan Ủy ban Trung ương MTTQ Việt Nam,0,Non-clickbait,VnExpress,Tin tức tổng hợp,train
+g02814,tổng bí thư trao quyết định thành lập cơ quan ủy ban trung ương mttq việt nam,2,1,0,article_0799,Tổng Bí thư trao quyết định thành lập Cơ quan Ủy ban Trung ương MTTQ Việt Nam - Báo Pháp Luật TP.HCM,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,train
+g02848,tử vi hằng ngày,2,0,0,article_1212,Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 23.6.2025,0,Non-clickbait,Thanh Niên,Other,train
+g02848,tử vi hằng ngày,2,0,0,article_1229,Tử vi hằng ngày - Xem tử vi vui 12 con giáp ngày 22.6.2025,0,Non-clickbait,Thanh Niên,Other,train
+g02881,"va chạm với xe đầu kéo, 4 cháu nhỏ đi chung trên 1 xe đạp điện thương vong",2,1,0,article_0391,"Va chạm với xe đầu kéo, 4 cháu nhỏ đi chung trên 1 xe đạp điện thương vong",0,Non-clickbait,VietNamNet,Tin tức tổng hợp,train
+g02881,"va chạm với xe đầu kéo, 4 cháu nhỏ đi chung trên 1 xe đạp điện thương vong",2,1,0,article_0807,"Va chạm với xe đầu kéo, 4 cháu nhỏ đi chung trên 1 xe đạp điện thương vong - Báo VietnamNet",0,Non-clickbait,Báo Mới,Other,test
+g02903,video tennis alcaraz,2,0,0,article_1898,Video tennis Alcaraz - Rinderknech: Đẳng cấp lên tiếng đúng lúc (Queen's Club),0,Non-clickbait,24h,Thể thao,test
+g02903,video tennis alcaraz,2,0,0,article_1901,"Video tennis Alcaraz - Munar: Kịch tính 3 giờ 23 phút, bản lĩnh ""tiểu Nadal"" (Queen's Club)",0,Non-clickbait,24h,Thể thao,train
+g03063,xung đột israel,2,0,0,article_0329,Xung đột Israel - Iran trưa 23-6: Lãnh tụ Iran lần đầu lên tiếng sau đợt không kích của Mỹ,0,Non-clickbait,Tuổi Trẻ,Quốc tế,train
+g03063,xung đột israel,2,0,0,article_0335,"Xung đột Israel - Iran: Công dân Việt Nam tại Iran được đưa sang Azerbaijan, 16 người đã về nước",0,Non-clickbait,Tuổi Trẻ,Quốc tế,train
+g03068,xuân trường mừng cho tuấn anh,2,1,1,article_0240,Xuân Trường mừng cho Tuấn Anh - Tạp chí SaoStar,1,Clickbait,Báo Mới,Thể thao,train
+g03068,xuân trường mừng cho tuấn anh,2,1,1,article_1538,Xuân Trường mừng cho Tuấn Anh,0,Non-clickbait,SaoStar,Thể thao,train
+g03124,ông lê thanh nam giữ chức chánh văn phòng ubnd tp hà nội,2,1,0,article_0390,Ông Lê Thanh Nam giữ chức Chánh Văn phòng UBND TP Hà Nội,0,Non-clickbait,VietNamNet,Tin tức tổng hợp,test
+g03124,ông lê thanh nam giữ chức chánh văn phòng ubnd tp hà nội,2,1,0,article_0808,Ông Lê Thanh Nam giữ chức Chánh Văn phòng UBND TP Hà Nội - Báo Giáo Dục & Thời Đại,0,Non-clickbait,Báo Mới,Tin tức tổng hợp,test
+g03169,điều kỳ diệu của đàm vĩnh hưng,2,1,0,article_0149,Điều kỳ diệu của Đàm Vĩnh Hưng,1,Clickbait,SaoStar,Giải trí & Showbiz,train
+g03169,điều kỳ diệu của đàm vĩnh hưng,2,1,0,article_2212,Điều kỳ diệu của Đàm Vĩnh Hưng - Tạp chí SaoStar,1,Clickbait,Báo Mới,Other,train
+g03346,"ưu đãi dành cho hộ kinh doanh, tiểu thương sử dụng loa tingting pvcombank",2,1,0,article_0672,"Ưu đãi dành cho hộ kinh doanh, tiểu thương sử dụng Loa TingTing PVcomBank",0,Non-clickbait,VietNamNet,Kinh doanh & Kinh tế,train
+g03346,"ưu đãi dành cho hộ kinh doanh, tiểu thương sử dụng loa tingting pvcombank",2,1,0,article_2712,"Ưu đãi dành cho hộ kinh doanh, tiểu thương sử dụng Loa TingTing PVcomBank - Báo VietnamNet",0,Non-clickbait,Báo Mới,Other,train

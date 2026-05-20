@@ -385,11 +385,11 @@ Nếu optional chưa đủ chắc, đưa vào Future Work.
 
 ### Sprint 1 - Làm benchmark sạch hơn
 
-- [ ] Tạo duplicate groups.
-- [ ] Audit duplicate leakage.
-- [ ] Tạo group-aware random split.
-- [ ] Rerun benchmark truyền thống trên group-aware split.
-- [ ] Viết comparison summary.
+- [x] Tạo duplicate groups.
+- [x] Audit duplicate leakage.
+- [x] Tạo group-aware random split.
+- [x] Rerun benchmark truyền thống trên group-aware split.
+- [x] Viết comparison summary.
 
 ### Sprint 2 - Đóng lỗ hổng robustness/shortcut
 
@@ -520,4 +520,3 @@ Nếu optional chưa đủ chắc, đưa vào Future Work.
 8. Có limitations thẳng thắn.
 9. Có README/reproducibility để người khác chạy lại.
 10. Có report/paper skeleton gom toàn bộ kết quả thành một câu chuyện nghiên cứu thống nhất.
-
